@@ -1,0 +1,39 @@
+{
+  "id": "saimondahal/life-expectancy-trends-for-males-and-females",
+  "id_no": 4365517,
+  "datasetSlugNullable": "life-expectancy-trends-for-males-and-females",
+  "ownerUserNullable": "saimondahal",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Life Expectancy Trends for Males and Females",
+  "subtitleNullable": "The Age-old question. Why do Women Live Longer than Men?",
+  "descriptionNullable": "This dataset explores the intriguing phenomenon of life expectancy disparity between genders across various countries spanning the years 1950 to 2020. Delving into the age-old statement that \"women live longer than men,\" this dataset provides insights into the evolving trends in life expectancy and population dynamics worldwide.\n\n**Dataset Glossary (Column-wise)**:\n\n- `Year`: The year of observation (1950-2020).\n- `Female Life Expectancy`: The average life expectancy at birth for females in a given year and country.\n- `Male Life Expectancy`: The average life expectancy at birth for males in a given year and country.\n- `Population`: The total population of the country in a given year.\n- `Life Expectancy Gap`: The difference between female and male life expectancy, highlighting the disparity between genders.\n\nThe dataset aims to facilitate comprehensive analyses regarding gender-based life expectancy disparities over time and across different nations. Researchers, policymakers, and analysts can utilize this dataset to explore patterns, identify contributing factors, and devise strategies to address gender-based health inequalities.\n\n**License** - This Dataset falls under the Creative Commons Attribution 3.0 IGO License. You can check the [Terms of Use](https://hdr.undp.org/terms-use) of this Data. If you want to learn more, visit the Website.\n\n**Acknowledgement**:\nImage :- [Freepik](https://www.freepik.com/free-vector/gender-equality-concept_8966746.htm#query=women%20vs%20men&position=3&from_view=search&track=ais&uuid=1c923fcb-32c3-433b-885a-2b9bc5e45422)",
+  "datasetId": 4365517,
+  "datasetSlug": "life-expectancy-trends-for-males-and-females",
+  "hasDatasetSlug": true,
+  "ownerUser": "saimondahal",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 4888,
+  "totalVotes": 36,
+  "totalDownloads": 1143,
+  "title": "Life Expectancy Trends for Males and Females",
+  "hasTitle": true,
+  "subtitle": "The Age-old question. Why do Women Live Longer than Men?",
+  "hasSubtitle": true,
+  "description": "This dataset explores the intriguing phenomenon of life expectancy disparity between genders across various countries spanning the years 1950 to 2020. Delving into the age-old statement that \"women live longer than men,\" this dataset provides insights into the evolving trends in life expectancy and population dynamics worldwide.\n\n**Dataset Glossary (Column-wise)**:\n\n- `Year`: The year of observation (1950-2020).\n- `Female Life Expectancy`: The average life expectancy at birth for females in a given year and country.\n- `Male Life Expectancy`: The average life expectancy at birth for males in a given year and country.\n- `Population`: The total population of the country in a given year.\n- `Life Expectancy Gap`: The difference between female and male life expectancy, highlighting the disparity between genders.\n\nThe dataset aims to facilitate comprehensive analyses regarding gender-based life expectancy disparities over time and across different nations. Researchers, policymakers, and analysts can utilize this dataset to explore patterns, identify contributing factors, and devise strategies to address gender-based health inequalities.\n\n**License** - This Dataset falls under the Creative Commons Attribution 3.0 IGO License. You can check the [Terms of Use](https://hdr.undp.org/terms-use) of this Data. If you want to learn more, visit the Website.\n\n**Acknowledgement**:\nImage :- [Freepik](https://www.freepik.com/free-vector/gender-equality-concept_8966746.htm#query=women%20vs%20men&position=3&from_view=search&track=ais&uuid=1c923fcb-32c3-433b-885a-2b9bc5e45422)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "social science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "other",
+      "name": "other",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}
