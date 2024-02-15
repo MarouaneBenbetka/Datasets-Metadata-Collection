@@ -6,18 +6,24 @@ from ..etl.data_loaders import load_multiple_json
 router = APIRouter()
 
 
+metadata_path = "app/static/temp_meta_data/"
+
+
 @router.get("/fill-db")
-async def fill_db(request: Request):
+async def fill_db(source: str = "kaggle"):
+    if source not in ["kaggle", "github", "uci", "hugging-face"]:
+        raise HTTPException(
+            status_code=400, detail="Invalid source")
+
     try:
-        # Assuming `request.app.db` is your database connection object
-        # and `request.app.db` has a cursor attribute you can use.
-        with open('app/static/data.json', 'r') as file:
+
+        with open(f'{metadata_path}clean/{source}.json', 'r') as file:
             data = json.load(file)
 
         # Execute your query
         await load_multiple_json(json.dumps(data))
 
-        return {"message": "Data inserted successfully."}
+        return {"message": f"{source} data inserted successfully."}
 
     except Exception as e:
         # Log the error or send it to an error tracking system

@@ -158,10 +158,9 @@ def clean_dataset(dataset):
 
     license = dataset.get("infos", {}).get("license", None)
     if license:
-        licenses_unique.add(license)
-        # clean_dataset["license"] = licenses_dict.get(
-        #     license, unknown_license
-        # )
+        clean_dataset["license"] = licenses_dict.get(
+            license, unknown_license
+        )
     else:
         clean_dataset["license"] = None
 

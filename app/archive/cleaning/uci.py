@@ -4,7 +4,7 @@ current_datetime = datetime.utcnow()
 formatted_date = current_datetime.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + "Z"
 
 source = {
-    "name": "UCI Machine Learning Repository",
+    "name": "UCI-ML-Repo",
     "url": "https://archive.ics.uci.edu/",
     "description": "The UCI Machine Learning Repository is a collection of databases, domain theories, and data generators widely used by the machine learning community, providing a diverse range of datasets for research and experimentation in various fields of artificial intelligence and data science."
 }
