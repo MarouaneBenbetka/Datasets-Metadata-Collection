@@ -1,4 +1,4 @@
-from fastapi import HTTPException, Security
+from fastapi import HTTPException, Security, Depends, status
 from fastapi.security import OAuth2PasswordBearer
 import bcrypt
 from ..db_config import run_query
@@ -34,6 +34,7 @@ def create_access_token(username: str, expires_delta: timedelta = None):
 
 
 def verify_token(token: str = Security(oauth2_scheme)) -> str:
+    print("token", token)
     credentials_exception = HTTPException(
         status_code=403,
         detail="Could not validate credentials",

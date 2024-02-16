@@ -1,5 +1,7 @@
 from datetime import datetime
-import json
+from app.utils.cleaning import generate_tags
+
+
 current_datetime = datetime.utcnow()
 formatted_date = current_datetime.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + "Z"
 
@@ -82,7 +84,8 @@ def clean_github_dataset(dataset):
         }
     ]
 
-    clean_dataset["tags"] = dataset.get("topics", [])
+    tags = generate_tags(clean_dataset["title"])
+    clean_dataset["tags"] = tags
 
     license = dataset.get("license", None)
     if license and license.get("name", "other").lower() != "other":

@@ -1,5 +1,6 @@
 from datetime import datetime
-import json
+from app.utils.cleaning import generate_tags
+
 current_datetime = datetime.utcnow()
 formatted_date = current_datetime.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + "Z"
 
@@ -61,8 +62,8 @@ def clean_uci_dataset(dataset):
     clean_dataset["features"] = features
 
     tasks = dataset.get("tasks", [])
-
-    clean_dataset["tags"] = tasks
+    tags = generate_tags(clean_dataset["title"])
+    clean_dataset["tags"] = tasks + tags
     clean_dataset["useCases"] = tasks
     clean_dataset["issues"] = []
 

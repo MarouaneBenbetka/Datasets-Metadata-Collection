@@ -1,6 +1,7 @@
 from fastapi import APIRouter, Request, HTTPException
 import json
 from ..etl.data_cleaners import clean_uci_dataset, clean_github_dataset, clean_hugging_face_dataset, clean_kaggle_dataset
+from ..utils.jwt import verify_token
 
 
 router = APIRouter()

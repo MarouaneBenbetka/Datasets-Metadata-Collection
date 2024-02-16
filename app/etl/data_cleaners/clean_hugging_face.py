@@ -1,5 +1,7 @@
 from datetime import datetime
-import json
+from app.utils.cleaning import generate_tags
+
+
 current_datetime = datetime.utcnow()
 formatted_date = current_datetime.strftime("%Y-%m-%dT%H:%M:%S.%f")[:-3] + "Z"
 
@@ -153,6 +155,8 @@ def clean_hugging_face_dataset(dataset):
         if key in ["license", "language"] or value.lower() in ["other", "unknown", "", "none", None]:
             continue
         tags += [value.lower()]
+
+    tags += generate_tags(clean_dataset["title"])
 
     clean_dataset["tags"] = tags
 
