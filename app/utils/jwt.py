@@ -4,9 +4,12 @@ import bcrypt
 from ..db_config import run_query
 from datetime import datetime, timedelta
 import jwt
+import os
+from dotenv import load_dotenv
 
 
-SECRET_KEY = "your_secret_key"
+load_dotenv()
+SECRET_KEY = os.environ.get("JWT_SECRET_KEY")
 ALGORITHM = "HS256"
 
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
