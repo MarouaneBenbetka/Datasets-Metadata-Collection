@@ -1,3 +1,12 @@
+beautifulsoup4==4.12.3
 fastapi==0.109.2
+huggingface_hub==0.20.3
+nltk==3.8.1
+pandas==2.0.3
 psycopg2==2.9.9
-python-dotenv
+pydantic==1.10.8
+python-dotenv==1.0.1
+python_bcrypt==0.3.2
+selenium==4.9.0
+ucimlrepo==0.0.3
+uvicorn
