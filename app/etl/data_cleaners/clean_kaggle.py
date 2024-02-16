@@ -53,7 +53,7 @@ unknown_license = {
     "name": "unknown",
             "url": "",
             "description": "The license is unknown, and details about its terms and conditions are not specified."
-},
+}
 
 
 base_url = "https://www.kaggle.com/datasets/"

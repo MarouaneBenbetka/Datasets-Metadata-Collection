@@ -14,7 +14,7 @@ license = {
     "name": "Creative Commons Attribution 4.0 International License (CC-BY-4.0)",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "description": "This license lets others remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most flexible of the licenses offered, in terms of what others can do with your works."
-},
+}
 
 
 base_url = "https://archive.ics.uci.edu/datasets"

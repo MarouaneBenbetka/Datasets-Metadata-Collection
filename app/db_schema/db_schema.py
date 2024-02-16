@@ -19,9 +19,9 @@ CREATE TABLE IF NOT EXISTS sources (
 );
 
 CREATE TABLE IF NOT EXISTS licenses (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(255) ,
-    url VARCHAR(255) UNIQUE,
+    id SERIAL PRIMARY KEY ,
+    name VARCHAR(255) UNIQUE,
+    url VARCHAR(255) ,
     description TEXT
 );
 
@@ -120,6 +120,12 @@ CREATE TABLE IF NOT EXISTS discussions (
     url VARCHAR(255) ,
 	user_name VARCHAR(255) ,
     comments JSON
+);
+
+CREATE TABLE users (
+    id SERIAL PRIMARY KEY,
+    username VARCHAR(255) UNIQUE NOT NULL,
+    hashed_password TEXT NOT NULL
 );
 """
 

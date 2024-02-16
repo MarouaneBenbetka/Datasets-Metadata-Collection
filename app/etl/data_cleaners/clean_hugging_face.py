@@ -108,7 +108,7 @@ unknown_license = {
     "name": "unknown",
     "url": "",
     "description": "The license is unknown, and details about its terms and conditions are not specified."
-},
+}
 
 
 base_url = "https://huggingface.co/datasets"
@@ -161,6 +161,7 @@ def clean_hugging_face_dataset(dataset):
         clean_dataset["license"] = licenses_dict.get(
             license, unknown_license
         )
+
     else:
         clean_dataset["license"] = None
 

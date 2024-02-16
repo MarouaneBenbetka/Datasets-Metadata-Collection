@@ -85,12 +85,13 @@ def clean_github_dataset(dataset):
     clean_dataset["tags"] = dataset.get("topics", [])
 
     license = dataset.get("license", None)
-    if license:
+    if license and license.get("name", "other").lower() != "other":
         clean_dataset["license"] = {
             "name":  license.get("name", "unknown"),
             "url": license.get("url", ""),
             "description": ""
         }
+
     else:
         clean_dataset["license"] = None
 

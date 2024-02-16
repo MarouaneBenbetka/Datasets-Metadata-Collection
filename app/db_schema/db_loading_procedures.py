@@ -30,13 +30,18 @@ BEGIN
 
         -- Insert Stats
         INSERT INTO stats (views_count, likes_count, download_count)
-        VALUES ((dataset_item->'stats'->>'views_count')::INT, (dataset_item->'stats'->>'likes_count')::INT, (dataset_item->'stats'->>'download_count')::INT)
+        VALUES ((dataset_item->'stats'->>'viewCount')::INT, (dataset_item->'stats'->>'likes_count')::INT, (dataset_item->'stats'->>'downloadCount')::INT)
         RETURNING id INTO stats_id;
 
         -- Insert License
-        INSERT INTO licenses (name, url, description)
-        VALUES (dataset_item->'License'->>'name', dataset_item->'License'->>'url', dataset_item->'License'->>'description')
-        ON CONFLICT (url) DO UPDATE SET name = EXCLUDED.name RETURNING id INTO license_id;
+        IF dataset_item->'license'->>'name' IS NOT NULL AND 
+            TRIM(dataset_item->'license'->>'name') <> ''  
+        THEN
+            INSERT INTO licenses (name, url, description)
+            VALUES (dataset_item->'license'->>'name', dataset_item->'license'->>'url', dataset_item->'license'->>'description')
+            ON CONFLICT (name) DO NOTHING
+            RETURNING id INTO license_id;
+        END IF;
 
         -- Insert Dataset
         INSERT INTO datasets (title, url, description, total_bytes, source_id, stats_id, license_id)
