@@ -7,6 +7,7 @@ max_pages = 10
 base_url = "https://www.kaggle.com"
 metadata_temp_path = r'app/static/temp_meta_data/raw/kaggle_temp'
 
+# credentials
 os.environ['KAGGLE_USERNAME'] = os.getenv("KAGGLE_USERNAME")
 os.environ['KAGGLE_KEY'] = os.getenv("KAGGLE_KEY")
 

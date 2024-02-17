@@ -1,0 +1,39 @@
+{
+  "id": "mrsimple07/restaurants-revenue-prediction",
+  "id_no": 4317518,
+  "datasetSlugNullable": "restaurants-revenue-prediction",
+  "ownerUserNullable": "mrsimple07",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Restaurants Revenue Prediction",
+  "subtitleNullable": "Predict the Restaurants monthly revenue using different methods",
+  "descriptionNullable": "The Restaurant Revenue Prediction Dataset is a comprehensive collection of simulated data designed for predicting monthly revenue for a set of fictitious restaurants. This dataset was created for educational and illustrative purposes, allowing data enthusiasts to explore and experiment with machine learning algorithms for regression tasks.",
+  "datasetId": 4317518,
+  "datasetSlug": "restaurants-revenue-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "mrsimple07",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 6211,
+  "totalVotes": 48,
+  "totalDownloads": 1471,
+  "title": "Restaurants Revenue Prediction",
+  "hasTitle": true,
+  "subtitle": "Predict the Restaurants monthly revenue using different methods",
+  "hasSubtitle": true,
+  "description": "The Restaurant Revenue Prediction Dataset is a comprehensive collection of simulated data designed for predicting monthly revenue for a set of fictitious restaurants. This dataset was created for educational and illustrative purposes, allowing data enthusiasts to explore and experiment with machine learning algorithms for regression tasks.",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

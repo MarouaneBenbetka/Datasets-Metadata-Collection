@@ -31,3 +31,8 @@ async def get_data_kaggle(source: str, limit=100, start=0):
 @router.get("/extract/kaggle/scrap-descussions")
 async def get_kaggle_descussion():
     return scrap_kaggle_descussions()
+
+
+@router.get("/extract/kaggle/download-notebooks")
+async def get_kaggle_notebooks():
+    return add_notebooks_as_json()

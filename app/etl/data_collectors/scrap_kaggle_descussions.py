@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from bs4 import BeautifulSoup
+import json
 from app.utils.extract import read_raw_data_from_json, save_raw_data_to_json
 import time
 
@@ -106,6 +107,7 @@ def get_descussion_content(driver, link):
 
 
 def scrap_kaggle_descussions():
+
     datasets = read_raw_data_from_json("kaggle")
     driver = init_chrome()
     for dataset in datasets:
