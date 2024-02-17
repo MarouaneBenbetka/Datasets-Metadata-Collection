@@ -1,53 +1,31 @@
-import json
 import requests
 import base64
-import json
 import os
 
+from app.utils.extract import save_raw_data_to_json
+
+
+repos_url = "https://api.github.com/search/repositories"
+NB_PAGES = 1
 
 auth_token = os.getenv("GITHUB_AUTH_TOKEN")
-
 headers = {
-    f'Authorization': 'Bearer {auth_token}',
+    f"Authorization": f'Bearer {auth_token}',
 }
 
 
-#################################  GetRepositories    ###############################
+def get_datasets_metadata_github():
+    repos = get_repos_datasets(repos_url)
+    repos_clean = clean_repos(repos)
 
-def GetRepositories():
-    def save_to_json(data, filename):
-        with open(filename, "w") as json_file:
-            json.dump(data, json_file, indent=2)
+    repos_with_readme = readme_collection(repos_clean)
 
-    def fetch_paginated_data(url):
-        all_data = []
-        cpt = 1
-
-        while cpt < 11:
-            params = {
-                'q': 'dataset',
-                'per_page': 100,
-                'page': cpt,
-            }
-            response = requests.get(url, headers=headers, params=params)
-            cpt += 1
-            if response.status_code == 200:
-                print("Fetched repos page : " + str(cpt-1))
-                data = response.json()
-                # Adjust based on the API response structure
-                all_data.extend(data['items'])
-                save_to_json(all_data, "github_DATA.json")
-            else:
-                print(
-                    f"Failed to fetch data . Status code: {response.status_code}")
-
-    repos_url = "https://api.github.com/search/repositories"
-    fetch_paginated_data(repos_url)
-    print("All data saved to github_DATA.json file")
+    repos_with_issues = get_issues(repos_with_readme)
+    save_raw_data_to_json(repos_with_issues, 'github')
+    return repos_with_issues
 
 
-#################################  Clean Repositories    ###############################
-def CleaningRepositories():
+def clean_repos(data):
     keys_to_delete = [
         'keys_url', 'collaborators_url', 'teams_url', 'hooks_url',
         'git_tags_url', 'git_refs_url', 'trees_url', 'statuses_url',
@@ -64,10 +42,6 @@ def CleaningRepositories():
         "subscriptions_url", "organizations_url", "events_url", "received_events_url"
     ]
 
-    # Read the JSON file
-    with open('github_DATA.json', 'r') as file:
-        data = json.load(file)
-
     # Loop through each object in the array
     for item in data:
         # Delete specified keys within 'item'
@@ -83,17 +57,11 @@ def CleaningRepositories():
                     del owner[key]
 
     # Write the modified data back to the file
-    with open('github_DATA.json', 'w') as file:
-        json.dump(data, file, indent=2)
-
-    print("CLEANING FILE DONE  : github_DATA.json")
-
-#################################  Get readMe files     ###############################
+    return data
 
 
-def readMeScrapping():
-    with open('github_DATA.json', 'r') as file:
-        data = json.load(file)
+def readme_collection(data):
+
     # Loop through each element in the array
     cpt = 0
     for item in data:
@@ -126,17 +94,10 @@ def readMeScrapping():
             else:
                 print("readme exists")
 
-    # Write the modified data back to the file
-    with open('github_DATA.json', 'w') as file:
-        json.dump(data, file, indent=2)
-
-    print("READ ME SCRAPPING DONE  SUCCESSFULLY .")
+    return data
 
 
-#################################  Get Issues data     ###############################
-
-
-def GetIssues():
+def get_issues(data):
 
     def fetch_issues(issues_url):
         issues = []
@@ -198,15 +159,13 @@ def GetIssues():
         return info
 
     # Load repository data from the JSON file
-    with open('github_DATA.json', 'r') as f:
-        repositories = json.load(f)
 
     # Dictionary to store repository details and their issues
     repository_data = []
 
     # Fetch issues for each repository
     cpt = 0
-    for repo_data in repositories:
+    for repo_data in data:
         issues_url = repo_data.get('issues_url', '').replace(
             '{/number}', '')  # Replace placeholder with empty string
         if issues_url:
@@ -228,16 +187,31 @@ def GetIssues():
         cpt += 1
         print(f"Getting issues of repo : {cpt}")
 
-    # Save the repository data into a new JSON file
-    with open('github_DATA.json', 'w') as outfile:
-        json.dump(repositories, outfile, indent=2)
+    return data
 
 
-print('#################################  Getting repos data   ###############################')
-GetRepositories()
-print('#################################  Cleaning repos       ###############################')
-CleaningRepositories()
-print('#################################  Get readMe files     ###############################')
-readMeScrapping()
-print('#################################  Get Issues data      ###############################')
-GetIssues()
+def get_repos_datasets(url):
+    datasets = []
+    cpt = 0
+
+    while cpt < NB_PAGES:
+        params = {
+            'q': 'dataset',
+            'per_page': 100,
+            'page': cpt+1,
+        }
+        response = requests.get(url, headers=headers, params=params)
+        cpt += 1
+        print("Fetched repos page : " + str(cpt))
+        if response.status_code != 200:
+            print(f"Failed to fetch repos: {response.status_code}")
+            continue
+
+        data = response.json()
+        datasets.extend(data['items'])
+
+    return datasets
+
+
+if __name__ == "__main__":
+    data = get_datasets_metadata_github()
