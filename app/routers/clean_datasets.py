@@ -33,7 +33,7 @@ async def clean_handler(source: str = "kaggle"):
 
     try:
         result = []
-        with open(f'{metadata_path}{raw_relative_path}{source}.json', 'r') as file:
+        with open(f'{metadata_path}{raw_relative_path}{source}.json', 'r', encoding='utf-8') as file:
             data = json.load(file)
             for dataset in data:
                 try:

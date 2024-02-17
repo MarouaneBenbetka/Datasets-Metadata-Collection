@@ -10,3 +10,4 @@ python_bcrypt==0.3.2
 Requests==2.31.0
 selenium==4.9.0
 ucimlrepo==0.0.3
+uvicorn

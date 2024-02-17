@@ -1,11 +1,14 @@
 import kaggle
 import json
 from app.utils.extract import save_raw_data_to_json
-
+import os
 
 max_pages = 10
 base_url = "https://www.kaggle.com"
 metadata_temp_path = r'app/static/temp_meta_data/raw/kaggle_temp'
+
+os.environ['KAGGLE_USERNAME'] = os.getenv("KAGGLE_USERNAME")
+os.environ['KAGGLE_KEY'] = os.getenv("KAGGLE_KEY")
 
 
 def get_datasets_metadata_kaggle(max_pages=max_pages):
@@ -93,7 +96,3 @@ def get_datasets_metadata_kaggle(max_pages=max_pages):
     save_raw_data_to_json(datasets_dict, "kaggle")
 
     return datasets_dict
-
-
-if __name__ == "__main__":
-    datasets = get_datasets_metadata_kaggle()

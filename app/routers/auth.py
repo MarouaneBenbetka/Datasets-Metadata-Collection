@@ -49,10 +49,9 @@ def login(credentials: UserCredentials):
     db_users = run_query(
         f"SELECT * FROM users WHERE username = '{username}' limit 1")
 
-    user = db_users[0]
-    if not user or not verify_password(password, user['hashed_password']):
+    if not db_users or len(db_users) == 0 or not verify_password(password, db_users[0]['hashed_password']):
         raise HTTPException(
             status_code=400, detail="Incorrect username or password")
-
+    user = db_users[0]
     accessToken = create_access_token(username)
     return {"username": user['username'], "accessToken": accessToken, "message": "Login successful"}

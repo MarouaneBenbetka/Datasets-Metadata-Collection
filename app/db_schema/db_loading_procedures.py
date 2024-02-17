@@ -61,7 +61,7 @@ BEGIN
         END LOOP;
 
         -- Insert Tags (Assuming many to many relationship)
-        FOR tag_item IN SELECT * FROM jsonb_array_elements(dataset_item->'tags') LOOP
+        FOR tag_item IN SELECT * FROM jsonb_array_elements_text(dataset_item->'tags') LOOP
             INSERT INTO tags (name)
             VALUES (tag_item)
             ON CONFLICT (name) DO NOTHING;
