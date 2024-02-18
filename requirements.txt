@@ -13,3 +13,7 @@ ucimlrepo==0.0.3
 uvicorn
 pytest
 httpx
+uvicorn
+jwt
+dataset
+kaggle
