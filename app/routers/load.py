@@ -18,7 +18,7 @@ class Source(str, Enum):
 
 
 @router.get("/fill-db")
-async def fill_db(source: Source = None, user: str = Depends(verify_token)):
+async def fill_db(source: Source = None):
 
     if not source:
         raise HTTPException(
