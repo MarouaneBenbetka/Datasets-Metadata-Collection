@@ -1,0 +1,101 @@
+Unnamed: 0,Books,Authors,Language,First_Published,Sales_in_millions
+0,A Tale of Two Cities,Charles Dickens,English,1859,200.0
+1,The Little Prince (Le Petit Prince),Antoine de Saint-Exupéry,French,1943,200.0
+2,Harry Potter and the Philosopher's Stone,J. K. Rowling,English,1997,120.0
+3,And Then There Were None,Agatha Christie,English,1939,100.0
+4,Dream of the Red Chamber (紅樓夢),Cao Xueqin,Chinese,1791,100.0
+5,The Hobbit,J. R. R. Tolkien,English,1937,100.0
+6,She: A History of Adventure,H. Rider Haggard,English,1887,83.0
+7,The Da Vinci Code,Dan Brown,English,2003,80.0
+8,Harry Potter and the Chamber of Secrets,J. K. Rowling,English,1998,77.0
+9,Harry Potter and the Prisoner of Azkaban,J. K. Rowling,English,1999,65.0
+10,Harry Potter and the Goblet of Fire,J. K. Rowling,English,2000,65.0
+11,Harry Potter and the Order of the Phoenix,J. K. Rowling,English,2003,65.0
+12,Harry Potter and the Half-Blood Prince,J. K. Rowling,English,2005,65.0
+13,Harry Potter and the Deathly Hallows,J. K. Rowling,English,2007,65.0
+14,The Alchemist (O Alquimista),Paulo Coelho,Portuguese,1988,65.0
+15,The Catcher in the Rye,J. D. Salinger,English,1951,65.0
+16,The Bridges of Madison County,Robert James Waller,English,1992,60.0
+17,One Hundred Years of Solitude (Cien años de soledad),Gabriel García Márquez,Spanish,1967,50.0
+18,Lolita,Vladimir Nabokov,English,1955,50.0
+19,Heidi,Johanna Spyri,German,1880,50.0
+20,The Common Sense Book of Baby and Child Care,Benjamin Spock,English,1946,50.0
+21,Anne of Green Gables,Lucy Maud Montgomery,English,1908,50.0
+22,Black Beauty,Anna Sewell,English,1877,50.0
+23,The Name of the Rose (Il Nome della Rosa),Umberto Eco,Italian,1980,50.0
+24,The Eagle Has Landed,Jack Higgins,English,1975,50.0
+25,Watership Down,Richard Adams,English,1972,50.0
+26,The Hite Report,Shere Hite,English,1976,50.0
+27,Charlotte's Web,E. B. White; illustrated by Garth Williams,English,1952,50.0
+28,The Ginger Man,J. P. Donleavy,English,1955,50.0
+29,The Tale of Peter Rabbit,Beatrix Potter,English,1902,45.0
+30,Jonathan Livingston Seagull,Richard Bach,English,1970,44.0
+31,The Very Hungry Caterpillar,Eric Carle,English,1969,43.0
+32,A Message to Garcia,Elbert Hubbard,English,1899,40.0
+33,To Kill a Mockingbird,Harper Lee,English,1960,40.0
+34,Flowers in the Attic,V. C. Andrews,English,1979,40.0
+35,Cosmos,Carl Sagan,English,1980,40.0
+36,Sophie's World (Sofies verden),Jostein Gaarder,Norwegian,1991,40.0
+37,Angels & Demons,Dan Brown,English,2000,39.0
+38,Alcholics Anonymous,William Griffith Wilson,English,1939,35.0
+39,Kane and Abel,Jeffrey Archer,English,1979,37.0
+40,How the Steel Was Tempered (Как закалялась сталь),Nikolai Ostrovsky,Russian,1932,36.4
+41,War and Peace (Война и мир),Leo Tolstoy,Russian,1869,36.0
+42,The Adventures of Pinocchio (Le avventure di Pinocchio),Carlo Collodi,Italian,1881,35.0
+43,The Diary of Anne Frank (Het Achterhuis),Anne Frank,Dutch,1947,35.0
+44,Your Erroneous Zones,Wayne Dyer,English,1976,35.0
+45,The Thorn Birds,Colleen McCullough,English,1977,33.0
+46,The Kite Runner,Khaled Hosseini,English,2003,31.5
+47,Valley of the Dolls,Jacqueline Susann,English,1966,31.0
+48,How to Win Friends and Influence People,Dale Carnegie,English,1936,35.0
+49,The Great Gatsby,F. Scott Fitzgerald,English,1925,30.0
+50,Gone with the Wind,Margaret Mitchell,English,1936,30.0
+51,Rebecca,Daphne du Maurier,English,1938,30.0
+52,The Revolt of Mamie Stover,William Bradford Huie,English,1951,30.0
+53,The Girl with the Dragon Tattoo (Män som hatar kvinnor),Stieg Larsson,Swedish,2005,30.0
+54,The Lost Symbol,Dan Brown,English,2009,30.0
+55,The Hunger Games,Suzanne Collins,English,2008,29.0
+56,James and the Giant Peach,Roald Dahl,English,1961,28.0
+57,The Young Guard (Молодая гвардия),Alexander Alexandrovich Fadeyev,Russian,1945,26.0
+58,Who Moved My Cheese?,Spencer Johnson,English,1998,28.0
+59,A Brief History of Time,Stephen Hawking,English,1988,25.0
+60,Paul et Virginie,Jacques-Henri Bernardin de Saint-Pierre,French,1788,25.0
+61,Lust for Life,Irving Stone,English,1934,25.0
+62,The Wind in the Willows,Kenneth Grahame,English,1908,25.0
+63,The 7 Habits of Highly Effective People,Stephen R. Covey,English,1989,25.0
+64,Totto-Chan: The Little Girl at the Window (窓ぎわのトットちゃん),Tetsuko Kuroyanagi,Japanese,1981,25.0
+65,Virgin Soil Upturned (Поднятая целина),Mikhail Sholokhov,Russian,1935,24.0
+66,The Celestine Prophecy,James Redfield,English,1993,23.0
+67,The Fault in Our Stars,John Green,English,2012,23.0
+68,The Girl on the Train,Paula Hawkins,English,2015,23.0
+69,The Shack,William P. Young,English,2007,22.5
+70,Uncle Styopa (Дядя Стёпа),Sergey Mikhalkov,Russian,1936,21.0
+71,The Godfather,Mario Puzo,English,1969,21.0
+72,Love Story,Erich Segal,English,1970,21.0
+73,Catching Fire,Suzanne Collins,English,2009,21.0
+74,Mockingjay,Suzanne Collins,English,2010,20.0
+75,Kitchen (キッチン),Banana Yoshimoto,Japanese,1988,20.0
+76,Andromeda Nebula (Туманность Андромеды),Ivan Yefremov,Russian,1957,20.0
+77,Gone Girl,Gillian Flynn,English,2012,20.0
+78,The Bermuda Triangle,Charles Berlitz,English,1974,20.0
+79,Things Fall Apart,Chinua Achebe,English,1958,20.0
+80,Wolf Totem (狼图腾),Jiang Rong,Chinese,2004,20.0
+81,The Happy Hooker: My Own Story,Xaviera Hollander,English,1971,20.0
+82,Jaws,Peter Benchley,English,1974,20.0
+83,Love You Forever,Robert Munsch,English,1986,20.0
+84,The Women's Room,Marilyn French,English,1977,20.0
+85,What to Expect When You're Expecting,Arlene Eisenberg and Heidi Murkoff,English,1984,20.0
+86,Adventures of Huckleberry Finn,Mark Twain,English,1885,20.0
+87,"The Secret Diary of Adrian Mole, Aged 13¾",Sue Townsend,English,1982,20.0
+88,Pride and Prejudice,Jane Austen,English,1813,20.0
+89,Kon-Tiki: Across the Pacific in a Raft (Kon-Tiki ekspedisjonen),Thor Heyerdahl,Norwegian,1950,20.0
+90,The Good Soldier Švejk (Osudy dobrého vojáka Švejka za světové války),Jaroslav Hašek,Czech,1923,20.0
+91,Where the Wild Things Are,Maurice Sendak,English,1963,20.0
+92,The Power of Positive Thinking,Norman Vincent Peale,English,1952,20.0
+93,The Secret,Rhonda Byrne,English,2006,20.0
+94,Fear of Flying,Erica Jong,English,1973,20.0
+95,Dune,Frank Herbert,English,1965,20.0
+96,Charlie and the Chocolate Factory,Roald Dahl,English,1964,20.0
+97,The Naked Ape,Desmond Morris,English,1968,20.0
+98,Where the Crawdads Sing,Delia Owens,English,2018,18.0
+99,Matilda,Roald Dahl,English,1988,17.0

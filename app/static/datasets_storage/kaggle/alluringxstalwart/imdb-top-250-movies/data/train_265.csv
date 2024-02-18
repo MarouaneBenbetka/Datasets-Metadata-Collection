@@ -1,0 +1,101 @@
+rank,title,duration,release_year,rated,rating,vote_count
+1,The Shawshank Redemption,2h 22m,1994,A,9.3,2.9M
+2,The Godfather,2h 55m,1972,A,9.2,2M
+3,The Dark Knight,2h 32m,2008,UA,9.0,2.8M
+4,The Godfather: Part II,3h 22m,1974,A,9.0,1.3M
+5,12 Angry Men,1h 36m,1957,U,9.0,851K
+6,Schindler's List,3h 15m,1993,A,9.0,1.4M
+7,The Lord of the Rings: The Return of the King,3h 21m,2003,U,9.0,2M
+8,Pulp Fiction,2h 34m,1994,A,8.9,2.2M
+9,The Lord of the Rings: The Fellowship of the Ring,2h 58m,2001,U,8.9,2M
+10,"Il Buono, Il Brutto, Il Cattivo",2h 41m,1966,A,8.8,802K
+11,Forrest Gump,2h 22m,1994,UA,8.8,2.2M
+12,Fight Club,2h 19m,1999,A,8.8,2.3M
+13,The Lord of the Rings: The Two Towers,2h 59m,2002,UA,8.8,1.8M
+14,Inception,2h 28m,2010,UA,8.8,2.5M
+15,Star Wars: Episode V - The Empire Strikes Back,2h 4m,1980,UA,8.7,1.4M
+16,The Matrix,2h 16m,1999,A,8.7,2M
+17,GoodFellas,2h 25m,1990,A,8.7,1.2M
+18,One Flew Over the Cuckoo's Nest,2h 13m,1975,A,8.7,1.1M
+19,Se7en,2h 7m,1995,A,8.6,1.8M
+20,It's a Wonderful Life,2h 10m,1946,PG,8.6,494K
+21,Interstellar,2h 49m,2014,UA,8.7,2M
+22,Shichinin No Samurai,3h 27m,1954,U,8.6,363K
+23,The Silence of the Lambs,1h 58m,1991,A,8.6,1.5M
+24,Saving Private Ryan,2h 49m,1998,A,8.6,1.5M
+25,City of God,2h 10m,2002,A,8.6,793K
+26,Life Is Beautiful,1h 56m,1997,U,8.6,735K
+27,The Green Mile,3h 9m,1999,UA,8.6,1.4M
+28,Terminator 2: Judgment Day,2h 17m,1991,A,8.6,1.2M
+29,Star Wars: Episode IV - A New Hope,2h 1m,1977,U,8.6,1.4M
+30,Spider-man: Across the Spider-verse,2h 20m,2023,U,8.6,339K
+31,Back to the Future,1h 56m,1985,U,8.5,1.3M
+32,Spirited Away,2h 5m,2001,U,8.6,833K
+33,The Pianist,2h 30m,2002,13,8.5,899K
+34,Parasite,2h 12m,2019,A,8.5,929K
+35,Psycho,1h 49m,1960,A,8.5,711K
+36,Gladiator,2h 35m,2000,UA,8.5,1.6M
+37,The Lion King,1h 28m,1994,U,8.5,1.1M
+38,Léon,1h 50m,1994,A,8.5,1.2M
+39,The Departed,2h 31m,2006,A,8.5,1.4M
+40,American History X,1h 59m,1998,R,8.5,1.2M
+41,Whiplash,1h 46m,2014,A,8.5,966K
+42,The Prestige,2h 10m,2006,U,8.5,1.4M
+43,Grave of the Fireflies,1h 29m,1988,U,8.5,304K
+44,Seppuku,2h 13m,1962,Not Rated,8.6,67K
+45,The Usual Suspects,1h 46m,1995,A,8.5,1.1M
+46,Casablanca,1h 42m,1942,U,8.5,600K
+47,Intouchables,1h 52m,2011,UA,8.5,916K
+48,Modern Times,1h 27m,1936,G,8.5,257K
+49,Cinema Paradiso,2h 35m,1988,U,8.5,279K
+50,Rear Window,1h 52m,1954,U,8.5,517K
+51,C'era Una Volta Il West,2h 46m,1968,U,8.5,346K
+52,Alien,1h 57m,1979,R,8.5,938K
+53,12th Fail,2h 27m,2023,Not Rated,9.2,90K
+54,City Lights,1h 27m,1931,G,8.5,194K
+55,Apocalypse Now,2h 27m,1979,R,8.4,703K
+56,Django Unchained,2h 45m,2012,A,8.5,1.7M
+57,Memento,1h 53m,2000,UA,8.4,1.3M
+58,WALL·E,1h 38m,2008,U,8.4,1.2M
+59,Raiders of the Lost Ark,1h 55m,1981,A,8.4,1M
+60,Das Leben der Anderen,2h 17m,2006,A,8.4,407K
+61,Sunset Blvd,1h 50m,1950,Passed,8.4,234K
+62,Paths of Glory,1h 28m,1957,A,8.4,210K
+63,Avengers: Infinity War,2h 29m,2018,UA,8.4,1.2M
+64,Spider-Man: Into the Spider-Verse,1h 57m,2018,U,8.4,655K
+65,The Shining,2h 26m,1980,A,8.4,1.1M
+66,Witness for the Prosecution,1h 56m,1957,U,8.4,136K
+67,The Great Dictator,2h 5m,1940,G,8.4,235K
+68,Alien 2,2h 17m,1986,U,8.4,755K
+69,Inglourious Basterds,2h 33m,2009,A,8.4,1.6M
+70,The Dark Knight Rises,2h 44m,2012,UA,8.4,1.8M
+71,American Beauty,2h 2m,1999,UA,8.3,1.2M
+72,Dr,1h 35m,1964,A,8.4,513K
+73,Oldeuboi,1h 41m,2003,A,8.3,626K
+74,Coco,1h 45m,2017,U,8.4,577K
+75,Amadeus,2h 40m,1984,PG,8.4,423K
+76,Toy Story,1h 21m,1995,U,8.3,1.1M
+77,Oppenheimer,3h,2023,R,8.4,615K
+78,Das Boot,2h 29m,1981,Not Rated,8.4,262K
+79,Braveheart,2h 58m,1995,A,8.3,1.1M
+80,Avengers: Endgame,3h 1m,2019,UA,8.4,1.2M
+81,Joker,2h 2m,2019,A,8.4,1.5M
+82,Mononoke-hime,2h 14m,1997,U,8.3,426K
+83,Good Will Hunting,2h 6m,1997,U,8.3,1M
+84,Kimi No Na Wa,1h 46m,2016,U,8.4,311K
+85,Once Upon a Time in America,3h 49m,1984,A,8.3,374K
+86,Tengoku to Jigoku,2h 23m,1963,Not Rated,8.4,52K
+87,3 Idiots,2h 50m,2009,UA,8.4,428K
+88,Singin' in the Rain,1h 43m,1952,G,8.3,258K
+89,Capharnaüm,2h 6m,2018,A,8.4,103K
+90,Requiem for a Dream,1h 42m,2000,A,8.3,889K
+91,Idi I Smotri,2h 22m,1985,A,8.4,94K
+92,Toy Story 3,1h 43m,2010,U,8.3,883K
+93,Star Wars: Episode VI - Return of the Jedi,2h 11m,1983,U,8.3,1.1M
+94,Eternal Sunshine of the Spotless Mind,1h 48m,2004,UA,8.3,1.1M
+95,Jagten,1h 55m,2012,7,8.3,359K
+96,2001: A Space Odyssey,2h 29m,1968,U,8.3,711K
+97,Reservoir Dogs,1h 39m,1992,15+,8.3,1.1M
+98,Ikiru,2h 23m,1952,U,8.3,86K
+99,Lawrence of Arabia,3h 38m,1962,U,8.3,311K
+100,The Apartment,2h 5m,1960,U,8.3,194K

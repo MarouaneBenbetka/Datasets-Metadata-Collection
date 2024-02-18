@@ -1,0 +1,413 @@
+id,tokens,labels
+TR-0,"['What' 'is' 'here' 'called' 'controlled' 'natural' 'language' '(' 'CNL'
+ ')' 'has' 'traditionally' 'been' 'given' 'many' 'different' 'names' '.']",[4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4 4]
+TR-1,"['In' 'this' 'paper' ',' 'we' 'introduce' 'CoQA' ',' 'a' 'Conversational'
+ 'Question' 'Answering' 'dataset' 'for' 'measuring' 'the' 'ability' 'of'
+ 'machines' 'to' 'participate' 'in' 'a' 'question' '-' 'answering' 'style'
+ 'conversation' '.']",[4 4 4 4 4 4 1 4 4 0 2 2 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-2,"['in' ':' 'Proceedings' 'of' 'SODA' '98' ',' 'Ninth' 'Annual' 'ACM' '-'
+ 'SIAM' 'Symposium' 'on' 'Discrete' 'Algorithms' ',' 'San' 'Francisco' ','
+ 'CA' ',' 'USA' ',' '1998' ',' 'pp' '.']",[4 4 4 4 1 4 4 4 4 1 4 1 4 4 4 4 4 4 4 4 1 4 1 4 4 4 4 4]
+TR-3,"['But' 'is' 'the' 'existing' 'HPC' 'I' '/' 'O' 'stack' 'still' 'suitable'
+ 'for' 'new' 'NVM' 'devices' 'like' 'Intel' 'Optane' '?']",[4 4 4 4 1 3 3 3 4 4 4 4 4 1 4 4 4 4 4]
+TR-4,"['For' 'a' 'fixed' 'and' 'known' ',' 'we' 'apply' 'a' 'successive'
+ 'convex' 'approximation' '(' 'SCA' ')' 'approach' 'to' 'transform' 'the'
+ 'non' '-' 'convex' 'problem' 'into' 'a' 'sequence' 'of' 'relaxed'
+ 'convex' 'subproblems' '.']",[4 4 4 4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-5,['Section' 'II' 'introduces' 'issues' 'relevant' 'to' 'VMP' '.'],[4 4 4 4 4 4 1 4]
+TR-6,"['A' 'near' 'optimal' 'solution' 'is' 'proposed' 'using' 'Geometric'
+ 'Programming' '(' 'GP' ')' 'to' 'optimally' 'solve' 'the' 'problem' 'in'
+ 'a' 'time' '-' 'slotted' 'period' '.']",[4 4 4 4 4 4 4 0 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-7,"['b' ')' ',' 'this' 'regularization' 'induces' 'an' 'output'
+ 'distribution' 'that' 'is' 'close' 'to' 'an' 'input' 'distribution' 'in'
+ 'CT' 'values' ',' 'and' 'aims' 'to' 'ensure' 'that' 'the' 'generators'
+ 'translate' 'the' 'sparse' 'artifacts' 'rather' 'than' 'dense'
+ 'anatomical' 'structures' '.']",[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-8,"['The' 'Principal' 'Component' 'Analysis' '(' 'PCA' ')' 'is' 'used' 'for'
+ 'dimension' 'reduction' '.']",[4 0 2 2 4 1 4 4 4 4 4 4 4]
+TR-9,"['This' 'should' 'certainly' 'be' 'true' 'of' 'the' 'New' 'Technology'
+ 'File' 'System' '(' 'NTFS' ')' ',' 'since' 'NTFS' 'is' 'currently' 'the'
+ 'most' 'common' 'file' 'system' 'in' 'use' '.']",[4 4 4 4 4 4 4 0 2 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-10,"['This' 'approach' ',' 'described' 'in' 'Subsection' ',' 'leads' 'to' 'a'
+ 'conjunctive' 'normal' 'form' '(' 'CNF' ')' 'proposition' 'containing'
+ 'clauses' 'of' 'various' 'sizes' '.']",[4 4 4 4 4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4]
+TR-11,"['In' 'this' 'context' ',' 'the' 'combination' 'of' 'Forward' 'Error'
+ 'Correction' '(' 'FEC' ')' 'and' 'Unequal' 'Error' 'Protection' '(' 'UEP'
+ ')' 'approaches' 'is' 'known' 'to' 'provide' 'the' 'distribution' 'of'
+ 'video' 'applications' 'for' 'wireless' 'users' 'with' 'Quality' 'of'
+ 'Experience' '(' 'QoE' ')' 'assurance' '.']","[4 4 4 4 4 4 4 0 2 2 4 1 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 0 2 2
+ 4 1 4 4 4]"
+TR-12,"['Inspired' 'by' 'recent' 'advances' 'in' 'Generative' 'Adversarial'
+ 'Networks' '(' 'GANs' ')' ',' 'we' 'developed' 'an' 'algorithm' 'for'
+ 'domain' 'adaptation' 'for' 'aerial' 'imagery' 'based' 'on' 'GANs' '.']",[4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-13,"['For' 'GT' ',' 'arrows' 'in' 'are' 'DPOs' 'with' 'being' 'the'
+ 'projection' ',' 'but' 'we' 'need' 'to' 'show' 'that' 'DPOs' 'are'
+ 'composable' '-' 'it' 'may' 'turn' 'out' 'a' 'hassle' 'as' 'we' 'will'
+ 'face' 'interaction' 'between' 'PBs' 'and' 'POs' ',' 'but' 'I' 'hope'
+ 'that' 'nice' 'features' 'of' 'adhesive' 'cats' 'would' 'make' 'it'
+ 'more' 'or' 'less' 'doable' '.']","[4 1 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4 1
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]"
+TR-14,"['We' 'first' 'show' 'through' 'simulation' 'that' 'the' 'channel' 'state'
+ 'information' '(' 'CSI' ')' 'of' 'geographically' 'separated' 'base'
+ 'stations' '(' 'BSs' ')' 'exhibits' 'strong' 'non' '-' 'linear'
+ 'correlations' 'in' 'terms' 'of' 'mutual' 'information' '.']",[4 4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 0 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-15,"['Wrapper' 'Subset' 'Evaluator' '(' 'WSE' ')' 'looks' 'for' 'attributes'
+ 'along' '-' 'with' 'the' 'given' 'classifier' '.']",[0 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4]
+TR-16,"['Measurement' 'values' 'are' 'generated' 'using' 'the' 'AC' 'power'
+ 'flow' 'analysis' ',' 'additionally' 'corrupted' 'by' 'Gaussian' 'white'
+ 'noise' 'of' 'variance' '.']",[4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-17,"['Given' 'an' 'FSP' 'model' ',' 'the' 'LTSA' 'tool' 'generates' 'an'
+ 'executable' 'Labeled' 'Transition' 'System' '(' 'LTS' ')' 'suitable'
+ 'for' 'automated' 'analysis' 'and' 'animation' '.']",[4 4 1 4 4 4 1 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4]
+TR-18,"['In' 'an' 'efficient' 'method' 'called' 'Variable' 'Markov' 'Oracle' '('
+ 'VMO' ')' 'is' 'proposed' 'for' 'estimating' 'IR' '.']",[4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4]
+TR-19,"['The' 'MgNB' 'establishes' 'a' 'control' 'interface' 'to' 'the' 'core'
+ 'network' '(' 'CN' ')' ',' 'while' 'both' 'the' 'MgNB' 'and' 'the' 'SgNB'
+ 'manage' 'the' 'radio' 'resource' 'control' '(' 'RRC' ')' 'in' 'the' 'UE'
+ '.']",[4 1 4 4 4 4 4 4 0 2 4 1 4 4 4 4 4 1 4 4 1 4 4 0 2 2 4 1 4 4 4 1 4]
+TR-20,"['If' 'the' 'entity' 'pairs' 'of' 'two' 'triplets' 'are' 'identical' 'but'
+ 'the' 'relations' 'are' 'different' ',' 'the' 'sentence' 'will' 'be'
+ 'added' 'to' 'the' 'EPO' 'set' '.']",[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4 4]
+TR-21,"['Various' 'metrics' 'like' 'Code' '-' 'Mixed' 'Index' '(' 'CMI' ')' ','
+ 'Code' '-' 'Mixed' 'Factor' '(' 'CF' ')' 'along' 'with' 'various'
+ 'aspects' '(' 'language' 'and' 'emotion' ')' 'also' 'qualitatively'
+ 'polled' 'the' 'code' '-' 'mixed' 'and' 'sentiment' 'properties' 'of'
+ 'the' 'corpus' '.']","[4 4 4 0 2 2 2 4 1 4 4 0 2 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4]"
+TR-22,"['train' 'a' 'convolutional' 'neural' 'network' '(' 'CNN' ')' 'to'
+ 'predict' 'the' 'camera' 'location' 'based' 'on' 'a' 'semantic'
+ 'segmentation' 'of' 'the' 'building' 'facades' 'in' 'input' 'images' '.']",[4 4 0 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-23,"['Another' 'algorithm' 'called' 'Classification' 'and' 'regression'
+ 'trees' '(' 'CART' ')' 'proposed' 'by' 'Leo' 'Breiman' 'produces'
+ 'either' 'classification' 'or' 'regression' 'binary' 'trees' ','
+ 'depending' 'on' 'whether' 'the' 'dependent' 'variable' 'is'
+ 'categorical' 'or' 'numeric' ',' 'respectively' '.']",[4 4 4 0 2 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-24,"['In' 'our' 'present' 'study' ',' 'we' 'have' 'employed' 'the'
+ 'classification' 'method' 'of' 'Functional' 'Link' 'Artificial' 'Neural'
+ 'Network' '(' 'FLANN' ')' '.']",[4 4 4 4 4 4 4 4 4 4 4 4 0 2 2 2 2 4 1 4 4]
+TR-25,"['Our' 'model' 'is' 'an' 'end' 'to' 'end' 'framework' 'which' 'consists'
+ 'of' 'a' 'convolutional' 'neural' 'network' '(' 'CNN' ')' 'whose'
+ 'output' 'is' 'fanned' 'out' 'into' 'two' 'separate' 'branches' ';' 'the'
+ 'first' 'branch' 'predicts' 'facial' 'attributes' 'while' 'the' 'second'
+ 'branch' 'identifies' 'face' 'images' '.']","[4 4 4 4 4 4 4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4]"
+TR-26,"['Model' '2' ',' 'similar' 'to' 'model' '1' ',' 'has' 'a' 'multiple'
+ 'input' 'single' 'output' '(' 'A' '-' 'MISO' ')' 'structure' '.']",[4 4 4 4 4 4 4 4 4 4 0 2 2 2 4 4 4 1 4 4 4]
+TR-27,"['Within' 'the' 'perspective' 'of' 'research' 'on' 'Intrinsically'
+ 'Motivated' 'Goal' 'Exploration' 'started' 'a' 'decade' 'ago' ',' 'and'
+ 'considering' 'the' 'fundamental' 'problem' 'of' 'how' 'AI' 'agents'
+ 'can' 'autonomously' 'explore' 'environments' 'and' 'skills' 'by'
+ 'setting' 'their' 'own' 'goals' ',' 'this' 'new' 'architecture'
+ 'constitutes' 'a' 'milestone' 'as' 'it' 'is' 'to' 'our' 'knowledge' 'the'
+ 'first' 'goal' 'exploration' 'architecture' 'where' 'the' 'goal' 'space'
+ 'representation' 'is' 'learned' ',' 'as' 'opposed' 'to' 'hand' '-'
+ 'crafted' '.']","[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]"
+TR-28,"['The' 'bandwidth' 'of' 'this' 'low' '-' 'pass' 'analysis' 'is' 'chosen'
+ 'in' 'such' 'a' 'way' 'that' 'it' 'covers' 'reasonable' 'sizes' 'of'
+ 'rooms' 'and' 'removes' 'the' 'false' 'modes' 'that' 'can' 'appear'
+ 'below' 'the' 'first' 'mode' 'in' 'RTF' '.']",[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4]
+TR-29,"['We' 'use' 'the' 'Gramian' 'Angular' 'Field' '(' 'GAF' ')' 'to' 'encode'
+ 'the' 'time' 'series' 'data' '.']",[4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4]
+TR-30,"['The' 'US' 'Support' 'plugin' 'communicates' 'with' 'the'
+ 'USHardwareDiPhAS' 'sub' '-' 'module' 'through' 'an' 'instance' 'of'
+ 'its' 'Device' 'subclass' ',' 'which' 'it' 'accesses' 'through' 'MITK'
+ ""'s"" 'micro' 'service' 'functionality' ';' 'through' 'micro' 'services'
+ ',' 'a' 'module' 'is' 'able' 'to' 'register' 'as' 'a' 'specific'
+ 'service' ',' 'which' 'can' 'be' 'then' 'requested' 'by' 'other'
+ 'modules' 'or' 'plugins' '.']","[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]"
+TR-31,"['In' 'this' 'case' ',' 'the' 'average' 'running' 'time' 'for' 'RK' 'is'
+ 'always' 'approximatively' '420' 'seconds' ',' 'while' 'for' 'IA' 'it'
+ 'ranges' 'from' '0.02' 'seconds' '(' 'for' 'a' 'single' 'edge' 'update'
+ ')' 'to' '6.2' 'seconds' '(' 'for' 'a' 'batch' 'of' '1024' 'edges' ')'
+ '.']","[4 4 4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4]"
+TR-32,"['We' 'present' 'an' 'integer' 'linear' 'programming' '(' 'ILP' ')'
+ 'formulation' 'for' 'optimal' 'data' 'placement' 'in' 'RMs' ',' 'and'
+ 'revisit' 'existing' 'offset' 'assignment' 'heuristics' ',' 'originally'
+ 'proposed' 'for' 'random' '-' 'access' 'memories' '.']",[4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-33,"['Consider' 'an' 'agent' 'embedding' 'a' 'Recurrent' 'Neural' 'Network'
+ '(' 'RNN' ')' '-' 'with' 'internal' 'state' '-' 'modeling' 'a' 'policy'
+ '.']",[4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4 4 4]
+TR-34,"['miao2016neural' 'proposed' 'the' 'Neural' 'Variational' 'Document'
+ 'Model' '(' 'NVDM' ')' ',' 'which' 'extended' 'the' 'standard' 'VAE'
+ 'with' 'multinomial' 'likelihood' 'for' 'document' 'modelling' 'and'
+ 'further' 'built' 'a' 'VAE' 'to' 'generate' 'the' 'document' '-' 'topic'
+ 'distributions' 'in' 'the' 'LDA' 'framework' '.']","[4 4 4 0 2 2 2 4 1 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 1
+ 4 4]"
+TR-35,"['Consider' 'the' 'problem' 'of' 'automatically' 'identifying' 'patients'
+ 'who' 'suffer' 'from' 'a' 'certain' 'ailment' ',' 'based' 'on'
+ 'detection' 'of' 'certain' 'abnormalities' 'in' 'medical' 'images'
+ 'acquired' 'through' 'any' 'appropriate' 'modality' '(' 'X' '-' 'ray' ','
+ 'CT' ',' 'MRI' ',' 'microscopy' 'etc' '.' ')' '.']","[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4 1 4
+ 4 4 4 4 4]"
+TR-36,['China' 'Standard' 'Time' '(' 'CST' ')' 'is' 'UTC+08:00' '.'],[0 2 2 4 1 4 4 1 4]
+TR-37,"['From' 'simulation' 'results' 'and' 'analysis' ',' 'the' 'four' 'TAS'
+ 'schemes' 'have' 'an' 'decreasing' 'order' ':' 'Max' '-' 'SR' ','
+ 'leakage' '-' 'based' ',' 'generalized' 'EDAS' ',' 'and' 'random' '('
+ 'conventional' ')' ',' 'in' 'terms' 'of' 'SR' 'performance' '.']","[4 4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 1 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4
+ 4]"
+TR-38,"['Compatibility' ':' 'An' 'AANET' 'is' 'capable' 'of' 'supporting'
+ 'direct' 'A2A' 'communication' 'among' 'aircraft' 'without' 'the'
+ 'assistance' 'of' 'GS' '/' 'satellites' 'and' 'ATC' ',' 'which' 'reduces'
+ 'the' 'tele' '-' 'traffic' 'pressure' 'imposed' 'on' 'them' 'and'
+ 'significantly' 'reduces' 'the' 'latency' 'of' 'critical' '-' 'mission'
+ 'communication' 'as' 'well' '.']","[4 4 4 1 4 4 4 4 4 1 4 4 4 4 4 4 4 1 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4]"
+TR-39,"['Note' 'that' 'RSSI' 'stands' 'for' 'Received' 'Signal' 'Strength'
+ 'Indicator' 'and' 'is' 'used' 'as' 'a' 'link' 'quality' 'estimator' 'in'
+ 'wireless' 'communication' 'and' 'also' 'used' 'to' 'estimate' 'the'
+ 'distance' 'between' 'two' 'nodes' '.']",[4 4 1 4 4 0 2 2 2 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-40,"['Then' ',' 'we' 'make' 'comparisons' 'among' 'the' 'three' 'networks' ','
+ 'NN' ',' 'NN' 'and' 'NN' ',' 'by' 'examining' 'in' '-' 'campaign' 'and'
+ 'cross' '-' 'campaign' 'performance' '.']",[4 4 4 4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-41,"['exploited' 'Iterative' 'Straight' '-' 'line' 'Hough' 'Transform' '('
+ 'ISHT' ')' 'and' 'Modified' 'Randomized' 'Hough' 'Transform' '(' 'MRHT'
+ ')' '.']",[4 0 2 2 2 2 2 4 1 4 4 0 2 2 2 4 1 4 4]
+TR-42,"['So' 'far' ',' 'crime' 'prevention' 'through' 'environmental' 'design'
+ '(' 'CPTED' ')' 'has' 'concentrated' 'mostly' 'on' 'the' 'attributes'
+ 'of' 'the' 'built' 'environment' '(' 'e.g.' 'lightning' ',' 'visibility'
+ ',' 'access' 'and' 'height' 'of' 'buildings' ')' 'and' 'less' 'so' 'on'
+ 'the' 'the' 'human' 'activity' 'that' 'will' 'be' 'generated' 'within'
+ 'the' 'new' 'created' 'space' '.']","[4 4 4 0 2 2 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4]"
+TR-43,"['To' 'face' 'the' 'challenge' 'of' 'uncertainty' 'propagation' ',' 'the'
+ 'interval' 'analysis' '(' 'IA' ')' 'method' 'was' 'proposed' 'and' 'can'
+ 'obtain' 'the' 'worst' '-' 'case' 'lower' 'and' 'upper' 'bounds' 'of'
+ 'variables' '.']",[4 4 4 4 4 4 4 4 4 0 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-44,"['Our' 'approach' 'is' 'successfully' 'applied' 'to' 'common' 'RS'
+ 'images' 'with' 'two' 'representative' 'state' 'of' 'the' 'art' 'deep'
+ 'nets' '.']",[4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4]
+TR-45,"['A' 'particularly' 'relevant' 'recent' 'work' 'is' 'a' 'combination' 'of'
+ 'Neural' 'Networks' '(' 'NN' ')' 'and' 'Rolling' 'Horizon' 'Evolutionary'
+ 'Algorithms' '(' 'RHEA' ')' 'applied' 'to' 'a' 'series' 'of' 'MuJoCo'
+ 'control' 'tasks' '.']",[4 4 4 4 4 4 4 4 4 0 2 4 1 4 4 0 2 2 2 4 1 4 4 4 4 4 4 4 4 4 4]
+TR-46,"['From' 'the' 'results' 'in' 'Table' ',' 'we' 'can' 'see' 'that' 'our'
+ 'conditional' 'invariant' 'domain' 'generalization' '(' 'CIDG' ')'
+ 'performs' 'the' 'best' 'on' '9' 'of' 'the' '10' 'domain'
+ 'generalization' 'tasks' '.']",[4 4 4 4 4 4 4 4 4 4 4 0 2 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-47,"['Our' 'proposed' 'approach' 'takes' 'an' 'innovative' 'formulation'
+ 'with' 'respect' 'to' 'previous' 'work' 'relying' 'on' 'domain'
+ 'adversarial' 'neural' 'network' '(' 'DANN' ')' '.']",[4 4 4 4 4 4 4 4 4 4 4 4 4 4 0 2 2 2 4 1 4 4]
+TR-48,"['In' 'this' 'line' 'of' 'research' ',' 'is' 'the' 'only' 'learning' '-'
+ 'based' 'power' 'grid' 'synthesis' '(' 'PGS' ')' 'model' 'presented' 'in'
+ 'recent' 'literature' 'that' 'applies' 'a' 'Gaussian' 'Mixture' 'Model'
+ '(' 'GMM' ')' 'to' 'compute' 'the' 'distributions' 'of' 'bus' 'locations'
+ 'in' 'the' 'Western' 'Interconnect' 'network' '.']","[4 4 4 4 4 4 4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4]"
+TR-49,"['It' 'is' 'a' 'C' 'library' 'that' 'finds' 'the' 'minimum' 'values' 'of'
+ 'large' 'quadratic' 'unconstrained' 'binary' 'optimization' '(' 'QUBO'
+ ')' 'problems' '.']",[4 4 4 4 4 4 4 4 4 4 4 4 0 2 2 2 4 1 4 4 4]
+TR-50,"['ICAO' 'Phraseology2132' ',' 'c' 's' 'd' 'g' 'is' 'controlled' 'language'
+ 'for' 'air' 'traffic' 'control' 'defined' 'by' 'the' 'International'
+ 'Civil' 'Aviation' 'Organisation' '(' 'ICAO' ')' 'in' 'the' '1980s' 'or'
+ 'even' 'earlier' '.']",[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 0 2 2 2 4 1 4 4 4 4 4 4 4 4]
+TR-51,"['Our' 'findings' 'report' 'that' 'CodeRank' 'is' 'a' 'more' 'effective'
+ 'term' 'weighting' 'method' 'than' 'the' 'traditional' 'methods' '(' 'TF'
+ ',' 'TF' '-' 'IDF' ')' 'for' 'search' 'query' 'reformulation' 'in' 'the'
+ 'context' 'of' 'source' 'code' '.']",[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4 1 4 1 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-52,"['In' 'this' 'paper' 'we' 'explore' 'the' 'parallel' 'capabilities' 'of'
+ 'modern' 'General' 'Purpose' 'Graphics' 'Processing' 'Units' '(' 'GPGPU'
+ ')' 'applications' 'for' 'high' 'speed' 'pattern' 'matching' '.']",[4 4 4 4 4 4 4 4 4 4 0 2 2 2 2 4 1 4 4 4 4 4 4 4 4]
+TR-53,"['Batch' 'normalization' '(' 'BN' ')' 'is' 'a' 'widely' 'used' 'technique'
+ 'to' 'improve' 'neural' 'network' 'training' 'by' 'normalizing'
+ 'activations' 'throughout' 'the' 'network' 'with' 'respect' 'to' 'each'
+ 'mini' '-' 'batch' '.']",[0 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-54,"['schulman2015' 'propose' 'the' 'Trust' 'Region' 'Policy' 'Optimization'
+ '(' 'TRPO' ')' ',' 'which' 'is' 'effective' 'for' 'optimizing' 'large'
+ 'nonlinear' 'policies' 'and' 'demonstrates' 'robust' 'performance' 'on'
+ 'a' 'wide' 'variety' 'of' 'robotic' 'tasks' '.']",[4 4 4 0 2 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-55,"['We' 'will' 'also' 'consider' 'deterministic' 'normalization'
+ 'techniques' ',' 'that' 'do' 'not' 'depend' 'on' 'the' 'selection' 'of'
+ 'random' 'batches' ':' 'weight' 'normalization' '(' 'WN' ')' 'and'
+ 'analytic' 'normalization' '.']",[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 0 2 4 1 4 4 4 4 4]
+TR-56,"['Finally' ',' 'in' 'Case' 'III' ',' 'while' 'the' 'same' 'CSI'
+ 'assumption' 'as' 'in' 'Case' 'II' 'are' 'made' ',' 'an' 'optimal'
+ 'relay' 'selection' 'scheme' 'is' 'implemented' ',' 'whereby' 'the'
+ 'relay' 'that' 'achieves' 'the' 'maximum' 'secrecy' 'rate' 'is' 'chosen'
+ 'for' 'retransmission' '.']","[4 4 4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4]"
+TR-57,"['As' 'such' ',' 'it' 'may' 'be' 'useful' 'to' 'define' 'a' 'PMF' 'from'
+ 'the' 'canon' 'of' 'discrete' 'probability' 'mass' 'functions' '.']",[4 4 4 4 4 4 4 4 4 4 1 4 4 4 4 4 0 2 2 4]
+TR-58,"['As' 'a' 'result' ',' 'BS' 'calculates' 'the' 'optimal' 'load' 'vector'
+ 'and' 'power' 'vector' 'by' 'solving' 'Problem' '(' ')' '.']",[4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-59,"['The' 'subjective' 'quality' 'index' 'used' 'in' 'the' 'LIVE' 'IQA'
+ 'survey' 'is' 'the' 'Differential' 'Mean' 'Opinion' 'Scores' '(' 'DMOS'
+ ')' 'with' 'values' 'between' '0' 'and' '100' ',' 'where' '0' 'values'
+ 'indicates' 'the' 'highest' 'quality' '.']",[4 4 4 4 4 4 4 1 3 4 4 4 0 2 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-60,"['While' 'adversarial' 'training' 'requires' 'access' 'to' 'ground'
+ 'truth' 'labels' 'to' 'perform' 'adversarial' 'perturbations' ',' 'the'
+ 'Virtual' 'Adversarial' 'Training' '(' 'VAT' ')' 'mechanism' 'proposed'
+ 'by' 'Miyato' 'et' 'al' '.' '(']",[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4 4]
+TR-61,"['Both' 'UC2' 'and' 'UC3' 'can' 'also' 'be' 'considered' 'CB'
+ 'recommenders' '.']",[4 1 4 1 4 4 4 4 1 4 4]
+TR-62,"['ID' 'refers' 'to' 'Item' 'Description' 'based' 'word2vec' 'embeddings'
+ 'directly' 'used' 'to' 'generate' 'recommendations' '.']",[1 4 4 0 2 4 4 4 4 4 4 4 4 4]
+TR-63,"['The' 'main' 'goal' 'of' 'this' 'project' 'is' 'to' 'anchor' 'and'
+ 'compare' 'discourse' 'signals' 'across' 'genres' ',' 'which' 'makes'
+ 'the' 'Georgetown' 'University' 'Multilayer' '(' 'GUM' ')' 'corpus' 'the'
+ 'optimal' 'candidate' ',' 'in' 'that' 'it' 'consists' 'of' 'eight'
+ 'genres' 'including' 'interviews' ',' 'news' 'stories' ',' 'travel'
+ 'guides' ',' 'how' '-' 'to' 'guides' ',' 'academic' 'papers' ','
+ 'biographies' ',' 'fiction' ',' 'and' 'forum' 'discussions' '.']","[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]"
+TR-64,"['Particularly' ',' 'radio' 'frequency' '(' 'RF' ')' 'signals' 'are'
+ 'used' 'as' 'energy' 'sources' 'for' 'energy' 'harvesting' '(' 'EH' ')'
+ '.']",[4 4 0 2 4 1 4 4 4 4 4 4 4 4 0 2 4 1 4 4]
+TR-65,"['As' 'in' 'these' 'other' 'policy' 'domains' ',' 'we' 'expect' 'the'
+ 'public' 'to' 'become' 'more' 'influential' 'over' 'time' 'in'
+ 'impacting' 'AI' 'policy' '.']",[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4 4]
+TR-66,"['This' 'idea' 'has' 'led' 'to' 'the' 'Relation' 'Based' 'Pattern' '('
+ 'RBP' ')' 'model' 'that' 'we' 'introduce' 'in' 'the' 'next' 'section'
+ 'and' 'then' 'evaluate' 'with' 'respect' 'to' 'its' 'effect' 'on' 'both'
+ 'abstract' 'and' 'concrete' 'pattern' 'learning' '.']",[4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-67,"['For' 'multimodal' 'classification' ',' 'we' 'included' 'a' 'simple'
+ 'implementation' 'of' 'Multiple' 'Kernel' 'Learning' '(' 'MKL' ')' 'for'
+ 'the' 'case' 'of' 'two' 'modalities' '.']",[4 4 4 4 4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4]
+TR-68,"['The' 'Minimum' 'Uncertainty' 'Error' '(' 'MUE' ')' 'at' 'IOU' 'is'
+ 'used' 'to' 'determine' 'the' 'ability' 'of' 'the' 'detector' ""'s""
+ 'estimated' 'uncertainty' 'to' 'discriminate' 'true' 'positives' 'from'
+ 'false' 'positives' '.']",[4 0 2 2 4 1 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-69,"['Reinforcement' 'learning' 'metrics' 'reported' 'are' 'the' 'average'
+ 'returned' 'rewards' 'over' '5' 'policies' ',' 'independently' 'trained'
+ 'using' 'the' 'same' 'RL' 'algorithm' 'with' 'a' 'different' 'seed' '.']",[0 2 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4 4 4 4 4 4]
+TR-70,"['TABL' 'is' 'similar' 'to' 'the' 'InBlock' 'proposal' 'in' 'the' 'sense'
+ 'that' 'they' 'both' 'propose' 'a' 'fee' 'based' 'mechanism' 'to'
+ 'acquire' 'IP' 'address' 'allocations' 'and' 'in' 'the' 'analysis' 'of'
+ 'how' 'the' 'resulting' 'mechanism' 'would' 'work' '.']",[1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-71,"['The' 'cost' 'function' 'they' 'optimized' 'comprised' 'a' 'Negative'
+ 'Log' 'Likelihood' '(' 'NLL' ')' 'term' 'and' 'an' 'End' 'Point' 'Error'
+ '(' 'EPE' ')' 'term' '.']",[4 4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 0 2 2 4 1 4 4 4]
+TR-72,"['In' 'the' 'last' 'decade' ',' 'the' 'IoT' '(' 'Internet' 'of' 'Things'
+ ')' 'area' 'has' 'gained' 'a' 'lot' 'of' 'space' 'in' 'several'
+ 'industrial' 'branches' '.']",[4 4 4 4 4 4 1 4 0 2 2 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-73,"['In' 'the' 'PON' 'RC' 'network' 'considered' 'here' ',' 'hubs' 'are'
+ 'public' 'research' 'centres' ',' 'and' 'this' 'represents' 'a' 'strong'
+ 'point' 'for' 'the' 'relationships' 'of' 'the' 'involved' 'productive'
+ 'system' '.']",[4 4 1 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-74,"['She' 'is' 'currently' 'the' 'Professor' 'for' 'Signal' 'Processing' 'in'
+ 'Earth' 'Observation' '(' 'www.sipeo.bgu.tum.de' ')' 'at' 'Technical'
+ 'University' 'of' 'Munich' '(' 'TUM' ')' 'and' 'German' 'Aerospace'
+ 'Center' '(' 'DLR' ')' ';' 'the' 'head' 'of' 'the' 'department' 'of' 'EO'
+ 'Data' 'Science' 'at' 'DLR' ';' 'and' 'the' 'head' 'of' 'the' 'Helmholtz'
+ 'Young' 'Investigator' 'Group' '”' 'SiPEO' '”' 'at' 'DLR' 'and' 'TUM' '.']","[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 0 2 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]"
+TR-75,"['This' 'is' 'computed' 'using' 'a' 'singing' 'voice' 'detection' '('
+ 'SVD' ')' 'system' 'based' 'on' 'deep' 'convolutional' 'neural' 'network'
+ '(' 'ConvNet' ')' '.']",[4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 0 2 2 4 1 4 4]
+TR-76,"['MDS' 'codes' 'that' 'achieve' 'optimal' 'repair' 'bandwidth' 'and'
+ 'load' 'balancing' 'are' 'called' 'Minimum' 'Storage' 'Regenerating' '('
+ 'MSR' ')' 'codes' 'in' 'literature' '.']",[1 4 4 4 4 4 4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 4]
+TR-77,"['IFM' 'and' 'BFM' 'correspond' 'to' 'intermediate' 'and' 'bottleneck'
+ 'feature' 'maps' '.']",[1 4 1 4 4 4 4 0 2 2 4]
+TR-78,"['To' 'decrease' 'pilot' 'overhead' ',' 'we' 'assume' 'pilot' 'reuse' '('
+ 'PR' ')' 'among' 'D2D' 'pairs' '.']",[4 4 4 4 4 4 4 0 2 4 1 4 4 4 4 4]
+TR-79,"['We' 'show' 'that' 'stochastic' 'gradient' 'Markov' 'chain' 'Monte'
+ 'Carlo' '(' 'SG' '-' 'MCMC' ')' '-' 'a' 'class' 'of' 'scalable'
+ 'Bayesian' 'posterior' 'sampling' 'algorithms' 'proposed' 'recently' '-'
+ 'satisfies' 'strong' 'differential' 'privacy' 'with' 'carefully' 'chosen'
+ 'step' 'sizes' '.']",[4 4 4 0 2 2 2 2 2 4 1 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-80,"['Based' 'on' 'our' 'previous' 'work' 'on' 'spatial' 'resolution' '(' 'SR'
+ ')' 'and' 'effective' 'bit' 'depth' '(' 'EBD' ')' 'adaptations' ',' 'and'
+ 'perceptual' 'quality' 'assessment' ',' 'a' 'new' 'video' 'compression'
+ 'framework' ',' 'ViSTRA2' ',' 'is' 'proposed' 'in' 'this' 'paper' '.']","[4 4 4 4 4 4 0 2 4 1 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4 4 4 4 4
+ 4 4]"
+TR-81,"['Could' 'the' 'similar' 'outcomes' 'have' 'been' 'accomplished' 'with'
+ 'alternative' 'methods' 'such' 'as' 'Latent' 'Semantic' 'Analysis' '('
+ 'LSA' ';' ')' 'or' 'other' 'Natural' 'Language' 'Processing' '(' 'NLP'
+ ')' 'methods' '?']",[4 4 4 4 4 4 4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 0 2 2 4 1 4 4 4]
+TR-82,"['Task' '-' 'oriented' 'dialog' 'systems' 'have' 'been' 'an' 'important'
+ 'branch' 'of' 'spoken' 'dialog' 'system' '(' 'SDS' ')' 'research'
+ 'raux2005let' ',' 'young2006using' ',' 'bohus2003ravenclaw' '.']",[4 4 4 4 4 4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4]
+TR-83,"['AI' 'techniques' 'provide' 'similar' 'advantages' 'in' 'issues'
+ 'related' 'to' 'the' 'control' 'and' 'design' 'of' 'optical' 'networks'
+ '.']",[1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-84,"['For' 'comparison' ',' 'we' 'also' 'tested' 'the' 'performance' 'of' 'a'
+ 'commercial' 'face' 'modelling' 'system' '(' 'CFM' ')' 'using' 'the'
+ 'same' 'workflow' '.']",[4 4 4 4 4 4 4 4 4 4 0 2 2 2 4 1 4 4 4 4 4 4]
+TR-85,"['Exponential' '-' 'family' 'random' 'graph' 'models' '(' 'ERG' 'models'
+ 'or' 'ERGMs' ',' 'also' 'known' 'as' '""' 'p' '*' '""' 'models' ')' 'are'
+ 'probabilistic' 'network' 'models' 'that' 'are' 'parametrized' 'in'
+ 'terms' 'of' 'sufficient' 'statistics' 'based' 'on' 'structural' '('
+ 'i.e.' ',' 'graph' '-' 'theoretic' ')' 'properties' '.']","[0 2 2 2 2 2 4 1 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4]"
+TR-86,"['This' 'operation' 'also' 'takes' 'into' 'consideration' 'the' 'frame'
+ 'type' 'and' 'the' 'packet' 'loss' 'rate' ',' 'as' 'well' 'as' 'the' 'AC'
+ 'queue' 'occupancy' 'to' 'avoid' 'congestion' '-' 'induced' 'packet'
+ 'losses' '.']",[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4 4 4 0 2 4 4 4 4 4]
+TR-87,"['There' 'are' 'many' 'classification' 'models' 'that' 'have' 'been'
+ 'used' ',' 'with' 'support' 'vector' 'machine' '(' 'SVM' ')' 'being'
+ 'one' 'of' 'the' 'most' 'popular' 'choices' '.']",[4 4 4 4 4 4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4 4]
+TR-88,"['The' 'resulting' 'model' 'from' 'training' 'will' 'be' 'used' 'to'
+ 'predict' 'electric' 'energy' 'consumption' 'for' 'future'
+ 'years(Predictions' 'for' '2012' 'and' '2013' 'were' 'compared' 'with'
+ 'actual' 'data' 'of' 'corresponding' 'years' 'in' 'Section' ')' ','
+ 'while' 'the' 'error' 'criteria' 'such' 'as' 'mean' 'squared' 'error' '('
+ 'MSE' ')' ',' 'root' 'mean' 'squared' 'error' '(' 'RMSE' ')' ',' 'mean'
+ 'absolute' 'error' '(' 'MAE' ')' 'and' 'mean' 'absolute' 'percentage'
+ 'error' '(' 'MAPE' ')' 'are' 'used' 'as' 'measures' 'to' 'justify' 'the'
+ 'appropriate' 'model' '.']","[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 0 2 2 4 1 4 4 0 2 2 2 4 1 4 4 0 2 2 4 1 4 4 0 2 2 2 4 1 4 4 4 4 4 4 4 4
+ 4 4 4]"
+TR-89,"['Combining' 'SVM' 'with' 'extracted' 'FC1' 'and' 'FC2' 'features' 'can'
+ 'lead' 'to' '1' 'improvement' 'over' 'using' 'softmax' 'classifier' 'via'
+ 'DAP3D' '-' 'Net' 'but' 'cost' 'much' 'more' 'time' 'for' 'detection' ','
+ 'since' 'the' 'separated' 'pipeline' 'of' 'deep' 'feature' 'extraction'
+ 'and' 'SVM' 'is' 'more' 'time' '-' 'consuming' 'than' 'directly'
+ 'detecting' 'actions' 'via' 'DAP3D' '-' 'Net' 'with' 'softmax'
+ 'classifier' '(' 'i.e.' ',' 'average' '52.34s' 'in' 'total' 'for' 'a'
+ '600-frame' 'video' ')' '.']","[4 1 4 4 1 4 1 4 4 4 4 4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 1 4 4 4 4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]"
+TR-90,"['To' 'quantify' 'the' 'performance' 'of' 'speaker' 'ID' 'for' 'normal'
+ 'hearing' '(' 'NH' ')' 'subjects' 'versus' 'cochlear' 'implant' '(' 'CI'
+ ')' 'subjects' ',' 'two' 'alternate' 'time' '-' 'frequency' 'acoustic'
+ 'front' '-' 'ends' 'were' 'considered' 'to' 'represent' 'NH' 'versus'
+ 'CI' 'based' 'human' 'SID' 'performance' '.']","[4 4 4 4 4 4 4 4 0 2 4 1 4 4 4 0 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4
+ 4 4 4 1 4 4]"
+TR-91,"['Labelled' 'Transition' 'Systems' '(' 'LTS' ')' 'or' 'State' 'transition'
+ 'systems' 'are' 'finite' 'state' 'automata' ',' 'where' 'all' 'states'
+ 'are' 'final' 'states' ',' 'or' 'semiautomata' '.']",[0 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-92,"['The' 'authors' 'of' 'derived' 'a' 'closed' '-' 'form' 'expression' 'for'
+ 'the' 'null' 'space' 'of' 'the' 'steering' 'vector' 'along' 'the'
+ 'desired' 'direction' ',' 'and' 'a' 'robust' 'DM' 'synthesis' 'method'
+ 'based' 'on' 'conditional' 'minimum' 'mean' 'square' 'error' '(' 'MMSE'
+ ')' 'criterion' 'was' 'proposed' 'to' 'minimize' 'the' 'distortion' 'of'
+ 'constellation' 'points' 'along' 'the' 'legitimated' 'users' '.']","[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 1 4 4 4 4 4 0 2 2 2 4 1
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]"
+TR-93,"['For' 'each' 'frame' ',' 'the' 'student' 'AI' 'system' 'decided'
+ 'whether' 'it' 'contains' 'an' 'image' 'of' 'pedestrian' '.']",[4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4]
+TR-94,"['While' 'most' 'traditional' 'count' '-' 'based' 'vector' 'learning'
+ 'techniques' 'such' 'as' 'raw' 'count' 'vectors' 'or' 'Point' '-' 'wise'
+ 'Mutual' 'Information' '(' 'PPMI' ')' 'do' 'not' 'capture' 'second' '-'
+ 'order' 'co' '-' 'occurrence' 'information' ',' 'truncated' 'Singular'
+ 'Value' 'Decomposition' '(' 'SVD' ')' 'has' 'been' 'shown' 'to' 'do' 'so'
+ '.']","[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 0 2 2 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 0 2
+ 2 4 1 4 4 4 4 4 4 4 4]"
+TR-95,"['Speaking' 'of' 'time' 'or' 'sequence' 'modeling' 'in' 'NN' ','
+ 'everyone' 'would' 'come' 'up' 'with' 'Recurrent' 'Neural' 'Network' ','
+ 'typically' 'LSTMs' 'and' 'GRUs' '.']",[4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 1 4 1 4]
+TR-96,"['It' 'is' 'known' 'that' 'this' 'problem' 'is' 'NP' '-' 'complete' ','
+ 'therefore' 'researchers' 'have' 'proposed' 'an' 'Iterative' 'Hungarian'
+ 'Method' '(' 'IHM' ')' 'to' 'obtain' 'a' 'near' '-' 'optimal' 'solution'
+ 'for' 'this' 'problem' '.']",[4 4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4]
+TR-97,"['However' ',' 'a' 'key' 'difference' 'between' 'WL' 'kernel' 'and' 'is'
+ 'that' 'the' 'hashing' 'step(label' 'compression' ')' 'of' 'WL' 'kernel'
+ 'do' 'not' 'necessarily' 'capture' 'the' 'local' 'similarities' ':'
+ 'even' 'two' 'nodes' 'with' 'very' 'similar' 'neighborhood' 'could' 'be'
+ 'mapped' 'to' 'totally' 'different' 'labels' ',' 'and' 'perturbing' 'the'
+ 'edges' 'by' 'a' 'small' 'amount' 'will' 'lead' 'to' 'completely'
+ 'different' 'hashing' 'features' '.']","[4 4 4 4 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]"
+TR-98,"['Among' 'RNNs' ',' 'Long' 'Short' '-' 'Term' 'Memory' '(' 'LSTM' ')'
+ 'architecture' ',' 'originally' 'proposed' 'by' 'Hochreiter' 'and'
+ 'Schmidhuber' ',' 'is' 'a' 'multi' '-' 'gated' 'Recurrent' 'Neural' 'Net'
+ '(' 'RNN' ')' 'which' 'has' 'better' 'ability' 'of' 'exploiting' 'long'
+ 'range' 'contexts' 'and' 'can' 'be' 'made' 'deep' 'structured' '.']","[4 4 4 0 2 2 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 0 2 2 4 1 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4]"
+TR-99,"['Farshin' ',' 'A.' ',' 'Sharifian' ',' 'S.' ':' 'A' 'chaotic' 'grey'
+ 'wolf' 'controller' 'allocator' 'for' 'Software' 'Defined' 'Mobile'
+ 'Network' '(' 'SDMN' ')' 'for' '5th' 'generation' 'of' 'cloud' '-'
+ 'based' 'cellular' 'systems' '(' '5' 'G' ')' ""'"" ',' 'Computer'
+ 'Communications' ',' '2017,108' ',' 'pp' '.']","[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 0 2 2 2 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4]"

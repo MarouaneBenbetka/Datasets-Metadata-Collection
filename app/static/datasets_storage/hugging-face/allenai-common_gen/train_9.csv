@@ -1,0 +1,101 @@
+concept_set_idx,concepts,target
+0,['ski' 'mountain' 'skier'],Skier skis down the mountain
+0,['ski' 'mountain' 'skier'],A skier is skiing down a mountain.
+0,['ski' 'mountain' 'skier'],Three skiers are skiing on a snowy mountain.
+1,['wag' 'tail' 'dog'],The dog is wagging his tail.
+1,['wag' 'tail' 'dog'],A dog wags his tail at the boy.
+1,['wag' 'tail' 'dog'],a dog wags its tail with its heart
+2,['lake' 'paddle' 'canoe'],woman paddling canoe on a lake
+2,['lake' 'paddle' 'canoe'],paddle an open canoe along lake .
+2,['lake' 'paddle' 'canoe'],a man paddles his canoe on the lake.
+3,['station' 'train' 'pull'],a train pulls into station
+3,['station' 'train' 'pull'],train pulling in to station .
+3,['station' 'train' 'pull'],the train pulling into station
+4,['hay' 'eat' 'horse'],A horse is eating hay.
+4,['hay' 'eat' 'horse'],The horses are eating hay.
+4,['hay' 'eat' 'horse'],A horse eats hay in the barn
+5,['fan' 'match' 'watch'],watch a match with fans
+5,['fan' 'match' 'watch'],the fans watch the match
+5,['fan' 'match' 'watch'],a fan watches during the match
+6,['mountain' 'surround' 'lake'],a lake surrounded by mountains .
+6,['mountain' 'surround' 'lake'],lake from the surrounding mountains
+6,['mountain' 'surround' 'lake'],one of the mountain ranges that surrounds lake .
+7,['lay' 'rug' 'dog'],A dog laying on a rug.
+7,['lay' 'rug' 'dog'],The dogs laid down on the rug
+7,['lay' 'rug' 'dog'],Brown dog chews on bone while laying on the rug.
+8,['painting' 'wall' 'hang'],hanging a painting on a wall at home
+8,['painting' 'wall' 'hang'],paintings of horses hang on the walls .
+8,['painting' 'wall' 'hang'],There is only one painting hanging on the wall.
+9,['food' 'carry' 'tray'],boy carries a tray of food .
+9,['food' 'carry' 'tray'],people carrying food on trays
+9,['food' 'carry' 'tray'],The woman is carrying two trays of food.
+10,['match' 'stadium' 'watch'],soccer fans watches a league match in a stadium
+10,['match' 'stadium' 'watch'],A stadium full of people watching a tennis match.
+10,['match' 'stadium' 'watch'],supporters watch the match from a hill outside the stadium
+11,['paw' 'lick' 'cat'],A cat licks his paws.
+11,['paw' 'lick' 'cat'],A cat is licking its paw
+11,['paw' 'lick' 'cat'],the cat licks the pad of his front paw
+12,['room' 'tile' 'wall'],a bath room with a toilet and tiled walls
+12,['room' 'tile' 'wall'],Three men tile a wall in a large empty room
+12,['room' 'tile' 'wall'],A wall mounted urinal in a checker tiled rest room.
+13,['lake' 'shore' 'canoe'],canoe on a shore of lake .
+13,['lake' 'shore' 'canoe'],canoe on shore with rainbow across the lake
+13,['lake' 'shore' 'canoe'],Several canoes parked in the grass on the shore of a lake 
+14,['mountain' 'skier' 'way'],A skier on his way to the mountain.
+14,['mountain' 'skier' 'way'],skiers make their way down the mountain
+14,['mountain' 'skier' 'way'],A skier making her way down a snowy mountain.
+15,['boat' 'lake' 'drive'],driving boat on a lake
+15,['boat' 'lake' 'drive'],a boat is being driven through a lake
+15,['boat' 'lake' 'drive'],A fisherman drives his boat on the lake
+16,['grass' 'horse' 'eat'],A horse is eating grass.
+16,['grass' 'horse' 'eat'],The horses are eating grass.
+16,['grass' 'horse' 'eat'],The old horse ate grass all day.
+17,['train' 'come' 'track'],train coming down the track
+17,['train' 'come' 'track'],A train is coming along on a track.
+17,['train' 'come' 'track'],a long train in coming down some tracks
+18,['train' 'track' 'move'],train moving on the tracks
+18,['train' 'track' 'move'],A red train is moving down a track
+18,['train' 'track' 'move'],A train moves slowly on some empty tracks
+19,['train' 'station' 'leave'],a train leaves the station
+19,['train' 'station' 'leave'],a train leaving station bound
+19,['train' 'station' 'leave'],a fast train about to leave station
+20,['passenger' 'train' 'station'],train and passengers at the station
+20,['passenger' 'train' 'station'],passengers leaving a train on a station
+20,['passenger' 'train' 'station'],a train at station with no passengers joining
+21,['train' 'station' 'arrive'],a train arrives at station
+21,['train' 'station' 'arrive'],train arriving at the station
+21,['train' 'station' 'arrive'],subway train arrives in the station
+22,['station' 'sit' 'train'],a train sits at the station
+22,['station' 'sit' 'train'],A train that is sitting in a station.
+22,['station' 'sit' 'train'],A red train sitting at an empty station.
+23,['wagon' 'horse' 'pull'],a tea of horses pull a wagon
+23,['wagon' 'horse' 'pull'],horse pulling man on wagon .
+23,['wagon' 'horse' 'pull'],A wagon is being pulled by horses.
+24,['station' 'stop' 'train'],train is stopped at a station
+24,['station' 'stop' 'train'],trains stopping at the station
+24,['station' 'stop' 'train'],The empty train is stopped in the station.
+25,['plane' 'runway' 'sit'],A plane sits on the runway
+25,['plane' 'runway' 'sit'],An old plane is sitting on a runway.
+25,['plane' 'runway' 'sit'],Two planes are sitting out on the runway.
+26,['fly' 'cloud' 'plane'],plane flying into the clouds
+26,['fly' 'cloud' 'plane'],flying plane against a cloud .
+26,['fly' 'cloud' 'plane'],A plane flies over head in the clouds.
+27,['herd' 'dog' 'sheep'],A dog herds a sheep.
+27,['herd' 'dog' 'sheep'],A dog is herding sheep.
+27,['herd' 'dog' 'sheep'],The dogs are herding sheep.
+28,['boat' 'sit' 'beach'],boats sitting on the beach
+28,['boat' 'sit' 'beach'],a boat is sitting up on a beach
+28,['boat' 'sit' 'beach'],Pelicans sit on a blue boat at the beach.
+29,['train' 'come' 'station'],a train coming into station
+29,['train' 'come' 'station'],tube train comes to station .
+29,['train' 'come' 'station'],train coming in to the station
+30,['float' 'sky' 'cloud'],clouds floating in the sky
+30,['float' 'sky' 'cloud'],clouds float through a blue sky
+30,['float' 'sky' 'cloud'],shot of clouds that float across the sky
+31,['eat' 'grass' 'elephant'],elephants pulling grass to eat .
+31,['eat' 'grass' 'elephant'],An elephant is eating grass in Kenya.
+31,['eat' 'grass' 'elephant'],a bunch of elephants are eating grass
+32,['family' 'time' 'spend'],family spend time in the park
+32,['family' 'time' 'spend'],spending time with the family
+32,['family' 'time' 'spend'],family spend time at a holidays
+33,['wall' 'tile' 'bathroom'],black walls and tiles in the bathroom

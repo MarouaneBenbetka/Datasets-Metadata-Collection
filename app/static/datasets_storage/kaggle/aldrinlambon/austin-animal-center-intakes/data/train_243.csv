@@ -1,0 +1,101 @@
+Animal ID,Name,DateTime,MonthYear,Found Location,Intake Type,Intake Condition,Animal Type,Sex upon Intake,Age upon Intake,Breed,Color
+A895552,Milo,2023-12-31 13:51:00,December 2023,Austin (TX),Owner Surrender,Normal,Cat,Unknown,6 years,Domestic Shorthair,Blue Tabby/White
+A895551,Tom,2023-12-31 13:51:00,December 2023,Austin (TX),Owner Surrender,Normal,Cat,Unknown,6 years,Domestic Shorthair,Blue Tabby/White
+A894556,Kanna,2023-12-31 11:42:00,December 2023,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,6 months,Shiba Inu/Chihuahua Shorthair,Brown
+A895537,Buddy,2023-12-30 20:38:00,December 2023,10940 Research Blvd in Austin (TX),Public Assist,Normal,Dog,Intact Male,2 years,Doberman Pinsch Mix,Red
+A895534,Charlotte,2023-12-30 17:52:00,December 2023,12Th And Airport in Austin (TX),Stray,Normal,Cat,Spayed Female,3 years,Domestic Shorthair,Brown Tabby/White
+A895524,Fluffles,2023-12-30 15:26:00,December 2023,5004 Acorn Grove Ct in Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,9 years,West Highland Mix,White
+A895525,*Marta,2023-12-30 15:21:00,December 2023,13466 Research Blvd in Austin (TX),Abandoned,Normal,Dog,Intact Female,2 years,Plott Hound,Brown Brindle/White
+A895522,,2023-12-30 15:00:00,December 2023,Bear Grass in Austin (TX),Stray,Injured,Cat,Intact Female,1 year,Domestic Shorthair,Brown Tabby
+A895523,Huncho,2023-12-30 14:35:00,December 2023,5004 Acorn Grove Ct in Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,8 years,Chihuahua Shorthair,Blue Smoke/Tan
+A895528,Junior,2023-12-30 14:22:00,December 2023,427 Marlock Rdg in Travis (TX),Stray,Normal,Cat,Intact Male,7 months,Domestic Medium Hair,Black/White
+A895527,Austin,2023-12-30 14:22:00,December 2023,427 Marlock Rdg in Travis (TX),Stray,Normal,Cat,Intact Male,2 months,Domestic Shorthair,Orange Tabby
+A895513,*Willis,2023-12-30 09:58:00,December 2023,Outside Jurisdiction,Stray,Normal,Dog,Intact Male,2 years,German Shepherd Mix,Black
+A828751,Flip,2023-12-30 09:10:00,December 2023,601 Barton Springs Road in Austin (TX),Stray,Injured,Dog,Neutered Male,3 years,Australian Cattle Dog Mix,Blue Tick/Tricolor
+A895501,,2023-12-30 01:20:00,December 2023,16621 Manda Carlson Rd in Travis (TX),Stray,Injured,Dog,Unknown,2 years,German Shepherd,Brown/Black
+A895498,,2023-12-29 18:19:00,December 2023,6503 Sunnysky Way in Austin (TX),Stray,Normal,Cat,Intact Male,5 months,Domestic Shorthair,Brown Tabby/White
+A895500,,2023-12-29 18:19:00,December 2023,6503 Sunnysky Way in Austin (TX),Stray,Normal,Cat,Intact Male,5 months,Domestic Shorthair,Brown Tabby
+A895499,,2023-12-29 18:19:00,December 2023,6503 Sunnysky Way in Austin (TX),Stray,Normal,Cat,Intact Female,6 months,Domestic Shorthair,Calico
+A895497,*Ripka,2023-12-29 18:05:00,December 2023,7201 Levander Loop in Austin (TX),Stray,Normal,Dog,Intact Female,4 years,Pit Bull Mix,Black/White
+A895496,Medusa,2023-12-29 18:01:00,December 2023,5213 Concho Creek Bend in Austin (TX),Stray,Normal,Cat,Spayed Female,3 years,Domestic Longhair,Orange Tabby/White
+A894758,Bruce,2023-12-29 18:00:00,December 2023,1434 Wells Branch Pkwy in Austin (TX),Public Assist,Normal,Dog,Intact Male,2 months,Border Terrier Mix,White
+A895495,,2023-12-29 17:25:00,December 2023,Dessau Road And Parmer Lane in Austin (TX),Stray,Normal,Cat,Spayed Female,1 year,Domestic Shorthair,Calico
+A895492,*Justin,2023-12-29 17:14:00,December 2023,12151 N Ih 35 in Austin (TX),Stray,Injured,Dog,Intact Male,2 years,Pit Bull Mix,Black
+A895487,Gracie,2023-12-29 16:42:00,December 2023,7601 Daffan Ln in Austin (TX),Stray,Normal,Dog,Intact Female,6 months,American Bulldog,White/Gray
+A895486,*Remy,2023-12-29 15:48:00,December 2023,101 E Grady Drive in Austin (TX),Stray,Normal,Dog,Intact Male,2 months,Australian Cattle Dog,Red Tick
+A895483,Nachos,2023-12-29 15:09:00,December 2023,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,1 year,Domestic Medium Hair,Orange Tabby
+A895480,,2023-12-29 15:00:00,December 2023,427 Marlock Ridge in Travis (TX),Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Flame Point
+A895478,Podo,2023-12-29 14:44:00,December 2023,2300 Spirit Of Texas Dr in Austin (TX),Stray,Injured,Dog,Intact Female,9 months,Beagle,Black/White
+A895475,Mochi,2023-12-29 13:59:00,December 2023,2306 Wickersham Ln in Austin (TX),Stray,Normal,Cat,Intact Male,1 year,Domestic Shorthair,Blue Tabby
+A895472,,2023-12-29 13:38:00,December 2023,6312 Arbor Crest in Austin (TX),Stray,Normal,Dog,Intact Female,2 months,Pointer,Blue/White
+A895470,,2023-12-29 13:33:00,December 2023,1015 Lott Ave in Austin (TX),Stray,Normal,Dog,Intact Female,2 years,Chihuahua Shorthair Mix,White/Black
+A895466,*Bear,2023-12-29 13:15:00,December 2023,Outside Jurisdiction,Stray,Normal,Cat,Intact Female,1 month,Domestic Medium Hair,Black
+A895468,*Pine,2023-12-29 13:15:00,December 2023,Outside Jurisdiction,Stray,Normal,Cat,Intact Male,1 month,Domestic Shorthair,Gray Tabby
+A895467,*Spruce,2023-12-29 13:15:00,December 2023,Outside Jurisdiction,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Black
+A895469,*Petunia,2023-12-29 13:15:00,December 2023,Outside Jurisdiction,Stray,Normal,Cat,Intact Female,1 month,Domestic Shorthair,Brown Tabby
+A890250,Ghost,2023-12-29 12:58:00,December 2023,Brackenrigde St And Leland St in Austin (TX),Stray,Normal,Dog,Intact Male,6 months,Boxer Mix,Black/White
+A895458,,2023-12-29 12:20:00,December 2023,Austin (TX),Abandoned,Normal,Dog,Intact Female,2 months,German Shepherd,Brown
+A895460,,2023-12-29 12:20:00,December 2023,Austin (TX),Abandoned,Normal,Dog,Intact Female,2 months,German Shepherd,Tan
+A895459,,2023-12-29 12:20:00,December 2023,Austin (TX),Abandoned,Normal,Dog,Intact Male,2 months,German Shepherd,Tan
+A895462,Bandit,2023-12-29 12:20:00,December 2023,Austin (TX),Abandoned,Normal,Dog,Intact Male,2 months,German Shepherd,Black
+A895463,Marceline,2023-12-29 12:20:00,December 2023,Austin (TX),Abandoned,Normal,Dog,Intact Female,2 months,German Shepherd,Black
+A895461,,2023-12-29 12:20:00,December 2023,Austin (TX),Abandoned,Normal,Dog,Intact Male,2 months,German Shepherd,Black
+A895452,,2023-12-29 11:47:00,December 2023,8104 Taza Trail in Austin (TX),Stray,Normal,Cat,Intact Male,8 months,Domestic Shorthair,Brown Tabby/White
+A895453,,2023-12-29 11:47:00,December 2023,8104 Taza Trail in Austin (TX),Stray,Normal,Cat,Intact Female,8 months,Domestic Medium Hair,Brown Tabby
+A895493,,2023-12-29 11:47:00,December 2023,8104 Taza Trail in Austin (TX),Stray,Normal,Cat,Intact Male,1 year,Domestic Shorthair,Black
+A895494,*Falkor,2023-12-29 11:47:00,December 2023,8104 Taza Trail in Austin (TX),Stray,Normal,Cat,Intact Male,1 year,Domestic Medium Hair,Cream Tabby/White
+A895447,Daisy,2023-12-29 11:17:00,December 2023,Aldrich St And Garcia St in Austin (TX),Stray,Normal,Cat,Intact Female,8 months,Domestic Shorthair,Blue
+A895442,,2023-12-29 10:26:00,December 2023,3000 Oakspring Dr in Austin (TX),Public Assist,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Chocolate/White
+A895439,Christian,2023-12-29 07:20:00,December 2023,7201 Levander Loop in Austin (TX),Stray,Normal,Dog,Intact Male,2 years,Pit Bull,Chocolate
+A895426,Kazakh,2023-12-28 18:12:00,December 2023,8505 Steamline Circle in Austin (TX),Stray,Normal,Bird,Unknown,2 years,Hawk,Brown
+A895427,Sunny,2023-12-28 18:02:00,December 2023,5225 Jain Ln in Austin (TX),Stray,Normal,Cat,Intact Female,6 months,Domestic Shorthair,Brown Tabby
+A895414,*Jade,2023-12-28 16:08:00,December 2023,3117 Peavey Drive in Travis (TX),Stray,Injured,Dog,Intact Female,2 years,Labrador Retriever Mix,Black/White
+A895380,,2023-12-28 15:41:00,December 2023,Old Koenig Lane And Sunshine Dr in Austin (TX),Stray,Sick,Cat,Intact Male,2 years,Siamese Mix,Flame Point
+A895411,,2023-12-28 14:53:00,December 2023,11606 N Lamar Blvd in Austin (TX),Stray,Normal,Cat,Neutered Male,2 years,Domestic Shorthair,Blue
+A895409,,2023-12-28 14:19:00,December 2023,2400 East 6Th St in Austin (TX),Stray,Normal,Cat,Intact Female,2 months,Domestic Shorthair Mix,Black/White
+A895413,Odin,2023-12-28 14:12:00,December 2023,15423 Trumpet Dr in Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,4 years,Great Pyrenees,White
+A895404,,2023-12-28 13:24:00,December 2023,16508 North Fm 973 in Travis (TX),Stray,Injured,Cat,Intact Female,2 years,Domestic Shorthair,Black/White
+A895405,Moonlight,2023-12-28 12:50:00,December 2023,1156 West Cesar Chavez in Austin (TX),Stray,Sick,Cat,Spayed Female,1 year,Domestic Shorthair,Blue Tabby
+A891455,Jack,2023-12-28 12:21:00,December 2023,161 Marasvillas Bd in Bastrop (TX),Owner Surrender,Normal,Dog,Neutered Male,6 years,Labrador Retriever/Anatol Shepherd,Tan/White
+A895400,Tiny,2023-12-28 12:15:00,December 2023,413 Navasota St Apt 413 in Austin (TX),Public Assist,Normal,Cat,Spayed Female,2 years,Domestic Shorthair,Tortie
+A895394,Peaches,2023-12-28 12:15:00,December 2023,413 Navasota St Apt 413 in Austin (TX),Public Assist,Normal,Dog,Spayed Female,2 years,Siberian Husky,Black/White
+A895399,,2023-12-28 12:06:00,December 2023,14320 Tandem Blvd in Travis (TX),Stray,Normal,Cat,Intact Male,1 year,Domestic Shorthair,Brown Tabby/White
+A895402,Phoenix,2023-12-28 12:02:00,December 2023,Bradshaw Road And Zachary Scott Street in Austin (TX),Stray,Normal,Dog,Intact Female,5 months,Staffordshire Mix,Blue/White
+A895396,Joker,2023-12-28 11:17:00,December 2023,Austin (TX),Abandoned,Normal,Dog,Intact Male,1 year,Siberian Husky/German Shepherd,Sable/White
+A895390,*Bmo,2023-12-28 11:00:00,December 2023,2439 Town Lake Circle in Austin (TX),Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Blue/White
+A895388,Peaches,2023-12-28 10:50:00,December 2023,12000 S Ih 35 in Austin (TX),Stray,Normal,Dog,Intact Female,5 months,Pit Bull,White/Gray
+A895386,*Jessica,2023-12-28 09:40:00,December 2023,12544 Riatta Vista Circle in Austin (TX),Stray,Normal,Dog,Intact Female,2 years,Chihuahua Shorthair Mix,Tan
+A895385,Bunny,2023-12-28 09:40:00,December 2023,12544 Riatta Vista Circle in Austin (TX),Stray,Normal,Dog,Intact Male,2 years,Chihuahua Longhair Mix,Black/Tan
+A895382,Buttercup,2023-12-28 07:19:00,December 2023,6401 South 1St Street in Austin (TX),Stray,Injured,Dog,Intact Female,2 years,Labrador Retriever,Black
+A895374,Knight,2023-12-28 07:12:00,December 2023,9605 North Creek Drive in Austin (TX),Stray,Sick,Cat,Intact Male,2 years,Domestic Shorthair,Black/White
+A895368,*Julius,2023-12-27 18:19:00,December 2023,2101 Elmont Dr in Austin (TX),Stray,Normal,Cat,Intact Male,8 months,Domestic Shorthair,Orange Tabby
+A895370,,2023-12-27 18:19:00,December 2023,2101 Elmont Dr in Austin (TX),Stray,Normal,Cat,Intact Male,3 months,Domestic Shorthair,Blue
+A895367,,2023-12-27 18:19:00,December 2023,2101 Elmont Dr in Austin (TX),Stray,Normal,Cat,Intact Female,8 months,Domestic Shorthair,Orange Tabby/White
+A895369,Flamy,2023-12-27 18:19:00,December 2023,2101 Elmont Dr in Austin (TX),Stray,Normal,Cat,Intact Male,4 months,Domestic Shorthair,Cream Tabby
+A895365,Rocky,2023-12-27 17:57:00,December 2023,4114 Todd Lane in Austin (TX),Stray,Normal,Dog,Intact Male,2 years,Toy Poodle Mix,Black
+A895358,*Ella,2023-12-27 16:30:00,December 2023,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,6 months,Domestic Shorthair,Brown Tabby/White
+A895357,*Gabby,2023-12-27 16:30:00,December 2023,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,6 months,Domestic Shorthair,Brown Tabby/White
+A895355,*Swiffer,2023-12-27 15:31:00,December 2023,621 River Oaks Dr in Travis (TX),Stray,Normal,Cat,Intact Male,1 year,Siamese Mix,Lynx Point/White
+A890175,*Badger,2023-12-27 15:12:00,December 2023,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,2 years,Pit Bull,Blue/White
+A895352,,2023-12-27 15:05:00,December 2023,23305 Big Sandy Drive in Leander (TX),Stray,Normal,Cat,Unknown,2 years,Domestic Shorthair,Brown Tabby
+A895349,,2023-12-27 15:05:00,December 2023,23305 Big Sandy Drive in Leander (TX),Stray,Normal,Cat,Intact Female,2 years,Domestic Shorthair,Torbie
+A895348,Luna,2023-12-27 15:03:00,December 2023,7509 N Interstate Hwy 35 in Austin (TX),Stray,Normal,Cat,Intact Female,6 months,Domestic Shorthair,Brown Tabby/White
+A895346,Sabot,2023-12-27 14:29:00,December 2023,23006 Hog Eye Rd in Travis (TX),Stray,Injured,Dog,Intact Male,2 years,German Shepherd,Black/White
+A888614,Faragmos,2023-12-27 14:09:00,December 2023,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,4 years,Pit Bull,Tan
+A895341,Elvis,2023-12-27 13:37:00,December 2023,7308 Rhett Pl And Asa Ln in Austin (TX),Abandoned,Normal,Dog,Intact Male,1 year,Pit Bull Mix,Red
+A895343,*Luna,2023-12-27 13:34:00,December 2023,Onion Creek Drive in Austin (TX),Stray,Normal,Dog,Intact Female,6 years,Labrador Retriever,Black
+A895335,Kito,2023-12-27 13:13:00,December 2023,14011 Owen Tech in Travis (TX),Public Assist,Injured,Dog,Neutered Male,2 years,Chihuahua Shorthair,White/Brown
+A895339,*Oliver,2023-12-27 12:38:00,December 2023,1123 Airport And Springdale in Austin (TX),Stray,Normal,Dog,Intact Male,10 months,Standard Schnauzer Mix,White
+A757773,O'Malley,2023-12-27 12:33:00,December 2023,Onion Creek Drive in Austin (TX),Stray,Normal,Dog,Neutered Male,6 years,Catahoula Mix,Sable
+A895327,Oatmeal,2023-12-27 11:50:00,December 2023,1706  Demaret St in Travis (TX),Stray,Normal,Dog,Intact Male,2 years,Australian Cattle Dog Mix,Blue Tick
+A895328,Bristol,2023-12-27 11:50:00,December 2023,1706  Barbergate St in Travis (TX),Stray,Normal,Dog,Intact Female,3 years,Australian Cattle Dog,Black/Blue Tick
+A895329,*Shishito,2023-12-27 11:47:00,December 2023,8104 Taza Trail in Austin (TX),Stray,Normal,Cat,Unknown,5 months,Domestic Shorthair,Blue Tabby/White
+A895331,*Max,2023-12-27 11:47:00,December 2023,8104 Taza Trail in Austin (TX),Stray,Normal,Cat,Intact Male,2 months,Domestic Shorthair,White/Orange Tabby
+A895330,,2023-12-27 11:47:00,December 2023,8104 Taza Trail in Austin (TX),Stray,Normal,Cat,Intact Female,5 months,Domestic Shorthair,Calico
+A895325,Canelo,2023-12-27 11:32:00,December 2023,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,7 months,American Bulldog/Pit Bull,Brown Brindle/White
+A895326,Rollie,2023-12-27 11:32:00,December 2023,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,7 months,American Bulldog/Pit Bull,White/Black
+A895106,*Venus,2023-12-27 10:30:00,December 2023,12330 Metric Blvd in Austin (TX),Abandoned,Normal,Cat,Intact Female,1 year,Domestic Shorthair Mix,Torbie/White
+A895312,Riley,2023-12-27 09:49:00,December 2023,1167 Webberville Rd in Austin (TX),Stray,Injured,Dog,Intact Female,1 year,Labrador Retriever/Great Pyrenees,White
+A895305,,2023-12-27 07:00:00,December 2023,21316 Blake Manor Road in Travis (TX),Stray,Sick,Dog,Intact Male,4 months,Australian Cattle Dog Mix,White/Black
+A854475,Pj,2023-12-27 06:15:00,December 2023,Travis (TX),Public Assist,Normal,Dog,Neutered Male,3 years,Pit Bull Mix,Chocolate/White
+A895299,Rascal,2023-12-27 06:15:00,December 2023,Travis (TX),Public Assist,Normal,Dog,Intact Male,2 years,Australian Cattle Dog,Red/White

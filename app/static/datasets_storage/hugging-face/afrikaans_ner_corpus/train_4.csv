@@ -1,0 +1,324 @@
+id,tokens,ner_tags
+0,"['Vertaling' 'van' 'die' 'inligting' 'in' 'die' 'oorblywende' 'amptelike'
+ 'tale' 'sal' 'na' 'verwagting' 'teen' 'Maart' '2007' 'afgehandel' 'wees'
+ '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 7 8 0 0 0]
+1,"['Dienste-inligting' 'word' 'oorspronklik' 'in' 'Engels' 'opgestel' ','
+ 'waarna' 'dit' 'in' 'die' 'ander' 'tale' 'vertaal' 'word' '.']",[0 0 0 0 7 0 0 0 0 0 0 0 0 0 0 0]
+2,"['Gebruik' 'die' 'Kontak' 'ons' 'bladsy' 'om' 'kommentaar' 'te' 'lewer'
+ 'oor' 'of' 'navraag' 'te' 'doen' 'na' 'die' 'Regeringsdienste-webtuiste'
+ '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+3,"['Sien' 'Terme' 'en' 'Voorwaardes' ',' 'par.' '4.3' '.']",[0 0 0 0 0 0 0 0]
+4,"['Regeringskommunikasie' '(' 'GCIS' ')' 'is' 'verantwoordelik' 'vir' 'die'
+ 'oorkoepelende' 'bestuur' 'en' 'koördinering' 'van' 'die' 'webtuiste'
+ 'se' 'inhoud' '.']",[3 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+5,"['Ten' 'einde' 'PDF-dokumente' 'te' 'kan' 'oopmaak' ',' 'moet' 'jy'
+ 'Adobe' 'Acrobat' 'Reader' '4' 'of' 'hoër' 'op' 'jou' 'rekenaar'
+ 'geïnstalleer' 'hê' '.']",[0 0 7 0 0 0 0 0 0 3 4 7 8 0 0 0 0 0 0 0 0]
+6,['Soms' 'neem' 'dit' 'lank' 'om' 'PDF-dokumente' 'oop' 'te' 'maak' '.'],[0 0 0 0 0 7 0 0 0 0]
+7,['Wanneer' 'jy' 'Internet' 'Explorer' 'as' 'jou' 'blaaier' 'gebruik' ':'],[0 0 7 8 0 0 0 0 0]
+8,"['In' 'die' 'tuimel-kieslys' 'wat' 'verskyn' ',' 'kies' ""'"" 'Save'
+ 'Target' 'As' ""'"" '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0]
+9,"['In' 'die' ""'"" 'Save' 'As' ""'"" 'venstertjie' ',' 'kies' 'die' 'plek' 'op'
+ 'jou' 'hardeskyf' 'waar' 'jy' 'die' 'dokument' 'wil' 'stoor' 'en' 'klik'
+ 'op' 'die' ""'"" 'Save' ""'"" 'knoppie' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+10,"['Maak' 'jou' 'Acrobat' 'Reader' 'toepassing' 'oop' 'en' 'maak' 'daarna'
+ 'die' 'dokumente' 'wat' 'jy' 'afgelaai' 'het' 'oop' '.']",[0 0 3 7 0 0 0 0 0 0 0 0 0 0 0 0 0]
+11,['Wanneer' 'jy' 'Netscape' 'as' 'jou' 'blaaier' 'gebruik' ':'],[0 0 3 0 0 0 0 0]
+12,"['In' 'die' ""'"" 'Save' 'As' ""'"" 'venstertjie' ',' 'kies' 'die' 'plek' 'op'
+ 'jou' 'hardeskyf' 'waar' 'jy' 'die' 'dokument' 'wil' 'stoor' 'en' 'klik'
+ 'op' 'die' ""'"" 'Save' ""'"" 'knoppie' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+13,"['Maak' 'jou' 'Acrobat' 'Reader' 'toepassing' 'oop' 'en' 'maak' 'daarna'
+ 'ook' 'die' 'dokumente' 'wat' 'jy' 'afgelaai' 'het' 'oop' '.']",[0 0 3 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+14,"['Kontak' 'ons' 'asseblief' '(' 'electronic@gcis.gov.za' ')' 'indien' 'jy'
+ 'enige' 'probleme' 'met' 'die' 'webtuiste' 'ondervind' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+15,"['Indien' ""'n"" 'vereniging' ',' 'maatskappy' 'of' 'beslote' 'korporasie'
+ 'nie' 'sy' 'skuld' 'kan' 'of' 'wil' 'betaal' 'nie' 'en' 'ook' 'nie' 'sy'
+ 'verpligtinge' 'kan' 'nakom' 'nie' '(' 'weens' 'insolvensie' ','
+ 'wanbestuur' 'of' 'om' 'enige' 'ander' 'rede' ')' 'mag' 'die'
+ 'Direkteur-generaal' 'van' 'Handel' 'en' 'Nywerheid' ""'n""
+ 'sakeonderneming' 'onder' 'administrasie' 'plaas' 'of' 'laat' 'likwideer'
+ '.']","[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 3 4 4 0 0 0 0 0 0 0 0 0]"
+16,"['Indien' 'die' 'hof' 'beslis' 'dat' 'die' 'Direkteur-generaal' 'die'
+ 'vereniging' 'of' 'voorlopige' 'vereniging' 'onder' 'administrasie'
+ 'moet' 'plaas' ',' 'sal' 'hy' 'of' 'sy' 'oor' 'die' 'nodige' 'gesag'
+ 'beskik' 'om' 'die' 'vereniging' 'of' 'voorlopige' 'vereniging' 'se'
+ 'sake' 'ooreenkomstig' 'die' 'voorwaardes' 'van' 'die' 'Maatskappywet'
+ ',' '1973' 'te' 'administreer' '.']","[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 7 8 8 0 0 0]"
+17,"['Indien' 'die' 'vereniging' 'of' 'voorlopige' 'vereniging' 'skriftelik'
+ 'by' 'die' 'Direkteur-generaal' 'daarom' 'aansoek' 'doen' ',' 'kan' 'hy'
+ 'of' 'sy' 'die' 'vereniging' 'of' 'voorlopige' 'vereniging'
+ 'deregistreer' 'indien' 'hy' 'of' 'sy' 'tevrede' 'is' 'dat']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+18,"['In' 'sy' 'beslissing' 'sal' 'die' 'hof' 'enige' 'moontlike'
+ 'aanbevelings' 'deur' 'die' 'Direkteur-generaal' 'oor' 'die' 'verdeling'
+ 'van' 'bates' 'in' 'ag' 'neem' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+19,"['In' 'die' 'geval' 'van' ""'n"" 'maatskappy' 'of' 'beslote' 'korporasie'
+ '(' 'BK' ')' 'kan' 'enige' 'belanghebbende' 'party' ',' 'direkteur' 'of'
+ 'ouditeur' 'van' 'die' 'maatskappy' ',' 'die' 'Suid-Afrikaanse'
+ 'Inkomstediens' '(' 'SAID' ')' 'of' 'die' 'Registrateur' 'van'
+ 'Maatskappye' 'om' 'die' 'deregistrasie' 'van' ""'n"" 'maatskappy' 'of'
+ 'BK' 'aansoek' 'doen' '.']","[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 0 3 0 0 0 1 2 2 0 0
+ 0 0 0 0 0 0 0 0 0]"
+20,"['Hierdie' 'voorkeurbehandeling' 'is' 'egter' 'net' 'van' 'toepassing'
+ 'op' 'organisasies' 'wat' 'aan' 'die' 'bepalings' 'van' 'die' 'Wet' 'op'
+ 'Organisasies' 'sonder' 'Winsoogmerk' ',' '1997' 'en' 'verwante'
+ 'wetgewing' 'voldoen' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 8 8 8 8 8 8 0 0 0 0 0]
+21,"['Organisasies' 'wat' 'vir' 'vrystelling' 'aansoek' 'wil' 'doen' ','
+ 'moet' 'in' 'een' 'van' 'die' 'onderstaande' 'kategorieë' 'val' ':']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+22,"['So' ""'n"" 'artikel' '21-maatskappy' 'moet' ""'n"" 'akte' 'van' 'oprigting'
+ 'as' 'stigtingsdokument' 'hê' 'en' 'by' 'die' 'Registrateur' 'van'
+ 'Maatskappye' 'geregistreer' 'wees' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 0 0 0]
+23,"['As' 'die' 'stigtingsdokument' 'nie' 'aan' 'die' 'voorwaardes' 'van'
+ 'Artikel' '30' 'van' 'die' 'Wet' 'op' 'Organisasies' 'sonder'
+ 'Winsoogmerk' ',' '1997' 'voldoen' 'nie' ',' 'moet' ""'n"" 'geskrewe'
+ 'onderneming' 'wat' 'deur' 'die' 'aansoeker' 'onderteken' 'is' ',' 'saam'
+ 'met' 'die' 'aansoekvorm' 'ingedien' 'word' '.']","[0 0 0 0 0 0 0 0 0 0 0 0 7 8 8 8 8 8 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0]"
+24,"['Organisasies' 'wat' 'tans' 'nie' 'formeel' 'van' 'inkomstebelasting'
+ 'vrygestel' 'is' 'nie' ',' 'kan' ""'n"" 'ingevulde' 'aansoekvorm' 'indien'
+ ',' 'saam' 'met' 'die' 'nodige' 'ondersteunende' 'dokumente' 'en' 'die'
+ 'ondertekende' 'geskrewe' 'onderneming' 'waarin' 'persone' 'wat' 'in'
+ ""'n"" 'fidusiêre' 'hoedanigheid' 'optree' ',' 'onderneem' 'om' 'aan' 'die'
+ 'voorwaardes' 'van' 'Artikel' '30' 'van' 'die' 'Wet' 'op' 'Organisasies'
+ 'sonder' 'Winsoogmerk' ',' '1997' ',' 'te' 'voldoen' '.']","[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 7 8 8 8 8 8 8 0 0 0 0]"
+25,"['maatskappy' ':' 'Heg' ""'n"" 'kopie' 'van' 'die' 'akte' 'van' 'oprigting'
+ 'aan' '(' 'insluitende' 'kopieë' 'van' 'al' 'die' 'geregistreerde'
+ 'spesiale' 'besluite' 'wat' 'die' 'akte' 'van' 'oprigting' 'wysig' ')']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+26,"['trust' ':' 'Heg' ""'n"" 'kopie' 'van' 'die' 'trustakte' 'en' 'enige'
+ 'daaropvolgende' 'aktes' 'van' 'wysiging' 'aan']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+27,"['vereniging' 'van' 'persone' ':' 'Heg' ""'n"" 'kopie' 'van' 'die' 'jongste'
+ 'weergawe' 'van' 'die' 'grondwet' 'aan' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+28,"['Organisasies' 'wat' 'gestig' 'is' 'met' 'die' 'hoofdoelstelling' 'om'
+ 'stipendiums' ',' 'studiebeurse' 'en' 'ander' 'toekennings' 'vir'
+ 'studie' ',' 'navorsing' 'en' 'onderrig' 'te' 'verskaf' ',' 'moet' 'naas'
+ 'al' 'die' 'ondersteunende' 'dokumente' 'wat' 'hierbo' 'genoem' 'is'
+ 'ook' ""'n"" 'EI' '3' 'Geskrewe' 'Onderneming' 'invul' 'en' 'indien' '.']","[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 8
+ 8 8 0 0 0 0]"
+29,"['Openbare' 'en' 'onafhanklike' '(' 'privaat' ')' 'skole' ','
+ 'hoëronderwysinstellings' ',' 'instellings' 'vir' 'volwassene-' 'basiese'
+ 'onderwys' 'en' 'opleiding' '(' 'VBOO' ')' 'en' 'instellings' 'vir'
+ 'verdere' 'onderwys' 'en' 'opleiding' '(' 'VOO' ')' 'moet' ""'n"" 'kopie'
+ 'van' ""'n"" 'registrasiesertifikaat' 'wat' 'deur' 'die' 'betrokke'
+ 'opvoedkundige' 'owerheid' 'uitgereik' 'is' ',' 'indien' '.']","[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0]"
+30,"['Jou' 'kinders' 'se' 'reg' 'op' 'onderhoud' 'is' 'nie' 'afhanklik' 'van'
+ 'jou' 'siening' 'van' 'die' 'ander' 'ouer' 'se' 'gedrag' 'nie' '.' 'Jy'
+ 'moet' 'steeds' 'onderhoud' 'betaal' ',' 'selfs' 'indien' 'die' 'ander'
+ 'ouer']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+31,"['Deur' 'middel' 'van' ""'n"" 'bevel' 'wat' 'aan' 'die' 'werkgewer' 'van'
+ 'persoon' 'wat' 'aanspreeklik' 'is' 'vir' 'die' 'betaling' 'van'
+ 'onderhoud' 'opdrag' 'gee' 'om' 'die' 'onderhoudsbetalings' 'regstreeks'
+ 'van' 'sy' 'werknemer' 'se' 'salaris' 'af' 'te' 'trek' ',' 'in'
+ 'ooreenstemming' 'met' 'die' 'Wet' 'op' 'Onderhoud' ',' '1998']","[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 7 8 8 8 8]"
+32,['In' 'die' 'afdeling' 'Soort' 'kliënt' ':'],[0 0 0 7 8 0]
+33,"['Verstrek' 'die' 'volgende' 'inligting' 'in' 'die' 'afdeling'
+ 'Invoerdersbesonderhede' ':']",[0 0 0 0 0 0 0 7 0]
+34,"['wie' 'verantwoordelik' 'sal' 'wees' 'vir' 'die' 'opstel' 'en'
+ 'voorlegging' 'van' 'dokumente' 'aan' 'die' 'Suid-Afrikaanse'
+ 'Inkomstediens' ';' 'en']",[0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 0 0]
+35,"['Vul' 'die' 'aansoekvorm' 'in' 'en' 'handig' 'dit' 'in' 'by' 'die'
+ 'naaste' 'SAID-doeane-en-aksynskantoor' 'in' '.']",[0 0 0 0 0 0 0 0 0 0 0 3 0 0]
+36,"[""'n"" 'Permit' 'van' 'die' 'Departement' 'van' 'Handel' 'en' 'Nywerheid'
+ '-' 'indien' 'van' 'toepassing']",[0 0 0 0 3 4 4 4 4 0 0 0 0]
+37,"['Verstrek' 'die' 'volgende' 'inligting' 'in' 'die'
+ 'Handelsbesonderhede-gedeelte' '(' 'Kliënttipe' 'II' ')' ':']",[0 0 0 0 0 0 7 0 7 8 0 0]
+38,"['Verstrek' 'die' 'volgende' 'inligting' 'in' 'die' 'gedeelte' 'getiteld'
+ 'Besonderhede' 'van' 'kortingspakhuis' ':']",[0 0 0 0 0 0 0 0 7 8 8 0]
+39,"['Verstrek' 'die' 'volgende' 'inligting' 'in' 'die' 'Verklaring-gedeelte'
+ ':']",[0 0 0 0 0 0 7 0]
+40,"['Dien' 'die' 'ingevulde' 'vorm' 'by' 'die' 'naaste' 'doeane-' 'en'
+ 'aksynskantoor' 'van' 'die' 'SAID' 'in' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 3 0 0]
+41,"['die' 'besigheid' 'se' 'registrasiesertifikaat' ',' 'wat' 'deur' 'die'
+ 'Registrateur' 'van' 'Maatskappye' 'of' ',' 'in' 'die' 'geval' 'van' ""'n""
+ 'trust' ',' 'deur' 'die' 'Meester' 'van' 'die' 'Hooggeregshof'
+ 'uitgereik' 'is']",[0 0 0 0 0 0 0 0 1 2 2 0 0 0 0 0 0 0 0 0 0 0 1 2 2 2 0 0]
+42,"[""'n"" 'Permit' 'van' 'die' 'Departement' 'van' 'Handel' 'en' 'Nywerheid'
+ '(' 'indien' 'van' 'toepassing' ')']",[0 0 0 0 3 4 4 4 4 0 0 0 0 0]
+43,"['die' 'besonderhede' 'en' 'bewoording' 'op' 'die' 'etiket' 'of' 'houer'
+ 'mag' 'nie' 'verander' 'word' 'sonder' 'vooraf' 'goedkeuring' 'van' 'die'
+ 'registrateur' 'nie']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+44,"['die' 'sak-' 'of' 'houergrootte' 'mag' 'nie' 'verander' 'word' 'sonder'
+ 'vooraf' 'geskrewe' 'goedkeuring' 'van' 'die' 'registrateur' 'nie' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+45,"['Dien' 'aansoekvorms' 'in' 'duplikaat' 'in' 'en' 'vul' 'die' 'vorms'
+ 'volledig' 'in' ',' 'sonder' 'om' 'te' 'verwys' 'na' 'vorige' 'aansoeke'
+ ',' 'bladsynommers' 'of' 'ander' 'produkte' '(' 'ten' 'minste' 'een'
+ 'afskrif' 'van' 'die' 'aansoekvorms' 'moet' ""'n"" 'oorspronklike'
+ 'handtekening' 'hê' '.']","[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0]"
+46,"['die' 'besonderhede' 'en' 'bewoording' 'op' 'die' 'etiket' 'of' 'houer'
+ 'mag' 'nie' 'verander' 'word' 'sonder' 'vooraf' 'goedkeuring' 'van' 'die'
+ 'registrateur' 'nie']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+47,"['die' 'sak-' 'of' 'houergrootte' 'mag' 'nie' 'verander' 'word' 'sonder'
+ 'vooraf' 'geskrewe' 'goedkeuring' 'van' 'die' 'registrateur' 'nie' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+48,"['Dien' 'aansoekvorms' 'in' 'duplikaat' 'in' 'en' 'vul' 'die' 'vorms'
+ 'volledig' 'in' ',' 'sonder' 'om' 'te' 'verwys' 'na' 'vorige' 'aansoeke'
+ ',' 'bladsynommers' 'of' 'ander' 'produkte' '(' 'ten' 'minste' 'een'
+ 'afskrif' 'van' 'die' 'aansoekvorms' 'moet' ""'n"" 'oorspronklike'
+ 'handtekening' 'hê' '.']","[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0]"
+49,"['Planttelersregte' 'word' 'slegs' 'toegestaan' 'vir' 'variëteite' 'van'
+ 'dié' 'soorte' 'plante' 'wat' 'ingevolge' 'die' 'Wet' 'op'
+ 'Planttelersregte' ',' '1976' 'verklaar' 'is' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 7 8 8 8 8 0 0 0]
+50,"['Voortplantingsmateriaal' 'aan' 'die' 'DUS-vereistes' '('
+ 'onderskeibaarheid' ',' 'eenvormigheid' 'en' 'stabiliteit' ')' 'voldoen'
+ ',' 'naamlik' ':']",[0 0 0 7 0 0 0 0 0 0 0 0 0 0 0]
+51,"['Dokumente' 'en' 'voortplantingsmateriaal' 'moet' 'op' 'voorgeskrewe'
+ 'datums' 'by' 'die' 'Registrateur' 'ingedien' 'word' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0]
+52,"['Jy' 'kan' 'hierdie' 'datums' ',' 'asook' 'inligting' 'oor' 'die'
+ 'hoeveelheid' 'van' 'die' 'voortplantingsmateriaal' 'wat' 'ingedien'
+ 'moet' 'word' 'en' 'die' 'plek' 'van' 'indiening' ',' 'kan' 'by' 'die'
+ 'Registrateur' 'aanvra' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+53,"['Om' 'seewatervis' 'op' 'rekreasiegrondslag' 'in' 'te' 'voer' ',' 'moet'
+ 'jy' 'aansoek' 'doen' 'om' ""'n"" 'rekreasie-invoerpermit' 'wat' 'deur'
+ 'die' 'Minister' 'van' 'Omgewingsake' 'en' 'Toerisme' '(' 'DEA&T' ')' ','
+ 'of' 'gedelegeerde' 'instansie' ',' 'uitgereik' 'sal' 'word' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 2 2 0 3 0 0 0 0 0 0 0 0 0 0]
+54,"['LW' ':' 'Hierdie' 'invoerpermit' 'sluit' 'varswatervis' 'uit' ',' 'want'
+ 'dit' 'word' 'deur' 'die' 'Departement' 'van' 'Landbou' 'geadministreer'
+ '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 4 0 0]
+55,"['Aansoek' 'om' ""'n"" 'invoerpermit' 'vir' 'lewende' 'varswatervis' 'of'
+ 'tropiese' 'vis' 'moet' 'by' 'die' 'Departement' 'van' 'Landbou'
+ 'ingedien' 'word' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 4 0 0 0]
+56,"['Geen' 'spesie' 'wat' 'deur' 'die' 'Konvensie' 'oor' 'Internasionale'
+ 'Handel' 'in' 'Bedreigde' 'Spesies' 'van' 'Wilde' 'Fauna' 'en' 'Flora'
+ '(' 'CITES' ')' 'gelys' 'is' ',' 'mag' 'ingevoer' 'word' 'nie' '.']",[0 0 0 0 0 7 8 8 8 8 8 8 8 8 8 8 8 0 7 0 0 0 0 0 0 0 0 0]
+57,"['(' 'Kry' 'meer' 'inligting' 'oor' 'CITES' 'by' 'http://www.cites.org'
+ '.' ')']",[0 0 0 0 0 7 0 0 0 0]
+58,"['Vul' 'die' 'nodige' 'aansoekvorms' 'in' 'en' 'dien' 'hulle' ',' 'saam'
+ 'met' 'ondergenoemde' 'inligting' ',' 'by' 'die' 'Departement' 'van'
+ 'Omgewingsake' 'en' 'Toerisme' '(' 'Department' 'of' 'Environmental'
+ 'Affairs' 'and' 'Tourism' ')' 'in' ':']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 4 4 4 0 3 4 4 4 4 4 0 0 0]
+59,"['bewys' 'van' 'betaling' '(' 'bankdepositostrokie' 'vir' 'die'
+ 'permitfooi' 'van' 'R120' 'per' 'aansoeker' ')']",[0 0 0 0 0 0 0 0 0 0 0 0 0]
+60,"['Varswatervis' 'word' 'deur' 'die' 'Departement' 'van' 'Landbou'
+ 'geadministreer' '.']",[0 0 0 0 3 4 4 0 0]
+61,"['Aansoeke' 'om' ""'n"" 'uitvoerpermit' 'vir' 'lewende' ',' 'gematigde'
+ 'varswatervis' 'of' 'tropiese' 'vis' 'moet' 'by' 'die' 'Departement'
+ 'van' 'Landbou' 'ingedien' 'word' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 4 0 0 0]
+62,"['Geen' 'spesie' 'wat' 'deur' 'die' 'Konvensie' 'oor' 'Internasionale'
+ 'Handel' 'in' 'Bedreigde' 'Spesies' 'van' 'Wilde' 'Fauna' 'en' 'Flora'
+ 'gelys' 'is' ',' 'mag' 'ingevoer' 'word' 'nie' '.']",[0 0 0 0 0 7 8 8 8 8 8 8 8 8 8 8 8 0 0 0 0 0 0 0 0]
+63,"['(' 'Kry' 'meer' 'inligting' 'oor' 'CITES' 'by' 'http://www.cites.org'
+ ')' '.']",[0 0 0 0 0 7 0 0 0 0]
+64,"['Vir' 'elke' 'uitvoerpermit' 'wat' 'vir' 'grootoog-tuna' ',' 'suidelike'
+ 'blouvin-tuna' ',' 'swaardvis' ',' 'Antarktiese' 'tandvis' 'en'
+ 'Patagoniese' 'tandvis' 'uitgereik' 'is' ',' 'moet' 'jy' 'vir' 'elke'
+ 'besending' 'ook' 'die' 'betrokke' 'vangsstatistiek-dokument' 'hê' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 7 0 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+65,"['Kry' ""'n"" 'uitvoer-aansoekvorm' 'en' 'die' 'CITES-aansoekvorm' 'by'
+ 'die' 'Mariene-' 'en' 'Kusbestuurskantoor' '(' 'die' 'kontakbesonderhede'
+ 'verskyn' 'onder' ')' ',' 'of' 'by' ""'n"" 'takkantoor' 'van' 'die'
+ 'Departement' 'van' 'Omgewingsake' 'en' 'Toerisme' ',' 'of' 'laai' 'die'
+ 'vorms' 'van' 'http://www.mcm-deat.gov.za' 'af' '.']","[0 0 0 0 0 7 0 0 7 8 8 0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 4 4 4 0 0 0 0 0 0 0 0
+ 0]"
+66,"['kopieë' 'van' 'vangsstatistiek-dokumente' 'moet' 'verskaf' 'word' 'vir'
+ 'al' 'die' 'grootoog-tuna' ',' 'suidelike' 'blouvin-tuna' ',' 'swaardvis'
+ ',' 'Antarktiese' 'tandvis' 'en' 'Patagoniese' 'tandvis' 'wat'
+ 'ingevolge' 'die' 'vorige' 'uitvoerpermit' 'uitgevoer' 'word' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 0 0 7 0 0 0 0 0 0 0 0 0]
+67,"['jou' 'identiteitsdokument' '(' 'ID' ')' 'en' 'jou' 'maatskappy' ','
+ 'beslote' 'korporasie' 'of' 'trust' 'se' 'registrasiedokumente']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+68,"['geldige' 'uitvoerpermitte' 'van' 'die' 'Departement' 'van' 'Handel' 'en'
+ 'Nywerheid']",[0 0 0 0 3 4 4 4 4]
+69,"['die' 'belastingklaringsertifikaat' 'wat' 'deur' 'die' 'Suid-Afrikaanse'
+ 'Inkomstediens' 'goedgekeur' 'en' 'uitgereik' 'is' '.']",[0 0 0 0 0 3 4 0 0 0 0 0]
+70,"['Stel' 'jou' 'naaste' 'tak' 'van' 'die' 'Suid-Afrikaanse' 'Buro' 'vir'
+ 'Standaarde' 'van' 'jou' 'uitvoerbesending' 'in' 'kennis' 'as' 'die'
+ 'vis' 'wat' 'jy' 'wil' 'uitvoer' 'nie' 'vars' 'is' 'nie' 'en' 'nie' 'vir'
+ 'menslike' 'verbruik' 'bedoel' 'is' 'nie' '.']",[0 0 0 0 0 0 3 4 4 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+71,"['As' 'die' 'vis' 'wel' 'vars' 'en' 'vir' 'menslike' 'verbruik' 'bedoel'
+ 'is' ',' 'moet' 'jy' 'die' 'Hawegesondheid' 'in' 'kennis' 'stel' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0]
+72,"['Vul' 'die' 'aansoekvorm' 'om' ""'n"" 'uitvoerpermit' 'in' ',' 'onderteken'
+ 'dit' 'en' 'pos' 'dit' 'saam' 'met' 'die' 'nodige' 'dokumente' 'aan'
+ 'die' 'kantoor' 'van' 'Mariene' 'en' 'Kusbestuur' '(' 'die' 'adres'
+ 'verskyn' 'onder' ')' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 4 0 0 0 0 0 0 0]
+73,"['Om' 'seewatervis' 'te' 'mag' 'invoer' ',' 'moet' 'jy' 'aansoek' 'doen'
+ 'om' ""'n"" 'invoerpermit' ',' 'wat' 'deur' 'die' 'Minister' 'van'
+ 'Omgewingsake' 'en' 'Toerisme' 'of' 'die' 'gedelegeerde' 'gesagsowerheid'
+ 'toegeken' 'word' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 2 2 0 0 0 0 0 0 0]
+74,"['NB' ':' 'Hierdie' 'invoerpermit' 'sluit' 'varswatervis' 'uit' ',' 'want'
+ 'dit' 'word' 'deur' 'die' 'Departement' 'van' 'Landbou' 'geadministreer'
+ '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 4 0 0]
+75,"[""'n"" 'Aansoek' 'om' ""'n"" 'invoerpermit' 'vir' 'lewende' 'varswatervis'
+ 'of' 'tropiese' 'vis' 'moet' 'by' 'die' 'Departement' 'van' 'Landbou'
+ 'ingedien' 'word' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 4 0 0 0]
+76,"['Geen' 'spesie' 'wat' 'deur' 'die' 'Konvensie' 'oor' 'Internasionale'
+ 'Handel' 'in' 'Bedreigde' 'Spesies' 'van' 'Wilde' 'Fauna' 'en' 'Flora'
+ '(' 'CITES' ')' 'gelys' 'is' ',' 'mag' 'ingevoer' 'word' 'nie' '.']",[0 0 0 0 0 7 8 8 8 8 8 8 8 8 8 8 8 0 7 0 0 0 0 0 0 0 0 0]
+77,"['(' 'Kry' 'meer' 'inligting' 'oor' 'CITES' 'by' 'http://www.cites.org'
+ ')']",[0 0 0 0 0 7 0 0 0]
+78,"['Bekom' ""'n"" 'aansoekvorm' 'deur' ""'n"" 'versoek' 'aan' 'Mariene-' 'en'
+ 'Kusbestuur' 'se' 'bestuurskantoor' 'te' 'rig' '(' 'die'
+ 'kontakbesonderhede' 'verskyn' 'onder' ')' ',' 'of' 'kry' ""'n"" 'vorm'
+ 'by' 'die' 'Departement' 'van' 'Omgewingsake' 'en' 'Toerisme' 'se'
+ 'takkantoor' ',' 'of' 'laai' ""'n"" 'vorm' 'by'
+ 'http://www.mcm-deat.gov.za' 'af' '.']","[0 0 0 0 0 0 0 3 4 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 4 4 4 0 0 0 0 0
+ 0 0 0 0 0 0]"
+79,"['gewaarmerkte' 'kopieë' 'van' 'geldige' 'invoerpermitte' 'van' 'die'
+ 'Departement' 'van' 'Handel' 'en' 'Nywerheid' 'of'
+ 'permitbekendstellings']",[0 0 0 0 0 0 0 3 4 4 4 4 0 0]
+80,"['gewaarmerkte' 'kopieë' 'van' 'die' 'oorspronklike'
+ 'belastingklaringsertifikate' 'wat' 'deur' 'die' 'Suid-Afrikaanse'
+ 'Inkomstediens' 'goedgekeur' 'en' 'uitgereik' 'is' '.']",[0 0 0 0 0 0 0 0 0 3 4 0 0 0 0 0]
+81,"['As' 'die' 'vis' 'wat' 'jy' 'gaan' 'invoer' 'nie' 'vars' 'is' 'nie' 'en'
+ 'nie' 'vir' 'menslike' 'gebruik' 'bedoel' 'is' 'nie' ',' 'moet' 'jy'
+ 'jou' 'naaste' 'tak' 'van' 'die' 'Suid-Afrikaanse' 'Buro' 'vir'
+ 'Standaarde' 'daarvan' 'in' 'kennis' 'stel' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 4 4 0 0 0 0 0]
+82,"['Vul' 'jou' 'aansoekvorm' 'in' ',' 'onderteken' 'dit' 'en' 'pos' 'dit'
+ 'saam' 'met' 'die' 'nodige' 'ondersteunende' 'dokumente' 'aan' 'Mariene-'
+ 'en' 'Kustebestuur' 'se' 'bestuurskantoor' '(' 'die' 'adres' 'verskyn'
+ 'onderaan' ')' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 4 0 0 0 0 0 0 0 0 0]
+83,"['Kry' 'meer' 'inligting' 'by' 'die' 'Departement' 'van' 'Justisie' 'en'
+ 'Grondwetlike' 'Ontwikkeling' '.']",[0 0 0 0 0 3 4 4 4 4 4 0]
+84,"['Tree' 'met' 'die' 'Companies' 'and' 'Intellectual' 'Property'
+ 'Registration' 'Office' 'in' 'verbinding' '.']",[0 0 0 3 4 4 4 4 4 0 0 0]
+85,"['Doen' 'aansoek' 'om' ""'n"" 'naam' 'te' 'reserveer' 'deur' 'vorm' 'CM5'
+ 'voor' 'te' 'lê' '-' 'Aansoek' 'om' 'die' 'reservering' 'van' ""'n"" 'naam'
+ '.']",[0 0 0 0 0 0 0 0 7 8 0 0 0 0 0 0 0 0 0 0 0 0]
+86,"['Vul' 'vorm' 'CM29' 'in' '-' 'Inhoud' 'van' 'register' 'van' 'direkteure'
+ ',' 'ouditeure' 'en' 'amptenare' '.']",[0 7 8 0 0 0 0 0 0 0 0 0 0 0 0]
+87,"['Elke' 'direkteur' 'van' 'die' 'maatskappy' 'moet' 'een' 'kopie' 'van'
+ 'vorm' 'CM47' 'invul' '.']",[0 0 0 0 0 0 0 0 0 7 8 0 0]
+88,"['Vul' 'vorm' 'CM31' 'in' 'om' 'toestemming' 'te' 'gee' 'dat' ""'n""
+ 'persoon' 'as' 'ouditeur' 'mag' 'optree' '.']",[0 7 8 0 0 0 0 0 0 0 0 0 0 0 0 0]
+89,"['Dit' 'is' 'die' 'dokument' 'wat' 'deur' 'die' 'Registrateur' 'van'
+ 'Maatskappye' 'onderteken' 'en' 'gestempel' 'word' 'sodra' 'al' 'die'
+ 'meegaande' 'dokumente' '(' 'wat' 'hierbo' 'gelys' 'is' ')' 'nagegaan'
+ 'en' 'gefinaliseer' 'is' '.']",[0 0 0 0 0 0 0 1 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+90,"['Akte' 'van' 'oprigting' 'plus' 'CM2A' ',' 'CM2B' 'en' 'CM2C' 'indien'
+ 'daar' 'meer' 'as' 'een' 'aandeelhouer' 'is' ',' 'of' 'CM2D' 'indien'
+ 'daar' 'net' 'een' 'aandeelhouer' 'is' '.']",[0 0 0 0 7 0 7 0 7 0 0 0 0 0 0 0 0 0 7 0 0 0 0 0 0 0]
+91,"['Indien' 'jy' 'voor' '15' 'November' '2000' 'ingevolge' 'die'
+ 'gewoontereg' 'getroud' 'is' ',' 'moet' 'jy' 'jou' 'huwelik' 'by' 'die'
+ 'Departement' 'van' 'Binnelandse' 'Sake' 'registreer' '.']",[0 0 0 7 8 8 0 0 0 0 0 0 0 0 0 0 0 0 3 4 4 4 0 0]
+92,"['Huwelike' 'volgens' 'die' 'Gewoontereg' 'en' 'Gemeenskap' 'van'
+ 'Goedere' '?']",[0 0 0 0 0 0 0 0 0]
+93,"['Indien' 'hulle' 'dit' 'wil' 'verander' 'nadat' 'hulle' 'reeds' 'getroud'
+ 'is' ',' 'moet' 'hulle' 'by' 'die' 'Hoërhof' 'aansoek' 'doen' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+94,"['Ingevolge' 'die' 'Wet' 'op' 'Erkenning' 'van' 'Gebruiklike' 'Huwelike'
+ ',' '1998' 'geniet' 'die' 'vrou' 'dieselfde' 'regte' 'en' 'status' 'as'
+ 'die' 'man' 'om' 'te' 'besluit' 'oor' 'wat' 'met' 'die' 'eiendom'
+ 'gebeur' '.']",[0 0 7 8 8 8 8 8 8 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+95,"[""'n"" 'aangewese' 'persoon' 'wat' 'deur' 'die' 'Direkteur-Generaal'
+ 'aangewys' 'is' 'om' 'funksies' 'ooreenkomstig' 'hierdie' 'regulasies'
+ 'uit' 'te' 'voer' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+96,"[""'n"" 'Buitelandse' 'visvaartuig' 'is' ""'n"" 'vaartuig' 'wat' 'deur' ""'n""
+ 'nie-Suid-Afrikaanse' 'burger' ',' 'dit' 'wil' 'sê' ""'n"" 'buitelander'
+ ',' 'besit' 'word' 'en' 'onder' ""'n"" 'ander' 'vlagstaat' 'as' 'die'
+ 'Republiek' 'van' 'Suid-Afrika' '(' 'RSA' ')' 'geregistreer' 'is' '.']",[0 0 0 0 0 0 0 0 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 6 6 0 5 0 0 0 0]
+97,"['Voor' 'jy' 'by' 'visvangs' 'betrokke' 'raak' ',' 'moet' 'jy' 'met' 'die'
+ 'Departement' 'van' 'Omgewingsake' 'en' 'Toerisme' 'in' 'verbinding' 'om'
+ 'vas' 'te' 'stel' 'of' 'die' 'huur' 'van' ""'n"" 'buitelandse' 'vaartuig'
+ 'in' ""'n"" 'spesifieke' 'visvangsektor' 'toegelaat' 'sal' 'word' 'en' 'om'
+ 'uit' 'te' 'vind' 'watter' 'dokumente' 'nodig' 'is' 'om' 'goedkeuring'
+ 'vir' 'so' ""'n"" 'aansoek' 'te' 'verkry' '.']","[0 0 0 0 0 0 0 0 0 0 0 3 4 4 4 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]"
+98,"['Sodra' 'daar' 'in' 'beginsel' 'steun' 'vir' 'die' 'gebruik' 'van' ""'n""
+ 'buitelandse' 'vaartuig' 'verleen' 'is' ',' 'moet' 'jy' ""'n""
+ 'aansoekvorm' 'vir' ""'n"" 'lisensie' 'vir' ""'n"" 'buitelandse'
+ 'visvaartuig' 'by' 'jou' 'naaste' 'kantoor' 'van' 'die' 'Departement'
+ 'van' 'Omgewingsake' 'en' 'Toerisme' '(' 'DEA&T-kantoor' ')' 'Department'
+ 'of' 'Environmental' 'Affairs' 'and' 'Tourism' 'kry' '.']","[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 4 4 4
+ 0 7 0 3 4 4 4 4 4 0 0]"
+99,"['Vul' 'die' 'aansoekvorm' 'in' 'en' 'dien' 'dit' 'saam' 'met' 'die'
+ 'ondergenoemde' 'inligting' 'by' 'jou' 'naaste' 'DEA&T-kantoor' 'in' ':']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 0 0]

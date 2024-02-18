@@ -123,6 +123,7 @@ def clean_hugging_face_dataset(dataset):
     clean_dataset = {}
     clean_dataset["title"] = dataset.get("id", "")
     clean_dataset["url"] = base_url+dataset.get("id", "")
+    clean_dataset["ref"] = dataset.get("id", "")
     arxiv_id = dataset.get('infos', {}).get("arxiv", "")
     if arxiv_id:
         arxiv_redirect_text = f"\n You can find more information about this dataset on Arxiv: https://arxiv.org/abs/{arxiv_id}"

@@ -44,8 +44,8 @@ BEGIN
         END IF;
 
         -- Insert Dataset
-        INSERT INTO datasets (title, url, description, total_bytes, source_id, stats_id, license_id)
-        VALUES (dataset_item->>'title', dataset_item->>'url', dataset_item->>'description', (dataset_item->>'totalBytes')::BIGINT, source_id, stats_id, license_id)
+        INSERT INTO datasets (title, url, ref ,description, total_bytes, source_id, stats_id, license_id)
+        VALUES (dataset_item->>'title', dataset_item->>'url' , dataset_item->>'ref', dataset_item->>'description', (dataset_item->>'totalBytes')::BIGINT, source_id, stats_id, license_id)
         ON CONFLICT (url) DO UPDATE SET stats_id = EXCLUDED.stats_id
 		RETURNING id INTO last_dataset_id;
 
@@ -90,15 +90,16 @@ BEGIN
 
         -- Insert Notebooks
         FOR notebook_item IN SELECT * FROM jsonb_array_elements(dataset_item->'notebooks') LOOP
-            INSERT INTO notebooks (dataset_id, ref, url, author, last_run_time, total_votes, language)
+            INSERT INTO notebooks (dataset_id, ref, author,content, last_run_time, total_votes, language)
             VALUES (
                 last_dataset_id,
                 notebook_item->>'ref',
-                notebook_item->>'url',
                 notebook_item->>'author',
-                (notebook_item->>'last_run_time')::DATE,
-                (notebook_item->>'total_votes')::INT,
+                notebook_item->'content',
+                (notebook_item->>'lastRunTime')::timestamp::DATE,
+                (notebook_item->>'totalVotes')::INT,
                 notebook_item->>'language'
+                
 		       
             );
         END LOOP;
@@ -124,8 +125,8 @@ BEGIN
                 issue_item->>'title',
                 issue_item->>'body',
                 issue_item->>'url',
-                (issue_item->>'creation_date')::DATE,
-                (issue_item->>'updated_date')::DATE,
+                (issue_item->>'creation_date')::timestamp::DATE,
+                (issue_item->>'updated_date')::timestamp::DATE,
                 issue_item->'reactions',
                 issue_item->'comments'
             );

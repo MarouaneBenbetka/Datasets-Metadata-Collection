@@ -7,7 +7,7 @@ router = APIRouter()
 
 
 @router.get("/init-db")
-async def init_db(user: str = Depends(verify_token)):
+async def init_db():
     print("Tables Creation")
     await create_schema()
 

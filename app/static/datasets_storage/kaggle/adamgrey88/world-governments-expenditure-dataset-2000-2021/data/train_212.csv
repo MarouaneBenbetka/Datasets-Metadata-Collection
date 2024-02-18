@@ -1,0 +1,101 @@
+Unnamed: 0,Year,Country,Sector,Expenditure(million USD),GDP(%)
+0,2000,Australia,Total function,153122.633,37.36193
+1,2000,Australia,"Agriculture, forestry, fishing and hunting",2195.583,0.53572
+2,2000,Australia,"Mining, manufacturing and construction",905.018,0.22082
+3,2000,Australia,Transport,11417.379,2.78584
+4,2000,Australia,Fuel and energy,2251.241,0.5493
+5,2000,Australia,Environment protection,2051.8,0.50064
+6,2000,Australia,Housing and community amenities,2529.53,0.61721
+7,2000,Australia,Health,24071.984,5.87357
+8,2000,Australia,Education,23066.666,5.62827
+9,2000,Australia,Social protection,43606.701,10.64004
+10,2000,Australia,General public services,20083.177,4.9003
+11,2000,Australia,Defence,8057.621,1.96606
+12,2000,Australia,Public order and safety,6840.687,1.66913
+13,2000,Australia,"Recreation, culture and religion",4096.644,0.99958
+14,2000,Australia,"General economic, commercial and labour affairs",827.909,0.20201
+15,2000,Australia,Other industries,332.207,0.08106
+16,2000,Australia,RandD Economic affairs,35.946,0.00877
+17,2000,Australia,Economic affairs n.e.c.,1226.21,0.2992
+18,2000,Austria,Total function,100682.792,51.16005
+19,2000,Austria,"Agriculture, forestry, fishing and hunting",1102.405,0.56017
+20,2000,Austria,"Mining, manufacturing and construction",62.344,0.03168
+21,2000,Austria,Transport,4573.0,2.32368
+22,2000,Austria,Communication,129.906,0.06601
+23,2000,Austria,Fuel and energy,11.924,0.00606
+24,2000,Austria,Environment protection,875.668,0.44495
+25,2000,Austria,Housing and community amenities,1207.984,0.61381
+26,2000,Austria,Health,14053.707,7.14112
+27,2000,Austria,Education,10269.251,5.21813
+28,2000,Austria,Social protection,40996.27,20.83148
+29,2000,Austria,General public services,16305.401,8.28528
+30,2000,Austria,Defence,1705.404,0.86657
+31,2000,Austria,Public order and safety,2791.222,1.41831
+32,2000,Austria,"Recreation, culture and religion",2762.932,1.40393
+33,2000,Austria,"General economic, commercial and labour affairs",2620.806,1.33171
+34,2000,Austria,Other industries,285.609,0.14513
+35,2000,Austria,RandD Economic affairs,733.949,0.37294
+36,2000,Austria,Economic affairs n.e.c.,195.021,0.0991
+37,2000,Belgium,Total function,116971.373,49.52126
+38,2000,Belgium,Environment protection,1866.436,0.79018
+39,2000,Belgium,Housing and community amenities,1137.429,0.48154
+40,2000,Belgium,Health,14863.604,6.29269
+41,2000,Belgium,Education,13101.075,5.5465
+42,2000,Belgium,Social protection,38899.236,16.46847
+43,2000,Belgium,General public services,27018.346,11.43855
+44,2000,Belgium,Defence,2875.76,1.21749
+45,2000,Belgium,Public order and safety,3578.352,1.51494
+46,2000,Belgium,"Recreation, culture and religion",2209.651,0.93548
+47,2000,Bolivia (Plurinational State of),Total function,2409.121,28.68733
+48,2000,Brazil,Total function,244151.943,37.24962
+49,2000,Brazil,"Agriculture, forestry, fishing and hunting",4777.386,0.72887
+50,2000,Brazil,Transport,7568.216,1.15466
+51,2000,Brazil,Communication,319.215,0.0487
+52,2000,Brazil,Fuel and energy,396.633,0.06051
+53,2000,Brazil,Environment protection,710.65,0.10842
+54,2000,Brazil,Housing and community amenities,6480.414,0.9887
+55,2000,Brazil,Health,25159.483,3.83852
+56,2000,Brazil,Education,30618.75,4.67142
+57,2000,Brazil,Social protection,71893.029,10.96853
+58,2000,Brazil,General public services,69447.297,10.59539
+59,2000,Brazil,Defence,12469.521,1.90244
+60,2000,Brazil,Public order and safety,10434.453,1.59196
+61,2000,Brazil,"Recreation, culture and religion",225.229,0.03436
+62,2000,Brazil,"General economic, commercial and labour affairs",3128.549,0.47731
+63,2000,Brazil,Others,523.11,0.07981
+64,2000,Bulgaria,Total function,5693.389,42.98195
+65,2000,Bulgaria,"Agriculture, forestry, fishing and hunting",87.148,0.65792
+66,2000,Bulgaria,"Mining, manufacturing and construction",5.605,0.04231
+67,2000,Bulgaria,Transport,277.015,2.09131
+68,2000,Bulgaria,Communication,3.824,0.02887
+69,2000,Bulgaria,Fuel and energy,52.099,0.39332
+70,2000,Bulgaria,Environment protection,144.023,1.08729
+71,2000,Bulgaria,Housing and community amenities,40.927,0.30898
+72,2000,Bulgaria,Health,507.282,3.8297
+73,2000,Bulgaria,Education,558.957,4.21982
+74,2000,Bulgaria,Social protection,1677.79,12.66639
+75,2000,Bulgaria,General public services,1434.388,10.82884
+76,2000,Bulgaria,Defence,421.542,3.18241
+77,2000,Bulgaria,Public order and safety,268.957,2.03048
+78,2000,Bulgaria,"Recreation, culture and religion",117.116,0.88416
+79,2000,Bulgaria,"General economic, commercial and labour affairs",96.497,0.7285
+80,2000,Bulgaria,Other industries,0.203,0.00153
+81,2000,"China, Macao SAR",Total function,1116.206,16.47732
+82,2000,"China, Macao SAR",Environment protection,27.256,0.40235
+83,2000,"China, Macao SAR",Housing and community amenities,6.336,0.09353
+84,2000,"China, Macao SAR",Health,146.853,2.16783
+85,2000,"China, Macao SAR",Education,172.883,2.55208
+86,2000,"China, Macao SAR",Social protection,125.668,1.8551
+87,2000,"China, Macao SAR",General public services,233.602,3.44841
+88,2000,"China, Macao SAR",Defence,0.0,0.0
+89,2000,"China, Macao SAR",Public order and safety,225.227,3.32478
+90,2000,"China, Macao SAR","Recreation, culture and religion",81.55,1.20384
+91,2000,Croatia,Total function,1579.531,7.24294
+92,2000,Croatia,"Agriculture, forestry, fishing and hunting",39.34,0.18039
+93,2000,Croatia,"Mining, manufacturing and construction",5.492,0.02518
+94,2000,Croatia,Transport,197.227,0.90439
+95,2000,Croatia,Communication,0.231,0.00106
+96,2000,Croatia,Fuel and energy,1.121,0.00514
+97,2000,Croatia,Environment protection,19.193,0.08801
+98,2000,Croatia,Housing and community amenities,69.045,0.31661
+99,2000,Croatia,Health,205.581,0.94269

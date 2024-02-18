@@ -1,0 +1,101 @@
+status,bed,bath,acre_lot,city,state,zip_code,house_size,prev_sold_date,price
+for_sale,3.0,2.0,0.12,Adjuntas,Puerto Rico,601.0,920.0,,105000.0
+for_sale,4.0,2.0,0.08,Adjuntas,Puerto Rico,601.0,1527.0,,80000.0
+for_sale,2.0,1.0,0.15,Juana Diaz,Puerto Rico,795.0,748.0,,67000.0
+for_sale,4.0,2.0,0.1,Ponce,Puerto Rico,731.0,1800.0,,145000.0
+for_sale,6.0,2.0,0.05,Mayaguez,Puerto Rico,680.0,,,65000.0
+for_sale,4.0,3.0,0.46,San Sebastian,Puerto Rico,612.0,2520.0,,179000.0
+for_sale,3.0,1.0,0.2,Ciales,Puerto Rico,639.0,2040.0,,50000.0
+for_sale,3.0,2.0,0.08,Ponce,Puerto Rico,731.0,1050.0,,71600.0
+for_sale,2.0,1.0,0.09,Ponce,Puerto Rico,730.0,1092.0,,100000.0
+for_sale,5.0,3.0,7.46,Las Marias,Puerto Rico,670.0,5403.0,,300000.0
+for_sale,3.0,2.0,13.39,Isabela,Puerto Rico,662.0,1106.0,,89000.0
+for_sale,3.0,2.0,0.08,Juana Diaz,Puerto Rico,795.0,1045.0,,150000.0
+for_sale,3.0,2.0,0.1,Lares,Puerto Rico,669.0,4161.0,,155000.0
+for_sale,5.0,2.0,0.12,Utuado,Puerto Rico,641.0,1620.0,,79000.0
+for_sale,5.0,5.0,0.74,Ponce,Puerto Rico,731.0,2677.0,,649000.0
+for_sale,3.0,2.0,0.08,Yauco,Puerto Rico,698.0,1100.0,,120000.0
+for_sale,4.0,4.0,0.22,Mayaguez,Puerto Rico,680.0,3450.0,,235000.0
+for_sale,3.0,2.0,0.08,Ponce,Puerto Rico,728.0,1500.0,,105000.0
+for_sale,3.0,2.0,3.88,San Sebastian,Puerto Rico,685.0,4000.0,,575000.0
+for_sale,6.0,3.0,0.25,Anasco,Puerto Rico,610.0,1230.0,,140000.0
+for_sale,2.0,1.0,0.23,Yauco,Puerto Rico,698.0,621.0,,50000.0
+for_sale,6.0,3.0,0.1,Moca,Puerto Rico,676.0,3000.0,,165000.0
+for_sale,3.0,1.0,2.0,Coamo,Puerto Rico,769.0,1213.0,,189000.0
+for_sale,3.0,2.0,,Ponce,Puerto Rico,716.0,1148.0,,115000.0
+for_sale,3.0,2.0,0.05,Yauco,Puerto Rico,698.0,1118.0,,122500.0
+for_sale,3.0,2.0,0.28,San Sebastian,Puerto Rico,685.0,1500.0,,255000.0
+for_sale,4.0,3.0,0.3,Ponce,Puerto Rico,730.0,3000.0,,425000.0
+for_sale,4.0,2.0,0.11,Guayanilla,Puerto Rico,656.0,1300.0,,93000.0
+for_sale,4.0,2.0,0.04,Manati,Puerto Rico,676.0,1080.0,,75000.0
+for_sale,3.0,2.0,0.69,Isabela,Puerto Rico,662.0,2505.0,,469000.0
+for_sale,6.0,3.0,1.75,Villalba,Puerto Rico,766.0,1943.0,,189000.0
+for_sale,5.0,4.0,0.12,Ponce,Puerto Rico,717.0,1600.0,,225000.0
+for_sale,4.0,2.0,3.08,Santa Isabel,Puerto Rico,757.0,2886.0,,495000.0
+for_sale,1.0,1.0,0.1,Ponce,Puerto Rico,730.0,850.0,,220000.0
+for_sale,3.0,1.0,0.23,Yauco,Puerto Rico,698.0,936.0,,70500.0
+for_sale,3.0,2.0,1.13,Moca,Puerto Rico,676.0,1928.0,,305000.0
+for_sale,4.0,4.0,4.84,San Sebastian,Puerto Rico,685.0,3690.0,,475000.0
+for_sale,3.0,4.0,1.94,Utuado,Puerto Rico,641.0,2500.0,,195000.0
+for_sale,4.0,2.0,0.24,Las Marias,Puerto Rico,670.0,1800.0,,120000.0
+for_sale,9.0,7.0,0.46,Mayaguez,Puerto Rico,680.0,3709.0,,650000.0
+for_sale,5.0,3.0,0.16,Ponce,Puerto Rico,730.0,3100.0,,555000.0
+for_sale,6.0,6.0,0.94,Penuelas,Puerto Rico,624.0,9297.0,,3900000.0
+for_sale,,,0.99,Moca,Puerto Rico,676.0,43082.0,,400000.0
+for_sale,,,18.45,Hatillo,Puerto Rico,659.0,,,380000.0
+for_sale,3.0,2.0,0.1,Aguada,Puerto Rico,602.0,600.0,,95000.0
+for_sale,3.0,1.0,0.09,Aguada,Puerto Rico,602.0,900.0,,74000.0
+for_sale,4.0,2.0,0.15,Aguada,Puerto Rico,602.0,3000.0,,139500.0
+for_sale,1.0,1.0,0.26,Aguada,Puerto Rico,602.0,2100.0,,149900.0
+for_sale,2.0,2.0,0.24,Aguada,Puerto Rico,602.0,1138.0,,180000.0
+for_sale,3.0,2.0,0.13,Aguada,Puerto Rico,602.0,1380.0,,249000.0
+for_sale,6.0,4.0,0.23,Aguada,Puerto Rico,602.0,2500.0,,252000.0
+for_sale,2.0,1.0,,Aguada,Puerto Rico,602.0,813.0,,160000.0
+for_sale,2.0,1.0,0.07,Aguada,Puerto Rico,602.0,813.0,,90000.0
+for_sale,5.0,3.0,1.78,Aguada,Puerto Rico,602.0,2962.0,,500000.0
+for_sale,4.0,2.0,0.1,Aguada,Puerto Rico,602.0,1955.0,,339000.0
+for_sale,3.0,2.0,0.08,Aguada,Puerto Rico,602.0,1200.0,,265000.0
+for_sale,6.0,5.0,0.12,Aguada,Puerto Rico,602.0,6000.0,,10000000.0
+for_sale,3.0,4.0,2.0,Aguada,Puerto Rico,602.0,1880.0,,389000.0
+for_sale,3.0,2.0,2.96,Aguada,Puerto Rico,602.0,2500.0,,575000.0
+for_sale,,,0.88,Aguada,Puerto Rico,602.0,,,35000.0
+for_sale,,,0.21,Aguada,Puerto Rico,602.0,,,58000.0
+for_sale,,,21.08,Aguada,Puerto Rico,602.0,,,85000.0
+for_sale,,,0.57,Aguada,Puerto Rico,602.0,,,47000.0
+for_sale,3.0,3.0,,Aguada,Puerto Rico,602.0,2715.0,,720000.0
+for_sale,7.0,5.0,0.31,Aguada,Puerto Rico,602.0,2775.0,,375000.0
+for_sale,,,0.65,Aguada,Puerto Rico,602.0,,,50000.0
+for_sale,,6.0,0.06,Rincon,Puerto Rico,602.0,,,3250000.0
+for_sale,,,0.24,Aguada,Puerto Rico,602.0,,,39500.0
+for_sale,,,33.35,Aguada,Puerto Rico,602.0,,,249500.0
+for_sale,5.0,3.0,8.74,Aguada,Puerto Rico,602.0,5517.0,,1399000.0
+for_sale,6.0,5.0,0.1,Aguada,Puerto Rico,602.0,2400.0,,600000.0
+for_sale,,,2.64,Aguada,Puerto Rico,602.0,,,649000.0
+for_sale,2.0,1.0,,Aguada,Puerto Rico,602.0,951.0,,189000.0
+for_sale,,,1.46,Aguada,Puerto Rico,602.0,,,150000.0
+for_sale,,,0.21,Aguada,Puerto Rico,602.0,,,74000.0
+for_sale,,,0.28,Aguada,Puerto Rico,602.0,,,65500.0
+for_sale,,,0.28,Aguada,Puerto Rico,602.0,,,67500.0
+for_sale,,,0.21,Aguada,Puerto Rico,602.0,,,74000.0
+for_sale,,,0.42,Aguada,Puerto Rico,602.0,,,130000.0
+for_sale,,,0.37,Aguada,Puerto Rico,602.0,,,95000.0
+for_sale,,,0.23,Rincon,Puerto Rico,602.0,,,329000.0
+for_sale,,,0.68,Aguada,Puerto Rico,602.0,,,130000.0
+for_sale,,,0.25,Aguada,Puerto Rico,602.0,,,94770.0
+for_sale,,,0.38,Aguada,Puerto Rico,602.0,,,150000.0
+for_sale,,,0.4,Aguada,Puerto Rico,602.0,,,165000.0
+for_sale,3.0,2.0,0.22,Aguadilla,Puerto Rico,603.0,2070.0,,215000.0
+for_sale,3.0,2.0,0.05,Aguadilla,Puerto Rico,603.0,1184.0,,63000.0
+for_sale,3.0,2.0,0.22,Aguadilla,Puerto Rico,603.0,1900.0,,215000.0
+for_sale,3.0,1.0,0.2,Aguadilla,Puerto Rico,603.0,980.0,,115000.0
+for_sale,4.0,2.0,0.89,Aguadilla,Puerto Rico,603.0,1408.0,,99000.0
+for_sale,5.0,5.0,0.62,Aguadilla,Puerto Rico,603.0,8460.0,,850000.0
+for_sale,3.0,2.0,0.11,Aguadilla,Puerto Rico,603.0,1116.0,,140000.0
+for_sale,4.0,3.0,0.26,Aguadilla,Puerto Rico,603.0,3734.0,,499000.0
+for_sale,3.0,2.0,0.17,Aguadilla,Puerto Rico,603.0,1500.0,,180000.0
+for_sale,6.0,3.0,0.49,Aguadilla,Puerto Rico,603.0,2618.0,,225900.0
+for_sale,4.0,2.0,0.12,Aguadilla,Puerto Rico,603.0,1760.0,,260000.0
+for_sale,,,0.13,Aguadilla,Puerto Rico,603.0,,,31179.0
+for_sale,4.0,3.0,0.33,Aguadilla,Puerto Rico,603.0,2950.0,,500000.0
+for_sale,3.0,2.0,0.21,Aguada,Puerto Rico,603.0,1565.0,,225000.0
+for_sale,,,0.25,Aguadilla,Puerto Rico,603.0,,,28000.0

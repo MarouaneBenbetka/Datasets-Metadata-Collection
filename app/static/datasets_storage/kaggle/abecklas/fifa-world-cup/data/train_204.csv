@@ -1,0 +1,101 @@
+Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Attendance,Half-time Home Goals,Half-time Away Goals,Referee,Assistant 1,Assistant 2,RoundID,MatchID,Home Team Initials,Away Team Initials
+1930.0,13 Jul 1930 - 15:00 ,Group 1,Pocitos,Montevideo ,France,4.0,1.0,Mexico, ,4444.0,3.0,0.0,LOMBARDI Domingo (URU),CRISTOPHE Henry (BEL),REGO Gilberto (BRA),201.0,1096.0,FRA,MEX
+1930.0,13 Jul 1930 - 15:00 ,Group 4,Parque Central,Montevideo ,USA,3.0,0.0,Belgium, ,18346.0,2.0,0.0,MACIAS Jose (ARG),MATEUCCI Francisco (URU),WARNKEN Alberto (CHI),201.0,1090.0,USA,BEL
+1930.0,14 Jul 1930 - 12:45 ,Group 2,Parque Central,Montevideo ,Yugoslavia,2.0,1.0,Brazil, ,24059.0,2.0,0.0,TEJADA Anibal (URU),VALLARINO Ricardo (URU),BALWAY Thomas (FRA),201.0,1093.0,YUG,BRA
+1930.0,14 Jul 1930 - 14:50 ,Group 3,Pocitos,Montevideo ,Romania,3.0,1.0,Peru, ,2549.0,1.0,0.0,WARNKEN Alberto (CHI),LANGENUS Jean (BEL),MATEUCCI Francisco (URU),201.0,1098.0,ROU,PER
+1930.0,15 Jul 1930 - 16:00 ,Group 1,Parque Central,Montevideo ,Argentina,1.0,0.0,France, ,23409.0,0.0,0.0,REGO Gilberto (BRA),SAUCEDO Ulises (BOL),RADULESCU Constantin (ROU),201.0,1085.0,ARG,FRA
+1930.0,16 Jul 1930 - 14:45 ,Group 1,Parque Central,Montevideo ,Chile,3.0,0.0,Mexico, ,9249.0,1.0,0.0,CRISTOPHE Henry (BEL),APHESTEGUY Martin (URU),LANGENUS Jean (BEL),201.0,1095.0,CHI,MEX
+1930.0,17 Jul 1930 - 12:45 ,Group 2,Parque Central,Montevideo ,Yugoslavia,4.0,0.0,Bolivia, ,18306.0,0.0,0.0,MATEUCCI Francisco (URU),LOMBARDI Domingo (URU),WARNKEN Alberto (CHI),201.0,1092.0,YUG,BOL
+1930.0,17 Jul 1930 - 14:45 ,Group 4,Parque Central,Montevideo ,USA,3.0,0.0,Paraguay, ,18306.0,2.0,0.0,MACIAS Jose (ARG),APHESTEGUY Martin (URU),TEJADA Anibal (URU),201.0,1097.0,USA,PAR
+1930.0,18 Jul 1930 - 14:30 ,Group 3,Estadio Centenario,Montevideo ,Uruguay,1.0,0.0,Peru, ,57735.0,0.0,0.0,LANGENUS Jean (BEL),BALWAY Thomas (FRA),CRISTOPHE Henry (BEL),201.0,1099.0,URU,PER
+1930.0,19 Jul 1930 - 12:50 ,Group 1,Estadio Centenario,Montevideo ,Chile,1.0,0.0,France, ,2000.0,0.0,0.0,TEJADA Anibal (URU),LOMBARDI Domingo (URU),REGO Gilberto (BRA),201.0,1094.0,CHI,FRA
+1930.0,19 Jul 1930 - 15:00 ,Group 1,Estadio Centenario,Montevideo ,Argentina,6.0,3.0,Mexico, ,42100.0,3.0,1.0,SAUCEDO Ulises (BOL),ALONSO Gualberto (URU),RADULESCU Constantin (ROU),201.0,1086.0,ARG,MEX
+1930.0,20 Jul 1930 - 13:00 ,Group 2,Estadio Centenario,Montevideo ,Brazil,4.0,0.0,Bolivia, ,25466.0,1.0,0.0,BALWAY Thomas (FRA),MATEUCCI Francisco (URU),VALLEJO Gaspar (MEX),201.0,1091.0,BRA,BOL
+1930.0,20 Jul 1930 - 15:00 ,Group 4,Estadio Centenario,Montevideo ,Paraguay,1.0,0.0,Belgium, ,12000.0,1.0,0.0,VALLARINO Ricardo (URU),MACIAS Jose (ARG),LOMBARDI Domingo (URU),201.0,1089.0,PAR,BEL
+1930.0,21 Jul 1930 - 14:50 ,Group 3,Estadio Centenario,Montevideo ,Uruguay,4.0,0.0,Romania, ,70022.0,4.0,0.0,REGO Gilberto (BRA),WARNKEN Alberto (CHI),SAUCEDO Ulises (BOL),201.0,1100.0,URU,ROU
+1930.0,22 Jul 1930 - 14:45 ,Group 1,Estadio Centenario,Montevideo ,Argentina,3.0,1.0,Chile, ,41459.0,2.0,1.0,LANGENUS Jean (BEL),CRISTOPHE Henry (BEL),SAUCEDO Ulises (BOL),201.0,1084.0,ARG,CHI
+1930.0,26 Jul 1930 - 14:45 ,Semi-finals,Estadio Centenario,Montevideo ,Argentina,6.0,1.0,USA, ,72886.0,1.0,0.0,LANGENUS Jean (BEL),VALLEJO Gaspar (MEX),WARNKEN Alberto (CHI),202.0,1088.0,ARG,USA
+1930.0,27 Jul 1930 - 14:45 ,Semi-finals,Estadio Centenario,Montevideo ,Uruguay,6.0,1.0,Yugoslavia, ,79867.0,3.0,1.0,REGO Gilberto (BRA),SAUCEDO Ulises (BOL),BALWAY Thomas (FRA),202.0,1101.0,URU,YUG
+1930.0,30 Jul 1930 - 14:15 ,Final,Estadio Centenario,Montevideo ,Uruguay,4.0,2.0,Argentina, ,68346.0,1.0,2.0,LANGENUS Jean (BEL),SAUCEDO Ulises (BOL),CRISTOPHE Henry (BEL),405.0,1087.0,URU,ARG
+1934.0,27 May 1934 - 16:30 ,Preliminary round,Stadio Benito Mussolini,Turin ,Austria,3.0,2.0,France,Austria win after extra time ,16000.0,0.0,0.0,VAN MOORSEL Johannes (NED),CAIRONI Camillo (ITA),BAERT Louis (BEL),204.0,1104.0,AUT,FRA
+1934.0,27 May 1934 - 16:30 ,Preliminary round,Giorgio Ascarelli,Naples ,Hungary,4.0,2.0,Egypt, ,9000.0,2.0,2.0,BARLASSINA Rinaldo (ITA),DATTILO Generoso (ITA),SASSI Otello (ITA),204.0,1119.0,HUN,EGY
+1934.0,27 May 1934 - 16:30 ,Preliminary round,San Siro,Milan ,Switzerland,3.0,2.0,Netherlands, ,33000.0,2.0,1.0,EKLIND Ivan (SWE),BERANEK Alois (AUT),BONIVENTO Ferruccio (ITA),204.0,1133.0,SUI,NED
+1934.0,27 May 1934 - 16:30 ,Preliminary round,Littorale,Bologna ,Sweden,3.0,2.0,Argentina, ,14000.0,1.0,1.0,BRAUN Eugen (AUT),CARRARO Albino (ITA),TURBIANI Giuseppe (ITA),204.0,1102.0,SWE,ARG
+1934.0,27 May 1934 - 16:30 ,Preliminary round,Giovanni Berta,Florence ,Germany,5.0,2.0,Belgium, ,8000.0,1.0,2.0,MATTEA Francesco (ITA),MELANDRI Ermenegildo (ITA),BAERT Jacques (FRA),204.0,1108.0,GER,BEL
+1934.0,27 May 1934 - 16:30 ,Preliminary round,Luigi Ferraris,Genoa ,Spain,3.0,1.0,Brazil, ,21000.0,3.0,0.0,BIRLEM Alfred (GER),CARMINATI Ettore (ITA),IVANCSICS Mihaly (HUN),204.0,1111.0,ESP,BRA
+1934.0,27 May 1934 - 16:30 ,Preliminary round,Nazionale PNF,Rome ,Italy,7.0,1.0,USA, ,25000.0,3.0,0.0,MERCET Rene (SUI),ESCARTIN Pedro (ESP),ZENISEK Bohumil (TCH),204.0,1135.0,ITA,USA
+1934.0,27 May 1934 - 16:30 ,Preliminary round,Littorio,Trieste ,Czechoslovakia,2.0,1.0,Romania, ,9000.0,0.0,1.0,LANGENUS Jean (BEL),SCARPI Giuseppe (ITA),SCORZONI Raffaele (ITA),204.0,1141.0,TCH,ROU
+1934.0,31 May 1934 - 16:30 ,Quarter-finals,Stadio Benito Mussolini,Turin ,Czechoslovakia,3.0,2.0,Switzerland, ,12000.0,1.0,1.0,BERANEK Alois (AUT),MOHAMED Youssuf (EGY),BAERT Jacques (FRA),418.0,1143.0,TCH,SUI
+1934.0,31 May 1934 - 16:30 ,Quarter-finals,San Siro,Milan ,Germany,2.0,1.0,Sweden, ,3000.0,0.0,0.0,BARLASSINA Rinaldo (ITA),MERCET Rene (SUI),VAN MOORSEL Johannes (NED),418.0,1129.0,GER,SWE
+1934.0,31 May 1934 - 16:30 ,Quarter-finals,Giovanni Berta,Florence ,Italy,1.0,1.0,Spain, ,35000.0,0.0,0.0,BAERT Louis (BEL),ZENISEK Bohumil (TCH),IVANCSICS Mihaly (HUN),418.0,1122.0,ITA,ESP
+1934.0,31 May 1934 - 16:30 ,Quarter-finals,Littorale,Bologna ,Austria,2.0,1.0,Hungary, ,23000.0,1.0,0.0,MATTEA Francesco (ITA),ESCARTIN Pedro (ESP),BIRLEM Alfred (GER),418.0,1106.0,AUT,HUN
+1934.0,01 Jun 1934 - 16:30 ,Quarter-finals,Giovanni Berta,Florence ,Italy,1.0,0.0,Spain, ,43000.0,1.0,0.0,MERCET Rene (SUI),IVANCSICS Mihaly (HUN),ZENISEK Bohumil (TCH),418.0,1123.0,ITA,ESP
+1934.0,03 Jun 1934 - 16:30 ,Semi-finals,San Siro,Milan ,Italy,1.0,0.0,Austria, ,35000.0,1.0,0.0,EKLIND Ivan (SWE),BAERT Louis (BEL),ZENISEK Bohumil (TCH),3492.0,1107.0,ITA,AUT
+1934.0,03 Jun 1934 - 16:30 ,Semi-finals,Nazionale PNF,Rome ,Czechoslovakia,3.0,1.0,Germany, ,15000.0,1.0,0.0,BARLASSINA Rinaldo (ITA),BERANEK Alois (AUT),ESCARTIN Pedro (ESP),3492.0,1130.0,TCH,GER
+1934.0,07 Jun 1934 - 18:00 ,Match for third place,Giorgio Ascarelli,Naples ,Germany,3.0,2.0,Austria, ,7000.0,3.0,1.0,CARRARO Albino (ITA),CAIRONI Camillo (ITA),ESCARTIN Pedro (ESP),3491.0,1105.0,GER,AUT
+1934.0,10 Jun 1934 - 17:30 ,Final,Nazionale PNF,Rome ,Italy,2.0,1.0,Czechoslovakia,Italy win after extra time ,55000.0,0.0,0.0,EKLIND Ivan (SWE),BAERT Louis (BEL),IVANCSICS Mihaly (HUN),3490.0,1134.0,ITA,TCH
+1938.0,04 Jun 1938 - 17:00 ,First round,Parc des Princes,Paris ,Switzerland,1.0,1.0,Germany, ,27152.0,0.0,0.0,LANGENUS Jean (BEL),MARENCO Paul (FRA),VAN MOORSEL Johannes (NED),206.0,1165.0,SUI,GER
+1938.0,05 Jun 1938 - 17:00 ,First round,Velodrome Municipale,Reims ,Hungary,6.0,0.0,Dutch East Indies, ,9000.0,4.0,0.0,CONRIE Roger (FRA),DE LA SALLE Charles (FRA),WEINGARTNER Karl (AUT),206.0,1173.0,HUN,INH
+1938.0,05 Jun 1938 - 17:00 ,First round,Stade Olympique,Colombes ,France,3.0,1.0,Belgium, ,30454.0,2.0,1.0,WUETHRICH Hans (SUI),KRIST Gustav (TCH),BIRLEM Alfred (GER),206.0,1146.0,FRA,BEL
+1938.0,05 Jun 1938 - 17:00 ,First round,Stade Municipal,Toulouse ,Cuba,3.0,3.0,Romania, ,7000.0,0.0,0.0,SCARPI Giuseppe (ITA),VALPREDE Ferdinand (FRA),MERKCX Jean (FRA),206.0,1156.0,CUB,ROU
+1938.0,05 Jun 1938 - 17:00 ,First round,Stade V�lodrome,Marseilles ,Italy,2.0,1.0,Norway,Italy win after extra time ,19000.0,0.0,0.0,BERANEK Alois (AUT),BOUTOURE D. (FRA),TREHOU D. (FRA),206.0,1179.0,ITA,NOR
+1938.0,05 Jun 1938 - 17:30 ,First round,Stade de la Meinau,Strasbourg ,Brazil,6.0,5.0,Poland,Brazil win after extra time ,13452.0,0.0,0.0,EKLIND Ivan (SWE),POISSANT Louis (FRA),KISSENBERGER Ernest (FRA),206.0,1150.0,BRA,POL
+1938.0,05 Jun 1938 - 18:30 ,First round,Cavee Verte,Le Havre ,Czechoslovakia,3.0,0.0,Netherlands,Czechoslovakia win after extra time ,11000.0,0.0,0.0,LECLERCQ Lucien (FRA),OLIVE D. (FRA),SDEZ Victor (FRA),206.0,1172.0,TCH,NED
+1938.0,09 Jun 1938 - 18:00 ,First round,Stade Municipal,Toulouse ,Cuba,2.0,1.0,Romania, ,8000.0,0.0,1.0,BIRLEM Alfred (GER),CAPDEVILLE Pierre (FRA),MARENCO Paul (FRA),206.0,1157.0,CUB,ROU
+1938.0,09 Jun 1938 - 18:00 ,First round,Parc des Princes,Paris ,Switzerland,4.0,2.0,Germany, ,20025.0,1.0,2.0,EKLIND Ivan (SWE),BAERT Louis (BEL),VAN MOORSEL Johannes (NED),206.0,1166.0,SUI,GER
+1938.0,12 Jun 1938 - 17:00 ,Quarter-finals,Stade du Parc Lescure,Bordeaux ,Brazil,1.0,1.0,Czechoslovakia, ,22021.0,0.0,0.0,VON HERTZKA Pal (HUN),SCARPI Giuseppe (ITA),DE LA SALLE Charles (FRA),429.0,1152.0,BRA,TCH
+1938.0,12 Jun 1938 - 17:00 ,Quarter-finals,Victor Boucquey,Lille ,Hungary,2.0,0.0,Switzerland, ,15000.0,1.0,0.0,BARLASSINA Rinaldo (ITA),BERANEK Alois (AUT),BOUTOURE D. (FRA),429.0,1175.0,HUN,SUI
+1938.0,12 Jun 1938 - 17:00 ,Quarter-finals,Fort Carree,Antibes ,Sweden,8.0,0.0,Cuba, ,7000.0,4.0,0.0,KRIST Gustav (TCH),WEINGARTNER Karl (AUT),SDEZ Victor (FRA),429.0,1158.0,SWE,CUB
+1938.0,12 Jun 1938 - 17:00 ,Quarter-finals,Stade Olympique,Colombes ,Italy,3.0,1.0,France, ,58455.0,1.0,1.0,BAERT Louis (BEL),WUETHRICH Hans (SUI),EKLIND Ivan (SWE),429.0,1164.0,ITA,FRA
+1938.0,14 Jun 1938 - 18:00 ,Quarter-finals,Stade du Parc Lescure,Bordeaux ,Brazil,2.0,1.0,Czechoslovakia, ,18141.0,0.0,1.0,CAPDEVILLE Georges (FRA),MARENCO Paul (FRA),KISSENBERGER Ernest (FRA),429.0,1153.0,BRA,TCH
+1938.0,16 Jun 1938 - 18:00 ,Semi-finals,Parc des Princes,Paris ,Hungary,5.0,1.0,Sweden, ,20000.0,3.0,1.0,LECLERCQ Lucien (FRA),VAN MOORSEL Johannes (NED),SCARPI Giuseppe (ITA),3489.0,1176.0,HUN,SWE
+1938.0,16 Jun 1938 - 18:00 ,Semi-finals,Stade V�lodrome,Marseilles ,Italy,2.0,1.0,Brazil, ,33000.0,0.0,0.0,WUETHRICH Hans (SUI),BERANEK Alois (AUT),MARENCO Paul (FRA),3489.0,1149.0,ITA,BRA
+1938.0,19 Jun 1938 - 17:00 ,Match for third place,Stade du Parc Lescure,Bordeaux ,Brazil,4.0,2.0,Sweden, ,12000.0,1.0,2.0,LANGENUS Jean (BEL),OLIVE D. (FRA),VALPREDE Ferdinand (FRA),3488.0,1151.0,BRA,SWE
+1938.0,19 Jun 1938 - 17:00 ,Final,Stade Olympique,Colombes ,Italy,4.0,2.0,Hungary, ,45000.0,3.0,1.0,CAPDEVILLE Georges (FRA),WUETHRICH Hans (SUI),KRIST Gustav (TCH),3487.0,1174.0,ITA,HUN
+1950.0,24 Jun 1950 - 15:00 ,Group 1,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Brazil,4.0,0.0,Mexico, ,81649.0,1.0,0.0,READER George (ENG),GRIFFITHS Benjamin (WAL),MITCHELL George (SCO),208.0,1187.0,BRA,MEX
+1950.0,25 Jun 1950 - 15:00 ,Group 2,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,England,2.0,0.0,Chile, ,29703.0,1.0,0.0,VAN DER MEER Karel (NED),GARDELLI Mario (BRA),DAHLNER Gunnar (SWE),208.0,1192.0,ENG,CHI
+1950.0,25 Jun 1950 - 15:00 ,Group 2,Durival de Brito,Curitiba ,Spain,3.0,1.0,USA, ,9511.0,0.0,1.0,VIANA Mario (BRA),DA COSTA VIEIRA Jose (POR),DE LA SALLE Charles (FRA),208.0,1208.0,ESP,USA
+1950.0,25 Jun 1950 - 15:00 ,Group 3,Pacaembu,Sao Paulo ,Sweden,3.0,2.0,Italy, ,36502.0,2.0,1.0,LUTZ Jean (SUI),BERANEK Alois (AUT),TEJADA Carlos (MEX),208.0,1219.0,SWE,ITA
+1950.0,25 Jun 1950 - 15:00 ,Group 1,Independencia,Belo Horizonte ,Yugoslavia,3.0,0.0,Switzerland, ,7336.0,0.0,0.0,GALEATI Giovanni (ITA),EKLIND Ivan (SWE),DATTILO Generoso (ITA),208.0,1230.0,YUG,SUI
+1950.0,28 Jun 1950 - 15:00 ,Group 1,Pacaembu,Sao Paulo ,Brazil,2.0,2.0,Switzerland, ,42032.0,2.0,1.0,AZON ROMA Ramon (ESP),BUSTAMANTE Sergio (CHI),DE NICOLA Cayetano (PAR),208.0,1188.0,BRA,SUI
+1950.0,28 Jun 1950 - 15:00 ,Group 1,Eucaliptos,Porto Alegre ,Yugoslavia,4.0,1.0,Mexico, ,11078.0,2.0,0.0,LEAFE Reginald (ENG),DAHLNER Gunnar (SWE),VAN DER MEER Karel (NED),208.0,1225.0,YUG,MEX
+1950.0,29 Jun 1950 - 15:00 ,Group 2,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Spain,2.0,0.0,Chile, ,19790.0,2.0,0.0,MALCHER Alberto (BRA),MARINO Esteban (URU),ALVAREZ Alfredo (BOL),208.0,1193.0,ESP,CHI
+1950.0,29 Jun 1950 - 15:30 ,Group 3,Durival de Brito,Curitiba ,Sweden,2.0,2.0,Paraguay, ,7903.0,2.0,1.0,MITCHELL Robert (SCO),LEMESIC Leo (YUG),GARCIA Prudencio (USA),208.0,1228.0,SWE,PAR
+1950.0,29 Jun 1950 - 15:00 ,Group 2,Independencia,Belo Horizonte ,USA,1.0,0.0,England, ,10151.0,1.0,0.0,DATTILO Generoso (ITA),DE LA SALLE Charles (FRA),GALEATI Giovanni (ITA),208.0,1202.0,USA,ENG
+1950.0,01 Jul 1950 - 15:00 ,Group 1,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Brazil,2.0,0.0,Yugoslavia, ,142429.0,1.0,0.0,GRIFFITHS Benjamin (WAL),BERANEK Alois (AUT),DA COSTA VIEIRA Jose (POR),208.0,1191.0,BRA,YUG
+1950.0,02 Jul 1950 - 15:00 ,Group 2,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Spain,1.0,0.0,England, ,74462.0,0.0,0.0,GALEATI Giovanni (ITA),LUTZ Jean (SUI),DATTILO Generoso (ITA),208.0,1199.0,ESP,ENG
+1950.0,02 Jul 1950 - 15:00 ,Group 3,Pacaembu,Sao Paulo ,Italy,2.0,0.0,Paraguay, ,25811.0,1.0,0.0,ELLIS Arthur (ENG),GARCIA Prudencio (USA),DE LA SALLE Charles (FRA),208.0,1218.0,ITA,PAR
+1950.0,02 Jul 1950 - 15:00 ,Group 4,Independencia,Belo Horizonte ,Uruguay,8.0,0.0,Bolivia, ,5284.0,4.0,0.0,READER George (ENG),VIANA Mario (BRA),LEMESIC Leo (YUG),208.0,1185.0,URU,BOL
+1950.0,02 Jul 1950 - 15:40 ,Group 1,Eucaliptos,Porto Alegre ,Switzerland,2.0,1.0,Mexico, ,3580.0,2.0,0.0,EKLIND Ivan (SWE),DAHLNER Gunnar (SWE),BUSTAMANTE Sergio (CHI),208.0,1222.0,SUI,MEX
+1950.0,02 Jul 1950 - 15:00 ,Group 2,Ilha do Retiro,Recife ,Chile,5.0,2.0,USA, ,8501.0,2.0,0.0,GARDELLI Mario (BRA),HEYEN Mario Ruben (PAR),ALVAREZ Alfredo (BOL),208.0,1194.0,CHI,USA
+1950.0,09 Jul 1950 - 15:00 ,Group 6,Pacaembu,Sao Paulo ,Uruguay,2.0,2.0,Spain, ,44802.0,1.0,2.0,GRIFFITHS Benjamin (WAL),DATTILO Generoso (ITA),ALVAREZ Alfredo (BOL),209.0,1207.0,URU,ESP
+1950.0,09 Jul 1950 - 15:00 ,Group 6,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Brazil,7.0,1.0,Sweden, ,138886.0,3.0,0.0,ELLIS Arthur (ENG),GARCIA Prudencio (USA),DE LA SALLE Charles (FRA),209.0,1189.0,BRA,SWE
+1950.0,13 Jul 1950 - 15:00 ,Group 6,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Brazil,6.0,1.0,Spain, ,152772.0,3.0,0.0,LEAFE Reginald (ENG),MITCHELL George (SCO),DA COSTA VIEIRA Jose (POR),209.0,1186.0,BRA,ESP
+1950.0,13 Jul 1950 - 15:00 ,Group 6,Pacaembu,Sao Paulo ,Uruguay,3.0,2.0,Sweden, ,7987.0,1.0,2.0,GALEATI Giovanni (ITA),BERANEK Alois (AUT),DE NICOLA Cayetano (PAR),209.0,1231.0,URU,SWE
+1950.0,16 Jul 1950 - 15:00 ,Group 6,Pacaembu,Sao Paulo ,Sweden,3.0,1.0,Spain, ,11227.0,2.0,0.0,VAN DER MEER Karel (NED),LUTZ Jean (SUI),GARCIA Prudencio (USA),209.0,1206.0,SWE,ESP
+1950.0,16 Jul 1950 - 15:00 ,Group 6,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Uruguay,2.0,1.0,Brazil, ,173850.0,0.0,0.0,READER George (ENG),ELLIS Arthur (ENG),MITCHELL George (SCO),209.0,1190.0,URU,BRA
+1954.0,16 Jun 1954 - 18:00 ,Group 3,Wankdorf Stadium,Berne ,Uruguay,2.0,0.0,Czechoslovakia, ,20500.0,0.0,0.0,ELLIS Arthur (ENG),LING William (ENG),SCHICKER Werner (SUI),211.0,1315.0,URU,TCH
+1954.0,16 Jun 1954 - 18:00 ,Group 3,Hardturm,Zurich ,Austria,1.0,0.0,Scotland, ,25000.0,1.0,0.0,FRANKEN Laurent (BEL),VIANA Mario (BRA),GULDE Josef (SUI),211.0,1236.0,AUT,SCO
+1954.0,16 Jun 1954 - 18:00 ,Group 1,Charmilles,Geneva ,Brazil,5.0,0.0,Mexico, ,13470.0,4.0,0.0,WYSSLING Paul (SUI),SCHONHOLZER Ernest (SUI),DA COSTA VIEIRA Jose (POR),211.0,1249.0,BRA,MEX
+1954.0,16 Jun 1954 - 18:00 ,Group 1,La Pontaise,Lausanne ,Yugoslavia,1.0,0.0,France, ,16000.0,1.0,0.0,GRIFFITHS Benjamin (WAL),BAUMBERGER Rene (SUI),ASENSI Manuel (ESP),211.0,1276.0,YUG,FRA
+1954.0,17 Jun 1954 - 18:00 ,Group 2,Wankdorf Stadium,Berne ,Germany FR,4.0,1.0,Turkey, ,28000.0,1.0,1.0,DA COSTA VIEIRA Jose (POR),ZSOLT Istvan (HUN),MERLOTTI Armand (SUI),211.0,1283.0,FRG,TUR
+1954.0,17 Jun 1954 - 18:00 ,Group 2,Hardturm,Zurich ,Hungary,9.0,0.0,Korea Republic, ,13000.0,4.0,0.0,VINCENTI Raymond (FRA),VON GUNTER Albert (SUI),STEINER Carl (AUT),211.0,1294.0,HUN,KOR
+1954.0,17 Jun 1954 - 18:10 ,Group 4,St. Jakob,Basel ,England,4.0,4.0,Belgium, ,14000.0,0.0,0.0,SCHMETZER Emil (FRG),BUCHMUELLER Fritz (SUI),RUFFLI Willy (SUI),211.0,1240.0,ENG,BEL
+1954.0,17 Jun 1954 - 17:50 ,Group 4,La Pontaise,Lausanne ,Switzerland,2.0,1.0,Italy, ,43000.0,1.0,1.0,VIANA Mario (BRA),ASENSI Manuel (ESP),MARINO Esteban (URU),211.0,1300.0,SUI,ITA
+1954.0,19 Jun 1954 - 16:50 ,Group 3,St. Jakob,Basel ,Uruguay,7.0,0.0,Scotland, ,34000.0,2.0,0.0,ORLANDINI Vincenzo (ITA),WYSSLING Paul (SUI),GUIDI Denilo (SUI),211.0,1313.0,URU,SCO
+1954.0,19 Jun 1954 - 17:00 ,Group 3,Hardturm,Zurich ,Austria,5.0,0.0,Czechoslovakia, ,26000.0,4.0,0.0,STEFANOVIC Vasa (YUG),DOERFLINGER Ernst (SUI),GULDE Josef (SUI),211.0,1238.0,AUT,TCH
+1954.0,19 Jun 1954 - 17:10 ,Group 1,Charmilles,Geneva ,France,3.0,2.0,Mexico, ,19000.0,1.0,0.0,ASENSI Manuel (ESP),FRANKEN Laurent (BEL),BAUMBERGER Rene (SUI),211.0,1275.0,FRA,MEX
+1954.0,19 Jun 1954 - 17:00 ,Group 1,La Pontaise,Lausanne ,Brazil,1.0,1.0,Yugoslavia, ,24637.0,0.0,0.0,FAULTLESS Charlie (SCO),ELLIS Arthur (ENG),VON GUNTER Albert (SUI),211.0,1252.0,BRA,YUG
+1954.0,20 Jun 1954 - 16:50 ,Group 2,St. Jakob,Basel ,Hungary,8.0,3.0,Germany FR, ,56000.0,3.0,1.0,LING William (ENG),SCHICKER Werner (SUI),GRIFFITHS Benjamin (WAL),211.0,1277.0,HUN,FRG
+1954.0,20 Jun 1954 - 17:00 ,Group 2,Charmilles,Geneva ,Turkey,7.0,0.0,Korea Republic, ,4000.0,4.0,0.0,MARINO Esteban (URU),ORLANDINI Vincenzo (ITA),SCHONHOLZER Ernest (SUI),211.0,1304.0,TUR,KOR
+1954.0,20 Jun 1954 - 17:10 ,Group 4,Wankdorf Stadium,Berne ,England,2.0,0.0,Switzerland, ,43500.0,1.0,0.0,ZSOLT Istvan (HUN),DA COSTA VIEIRA Jose (POR),STEFANOVIC Vasa (YUG),211.0,1263.0,ENG,SUI
+1954.0,20 Jun 1954 - 17:00 ,Group 4,Comunale di Cornaredo,Lugano ,Italy,4.0,1.0,Belgium, ,24000.0,1.0,0.0,STEINER Carl (AUT),VINCENTI Raymond (FRA),SCHMETZER Emil (FRG),211.0,1243.0,ITA,BEL
+1954.0,23 Jun 1954 - 18:00 ,Group 2,Hardturm,Zurich ,Germany FR,7.0,2.0,Turkey, ,17000.0,3.0,1.0,VINCENTI Raymond (FRA),FAULTLESS Charlie (SCO),DOERFLINGER Ernst (SUI),211.0,1284.0,FRG,TUR
+1954.0,23 Jun 1954 - 18:00 ,Group 4,St. Jakob,Basel ,Switzerland,4.0,1.0,Italy, ,30000.0,1.0,0.0,GRIFFITHS Benjamin (WAL),DA COSTA VIEIRA Jose (POR),LING William (ENG),211.0,1301.0,SUI,ITA
+1954.0,26 Jun 1954 - 17:00 ,Quarter-finals,St. Jakob,Basel ,Uruguay,4.0,2.0,England, ,28000.0,2.0,1.0,STEINER Carl (AUT),STEFANOVIC Vasa (YUG),ORLANDINI Vincenzo (ITA),212.0,1264.0,URU,ENG
+1954.0,26 Jun 1954 - 17:00 ,Quarter-finals,La Pontaise,Lausanne ,Austria,7.0,5.0,Switzerland, ,35000.0,5.0,4.0,FAULTLESS Charlie (SCO),ASENSI Manuel (ESP),SCHMETZER Emil (FRG),212.0,1237.0,AUT,SUI
+1954.0,27 Jun 1954 - 17:00 ,Quarter-finals,Charmilles,Geneva ,Germany FR,2.0,0.0,Yugoslavia, ,17000.0,1.0,0.0,ZSOLT Istvan (HUN),FRANKEN Laurent (BEL),BUCHMUELLER Fritz (SUI),212.0,1285.0,FRG,YUG
+1954.0,27 Jun 1954 - 17:00 ,Quarter-finals,Wankdorf Stadium,Berne ,Hungary,4.0,2.0,Brazil, ,40000.0,2.0,1.0,ELLIS Arthur (ENG),LING William (ENG),WYSSLING Paul (SUI),212.0,1248.0,HUN,BRA
+1954.0,30 Jun 1954 - 18:00 ,Semi-finals,St. Jakob,Basel ,Germany FR,6.0,1.0,Austria, ,58000.0,1.0,0.0,ORLANDINI Vincenzo (ITA),ELLIS Arthur (ENG),BUCHMUELLER Fritz (SUI),462.0,1233.0,FRG,AUT
+1954.0,30 Jun 1954 - 18:00 ,Semi-finals,La Pontaise,Lausanne ,Hungary,4.0,2.0,Uruguay,Hungary win after extra time ,45000.0,0.0,0.0,GRIFFITHS Benjamin (WAL),FAULTLESS Charlie (SCO),VINCENTI Raymond (FRA),462.0,1295.0,HUN,URU
+1954.0,03 Jul 1954 - 17:00 ,Match for third place,Hardturm,Zurich ,Austria,3.0,1.0,Uruguay, ,32000.0,1.0,1.0,WYSSLING Paul (SUI),ZSOLT Istvan (HUN),ELLIS Arthur (ENG),3485.0,1239.0,AUT,URU

@@ -67,8 +67,10 @@ def clean_kaggle_dataset(dataset):
 
     clean_dataset["title"] = dataset.get("title", "")
     clean_dataset["url"] = base_url+dataset.get("ref", "")
+    clean_dataset["ref"] = dataset.get("ref", "")
     clean_dataset["description"] = dataset.get(
         "description", f"{clean_dataset['title']} \n {dataset.get('subtitle','')}")
+    clean_dataset["ref"] = dataset.get("ref", "")
     clean_dataset["totalBytes"] = int(dataset.get("totalBytes", 0))
     clean_dataset["creation_date"] = dataset.get("lastUpdated", formatted_date)
     clean_dataset["source"] = source

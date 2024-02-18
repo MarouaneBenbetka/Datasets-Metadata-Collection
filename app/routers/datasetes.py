@@ -1,7 +1,11 @@
 from fastapi import APIRouter, Request, HTTPException, Query
+from fastapi.responses import FileResponse
 from typing import Optional, List
 from ..db_config import run_query
 from ..utils.jwt import verify_token
+from ..utils.dataset_files import find_csv_in_folder
+import os
+
 
 router = APIRouter()
 
@@ -142,17 +146,39 @@ async def get_dataset(dataset_id: int):
             status_code=500, detail="An error occurred while fetching the dataset details.")
 
 
-#  dataset_json = {
-#             "id": first_row["id"],
-#             "title": first_row["title"],
-#             "url": first_row["url"],
-#             "description": first_row["description"],
-#             "license": {
-#                 "name": first_row.get("license_name"),
-#                 "url": first_row.get("license_url")
-#             },
-#             "owner": {
-#                 "name": first_row.get("owner_name"),
-#                 "profile_url": first_row.get("profile_url")
-#             }
-#         }
+@router.get("/datasets/{dataset_id}/file")
+async def get_dataset(dataset_id: int):
+
+    if not dataset_id:
+        raise HTTPException(status_code=400, detail="Invalid dataset ID")
+
+    query = f"""
+                SELECT
+                    d.ref as slug ,
+                    s.name as source_name
+                FROM datasets d
+                LEFT JOIN sources s ON d.source_id = s.id
+                WHERE
+                    d.id = {dataset_id} 
+
+            """
+    try:
+        print(dataset_id)
+        dataset_details = run_query(query)
+        if not dataset_details:
+            raise HTTPException(status_code=404, detail="Dataset not found")
+
+        slug = dataset_details[0]['slug']
+        print(slug)
+        source = dataset_details[0]['source_name'].lower()
+
+        csv_file_path = find_csv_in_folder(slug, source)
+
+        if csv_file_path:
+            return FileResponse(path=csv_file_path, filename=os.path.basename(csv_file_path), media_type='text/csv')
+        else:
+            raise HTTPException(status_code=404, detail="CSV file not found.")
+
+    except Exception as e:
+
+        raise HTTPException(status_code=404, detail="CSV file not found.")

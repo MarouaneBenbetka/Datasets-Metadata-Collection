@@ -3,10 +3,10 @@ from app.db_config import run_query
 
 CREATE_TABLES_SQL = """
 
-DROP SCHEMA public CASCADE;
-CREATE SCHEMA public;
-GRANT ALL ON SCHEMA public TO postgres;
-GRANT ALL ON SCHEMA public TO public;
+-- DROP SCHEMA public CASCADE;
+-- CREATE SCHEMA public;
+-- GRANT ALL ON SCHEMA public TO postgres;
+-- GRANT ALL ON SCHEMA public TO public;
 
 
 CREATE TYPE  sources_enum AS ENUM ('Github', 'Kaggle', 'UCI-ML-Repo' , 'Hugging Face' );
@@ -88,11 +88,10 @@ CREATE TABLE IF NOT EXISTS features (
     dataset_id INT REFERENCES datasets(id) ON DELETE CASCADE
 );
 
-CREATE TABLE IF NOT EXISTS notebooks (
+CREATE TABLE  notebooks (
     id SERIAL PRIMARY KEY,
     dataset_id INT REFERENCES datasets(id) ON DELETE CASCADE,
     ref VARCHAR(255),
-    url VARCHAR(255) ,
     author VARCHAR(255) ,
     last_run_time DATE,
     total_votes INT DEFAULT 0  CHECK (total_votes >= 0),
