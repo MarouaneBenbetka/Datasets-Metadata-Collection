@@ -133,8 +133,7 @@ async def get_dataset(dataset_id: int):
                     d.id, l.id, s.id;
             """
     try:
-        print(dataset_id)
-        print("check")
+
         dataset_details = run_query(query)
         if not dataset_details:
             raise HTTPException(status_code=404, detail="Dataset not found")
