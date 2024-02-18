@@ -75,6 +75,8 @@ uvicorn main:app --reload
 
 This command starts the server with live reloading enabled.
 
+---
+
 ## API Routes Overview
 
 After launching the API, you can access the Swagger UI documentation at `/docs` to explore the available routes, including:
@@ -91,8 +93,47 @@ After launching the API, you can access the Swagger UI documentation at `/docs` 
 
 -   Routes to **get datasets**, including detailed information and statistics.
 
-## Database Backup
+## Database Backup and SQL Resources
 
-Included in the project is a backup file to directly fill your database with initial data. Follow the instructions specific to your database management system to import this backup.
+Included in the project is a `sql` folder that contains various SQL resources for direct database interaction. This folder includes:
+
+-   **Backup File**: A comprehensive backup file to directly fill your database with initial data.
+-   **DDL Scripts**: Scripts for creating tables, indexes, stored procedures, views, and materialized views necessary for the application.
+-   **Sample Queries**: Some sample queries for testing and verification purposes after the database setup.
 
 ---
+
+## Unit Testing
+
+This project includes a series of unit tests designed to ensure the reliability and functionality of the API endpoints and database interactions. The tests are contained in the `unit_test.py` file. To run these tests, follow the instructions below:
+
+### Running the Unit Tests
+
+Ensure you have pytest installed in your virtual environment. If not, you can install it using pip:
+
+```
+pip install pytest
+```
+
+With pytest installed, navigate to your project directory in the terminal and execute the tests by running:
+
+```
+pytest unit_test.py -s
+```
+
+The `-s` flag is used to enable the display of print statements from within the test cases, which can be helpful for debugging and verification purposes.
+
+### Test Cases
+
+The `unit_test.py` file includes tests for:
+
+-   Validating the accessibility and functionality of the `/datasets`, `/datasets/{id}`, `/stats/sources`, and `/stats/tags` endpoints.
+-   Testing database connection error handling and query error handling through dependency overrides and fixture setup for simulating different database states.
+
+### Test Environment Configuration
+
+A pytest fixture named `setup_test_env` is used to temporarily configure environment variables for testing against a test database. This ensures that your production or development database is unaffected by the test runs.
+
+---
+
+To utilize the backup for initializing your database, follow the instructions specific to your database management system to import the backup file found within the `sql` folder.
