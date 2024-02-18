@@ -1,86 +1,98 @@
 # Datasets-Metadata-Collection
 
-For a FastAPI project utilizing PostgreSQL, you'll need to adjust the `requirements.txt` and `.env.example` to reflect the PostgreSQL setup. Here's an updated version of the README file including these adjustments:
+## Introduction
 
-## Description
+This project is a FastAPI application designed to simulate an ETL (Extract, Transform, Load) process by collecting data from four different sources: GitHub, Kaggle, Hugging Face, and the UCI Machine Learning Repository. It includes functionality for data extraction, cleaning, and loading into a PostgreSQL database, along with API routes to access datasets, detailed information about them, and some statistics about our data.
 
-This FastAPI project is designed to showcase a RESTful API service with PostgreSQL as its database backend. It includes features such as CRUD operations, authentication, and more.
+## Setup Instructions
 
-## Installation
+### 1. Create and Activate a Virtual Environment
 
-### Prerequisites
+Before you start, ensure you have Python 3.8 or higher installed on your system. Follow these steps to set up your virtual environment:
 
--   Python 3.8+
--   pip
--   PostgreSQL
+**Step 1:** Clone the project repository to your local machine.
 
-### Setup
+**Step 2:** Navigate to the project directory in your terminal.
 
-1. Clone the repository:
+**Step 3:** Create a virtual environment named `venv` by running:
 
-    ```bash
-    git clone <repository_url>
-    cd <repository_name>
-    ```
+```
+python -m venv venv
+```
 
-2. Install dependencies:
+**Step 4:** Activate the virtual environment:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+-   On Windows:
 
-3. Configure environment variables:
-    - Copy the `.env.example` file to a new file named `.env`.
-    - Modify the `.env` file with your specific configuration values for the PostgreSQL database and any other necessary settings.
+```
+.\venv\Scripts\activate
+```
 
-### Running the Application
+-   On macOS/Linux:
+
+```
+source venv/bin/activate
+```
+
+### 2. Install Dependencies
+
+With the virtual environment activated, install the project dependencies by running:
+
+```
+pip install -r requirements.txt
+```
+
+### 3. Configure Environment Variables
+
+Copy the `.env.example` file to a new file named `.env` and fill in the values:
+
+```plaintext
+# PostgreSQL database configuration
+HOST=<your-db-host>
+PORT=<your-db-port>
+DB_NAME=<your-db-name>
+DB_USERNAME=<your-db-username>
+DB_PASSWORD=<your-db-password>
+
+# Secret key for JWT token generation
+JWT_SECRET=<your-jwt-secret>
+
+# GitHub authentication token
+GITHUB_AUTH_TOKEN=<your-github-auth-token>
+
+# Kaggle API credentials
+KAGGLE_USERNAME=<your-kaggle-username>
+KAGGLE_KEY=<your-kaggle-key>
+```
+
+### 4. Launch the API
 
 Run the FastAPI application with the following command:
 
-```bash
+```
 uvicorn main:app --reload
 ```
 
-This command starts the application with live reloading enabled.
+This command starts the server with live reloading enabled.
 
-## Testing
+## API Routes Overview
 
-Run the unit tests with pytest:
+After launching the API, you can access the Swagger UI documentation at `/docs` to explore the available routes, including:
 
-```bash
-pytest
-```
+-   **/init-db**: Executes all necessary DDL commands to set up the database schema, including tables, indexes, stored procedures, views, and materialized views.
 
-Ensure you have pytest installed, or install it via pip:
+### ETL Routes
 
-```bash
-pip install pytest
-```
+-   **Extract Routes**: For extracting data from the specified sources.
+-   **Clean Routes**: For cleaning the extracted data.
+-   **Load Routes**: For loading the cleaned data into the database.
 
-## Requirements.txt
+### API Data Access Routes
 
-The `requirements.txt` file lists all the necessary project dependencies. For a project using FastAPI with PostgreSQL, your `requirements.txt` might look like this:
+-   Routes to **get datasets**, including detailed information and statistics.
 
-```
-fastapi==0.68.0
-uvicorn[standard]==0.15.0
-pytest==6.2.5
-python-dotenv==0.19.0
-psycopg2-binary==2.9.1
-SQLAlchemy==1.4.22
-```
+## Database Backup
 
-## .env.example File
+Included in the project is a backup file to directly fill your database with initial data. Follow the instructions specific to your database management system to import this backup.
 
-The `.env.example` file serves as a template for the required environment variables. For a project using PostgreSQL, your `.env.example` might include:
-
-```
-DATABASE_URL=postgresql://user:password@localhost/dbname
-SECRET_KEY=your_secret_key_here
-```
-
-Replace `user`, `password`, `localhost`, and `dbname` with your actual PostgreSQL database credentials.
-
-## Unit Tests with Pytest
-
-The `tests` directory should contain pytest unit tests for the application, structured to reflect the application's architecture. Each test file is typically named corresponding to the module it tests, for example, `test_main.py`.
+---
